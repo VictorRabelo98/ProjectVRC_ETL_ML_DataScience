@@ -1,0 +1,39 @@
+veiculo_id,marca,modelo,ano_fabricacao,cor,tipo_motor,potencia_cv,cilindradas,transmissao,tracao,preco_base,estoque,categoria
+1,Ferrari,488 GTB,2025,Amarelo,V6 Turbo,670,3.9,Automatizada,AWD,996818.8,1,Superesportivo
+2,Ferrari,F8 Tributo,2022,Laranja,V6 Turbo,720,3.9,Automatizada,AWD,1179100.27,2,Superesportivo
+3,Ferrari,Roma,2022,Vermelho,V6 Turbo,620,3.9,Automatizada,Traseira,988035.72,2,Gran Turismo
+4,Ferrari,Portofino,2023,Vermelho,V6 Turbo,600,3.9,Automatizada,AWD,850541.73,2,Conversível
+5,Ferrari,812 Superfast,2022,Cinza,V10,800,6.5,Automatizada,AWD,1573432.22,0,Gran Turismo
+6,Lamborghini,Huracán,2022,Vermelho,V8,640,5.2,Automatizada,AWD,1070115.22,2,Superesportivo
+7,Lamborghini,Aventador,2025,Cinza,V10,770,6.5,Automatizada,Traseira,2335382.83,2,Superesportivo
+8,Lamborghini,Urus,2024,Vermelho,V6 Turbo,650,4.0,Automatizada,AWD,1444815.07,1,SUV Esportivo
+9,Porsche,911 Carrera,2023,Dourado,V6,385,3.0,Manual,Traseira,597733.45,1,Esportivo
+10,Porsche,911 Turbo,2023,Cinza,V6 Turbo,580,3.8,Automática,AWD,954375.44,1,Superesportivo
+11,Porsche,718 Cayman,2024,Laranja,Turbo 4 cilindros,300,2.0,Manual,AWD,403995.51,3,Esportivo
+12,Porsche,718 Boxster,2022,Dourado,Turbo 4 cilindros,300,2.0,Automatizada,Traseira,387551.62,1,Conversível
+13,Porsche,Panamera,2024,Preto,V6,330,3.0,Automática,Traseira,690853.08,1,Gran Turismo
+14,Porsche,Taycan,2023,Laranja,Elétrico,560,0.0,Automatizada,Traseira,699162.58,2,Esportivo Elétrico
+15,McLaren,720S,2023,Dourado,V6 Turbo,720,4.0,Automatizada,Traseira,1421678.55,2,Superesportivo
+16,McLaren,GT,2023,Laranja,V6 Turbo,620,4.0,Automatizada,Traseira,1194059.32,2,Gran Turismo
+17,McLaren,Artura,2025,Preto,V6 Turbo,680,3.0,Automatizada,Traseira,1368735.65,2,Superesportivo Híbrido
+18,Aston Martin,Vantage,2024,Cinza,V6 Turbo,510,4.0,Manual,Traseira,910049.27,4,Esportivo
+19,Aston Martin,DB11,2022,Branco,V8,630,5.2,Automática,Traseira,1128303.62,2,Gran Turismo
+20,Aston Martin,DBS Superleggera,2025,Laranja,V8,725,5.2,Automatizada,Traseira,1855844.34,2,Superesportivo
+21,Chevrolet,Corvette C8,2023,Laranja,V10,495,6.2,Manual,Traseira,485859.26,4,Esportivo
+22,Chevrolet,Camaro SS,2024,Amarelo,V10,455,6.2,Manual,Traseira,394476.79,3,Muscle Car
+23,Chevrolet,Camaro ZL1,2024,Verde,V10,650,6.2,Manual,Traseira,577811.38,4,Muscle Car
+24,Ford,Mustang GT,2024,Dourado,V8,460,5.0,Automática,Traseira,457270.5,5,Muscle Car
+25,Ford,Mustang Shelby GT500,2023,Verde,V8,760,5.2,Manual,Traseira,714936.84,3,Muscle Car
+26,Dodge,Challenger SRT Hellcat,2024,Cinza,V10,717,6.2,Automatizada,Traseira,608230.24,4,Muscle Car
+27,Dodge,Charger SRT Hellcat,2022,Vermelho,V10,707,6.2,Automatizada,Traseira,527502.98,5,Muscle Car
+28,BMW,M3 Competition,2022,Laranja,V6 Turbo,510,3.0,Automática,AWD,580117.69,1,Esportivo
+29,BMW,M4 Competition,2024,Prata,V6 Turbo,510,3.0,Automática,AWD,714478.97,1,Esportivo
+30,BMW,M5 Competition,2024,Laranja,V6 Turbo,625,4.4,Manual,Traseira,933892.58,1,Esportivo
+31,BMW,M8 Competition,2022,Cinza,V6 Turbo,625,4.4,Automatizada,Traseira,907976.06,2,Gran Turismo
+32,Mercedes-AMG,GT,2024,Amarelo,V6 Turbo,530,4.0,Manual,Traseira,861074.12,2,Esportivo
+33,Mercedes-AMG,GT R,2024,Azul,V6 Turbo,585,4.0,Automática,AWD,1054014.99,2,Superesportivo
+34,Mercedes-AMG,C63 S,2023,Preto,V6 Turbo,510,4.0,Manual,AWD,642549.17,4,Esportivo
+35,Mercedes-AMG,E63 S,2023,Cinza,V6 Turbo,612,4.0,Manual,Traseira,789482.59,5,Esportivo
+36,Audi,R8 V10,2024,Vermelho,V8,570,5.2,Manual,Traseira,1364185.41,2,Superesportivo
+37,Audi,RS5,2025,Preto,Turbo 4 cilindros,450,2.9,Automática,AWD,617849.93,3,Esportivo
+38,Audi,RS7,2024,Verde,V6 Turbo,600,4.0,Automatizada,AWD,895412.44,1,Gran Turismo

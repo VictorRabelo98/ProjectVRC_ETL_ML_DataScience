@@ -1,0 +1,1978 @@
+cliente_id,nome,idade,renda_anual,total_compras,valor_total_gasto,cluster,cluster_nome
+1,Brenda Alves,47,442980.71,1,1991354.8499999999,1,🌟 Alto Valor
+2,Thiago Pereira,38,2024137.64,0,0.0,3,🆕 Novos/Inativos
+3,Dr. Eduardo Cunha,41,821493.12,0,0.0,3,🆕 Novos/Inativos
+4,Yuri da Rocha,43,1167394.82,0,0.0,0,💎 VIP Premium
+5,Léo Fogaça,37,553565.77,0,0.0,3,🆕 Novos/Inativos
+6,Hellena Rodrigues,33,269216.99,0,0.0,3,🆕 Novos/Inativos
+7,Natália Casa Grande,57,592368.83,0,0.0,3,🆕 Novos/Inativos
+8,Ayla Sá,38,445086.85,1,1112893.23,3,🆕 Novos/Inativos
+9,Yuri Albuquerque,33,292997.96,0,0.0,0,💎 VIP Premium
+10,Thiago Caldeira,41,408656.34,1,1260552.96,1,🌟 Alto Valor
+11,Luiz Miguel das Neves,39,691777.59,1,1947000.72,1,🌟 Alto Valor
+12,João Moura,46,1540285.67,1,1318900.3,0,💎 VIP Premium
+13,Benício Fernandes,34,139117.87,0,0.0,3,🆕 Novos/Inativos
+14,Isabela da Mota,28,257956.82,0,0.0,0,💎 VIP Premium
+15,Pedro Fogaça,38,1494742.92,2,1945927.02,1,🌟 Alto Valor
+16,Melissa Carvalho,51,276391.59,0,0.0,3,🆕 Novos/Inativos
+17,Enzo Jesus,43,765233.81,1,1211959.58,1,🌟 Alto Valor
+18,Dra. Raquel Cassiano,47,1205996.76,2,5955688.11,1,🌟 Alto Valor
+19,Vitória Castro,28,418531.04,0,0.0,0,💎 VIP Premium
+20,Ana Cecília Pinto,47,1322101.89,1,860133.19,1,🌟 Alto Valor
+21,Sr. Anthony Marques,46,921199.22,0,0.0,0,💎 VIP Premium
+22,Ísis Santos,34,178369.88,0,0.0,3,🆕 Novos/Inativos
+23,Giovanna Silva,30,419536.24,0,0.0,3,🆕 Novos/Inativos
+24,Julia Castro,45,1326507.49,1,837837.42,1,🌟 Alto Valor
+25,Clara Lopes,37,587961.91,1,581355.55,0,💎 VIP Premium
+26,Srta. Isabela Castro,28,659309.46,2,2995110.16,1,🌟 Alto Valor
+27,Guilherme Marques,35,828788.26,1,2774333.9,1,🌟 Alto Valor
+28,Zoe Farias,53,492680.62,0,0.0,0,💎 VIP Premium
+29,Sophia Camargo,56,869722.61,1,3911256.0,1,🌟 Alto Valor
+30,Luísa Pinto,34,409644.31,0,0.0,0,💎 VIP Premium
+31,Emanuella Pimenta,35,697633.33,0,0.0,0,💎 VIP Premium
+32,Hadassa Moraes,43,2080973.8,2,15742286.799999999,2,📈 Em Crescimento
+33,Gael Henrique Casa Grande,46,698790.4,0,0.0,3,🆕 Novos/Inativos
+34,Isabelly Casa Grande,37,1361196.28,2,2404891.23,1,🌟 Alto Valor
+35,Ravi Rios,51,978637.63,0,0.0,3,🆕 Novos/Inativos
+36,Isabella da Mota,53,1077569.91,0,0.0,0,💎 VIP Premium
+37,Daniela Santos,40,1418070.81,0,0.0,0,💎 VIP Premium
+38,Srta. Maria Helena Mendes,50,634482.78,0,0.0,0,💎 VIP Premium
+39,Ana Gomes,33,398973.7,0,0.0,0,💎 VIP Premium
+40,Mariane Carvalho,47,1708460.59,3,10522989.360000001,2,📈 Em Crescimento
+41,Bruno Melo,33,234155.24,0,0.0,3,🆕 Novos/Inativos
+42,Isaque Cardoso,30,281409.63,1,366271.7,3,🆕 Novos/Inativos
+43,Cauê Pacheco,29,422531.73,1,513049.4,3,🆕 Novos/Inativos
+44,Luiz Felipe Nascimento,45,365575.59,2,1358024.7999999998,1,🌟 Alto Valor
+45,Srta. Maya Cavalcanti,41,1006903.95,1,3359724.7199999997,1,🌟 Alto Valor
+46,Maria Helena Fernandes,31,176177.45,0,0.0,3,🆕 Novos/Inativos
+47,Valentim Correia,50,320490.14,0,0.0,3,🆕 Novos/Inativos
+48,Isabelly das Neves,46,1201412.29,1,2236340.96,1,🌟 Alto Valor
+49,Gael Dias,37,453932.84,0,0.0,0,💎 VIP Premium
+50,Gael da Rocha,37,449301.02,0,0.0,3,🆕 Novos/Inativos
+51,Rebeca Caldeira,50,1073677.52,2,1413608.3399999999,1,🌟 Alto Valor
+52,Rebeca Barbosa,51,562118.54,0,0.0,3,🆕 Novos/Inativos
+53,Vicente Garcia,48,1595204.34,0,0.0,3,🆕 Novos/Inativos
+54,Bruno Castro,37,1474207.53,2,5855462.0600000005,1,🌟 Alto Valor
+55,João Miguel Sampaio,45,1178746.72,1,785366.25,1,🌟 Alto Valor
+56,Brayan Araújo,59,718454.54,1,2097211.8,1,🌟 Alto Valor
+57,Ágatha Monteiro,47,635970.17,1,596992.43,1,🌟 Alto Valor
+58,João Felipe Oliveira,39,971054.48,0,0.0,0,💎 VIP Premium
+59,Dr. Lucas Gabriel Duarte,37,793660.06,0,0.0,3,🆕 Novos/Inativos
+60,Sr. Nathan Moraes,31,378933.91,1,2617504.16,1,🌟 Alto Valor
+61,João Felipe Novaes,49,324622.37,0,0.0,3,🆕 Novos/Inativos
+62,Maria Luísa Borges,46,749843.54,2,4521141.0600000005,1,🌟 Alto Valor
+63,Clara Gomes,44,1706294.64,2,7585108.24,2,📈 Em Crescimento
+64,Rebeca Cassiano,31,387129.93,0,0.0,3,🆕 Novos/Inativos
+65,Isabel Vasconcelos,61,597991.66,0,0.0,0,💎 VIP Premium
+66,Sr. Pedro Lucas Brito,27,297472.48,0,0.0,0,💎 VIP Premium
+67,Dr. Liam Pires,27,135721.87,0,0.0,3,🆕 Novos/Inativos
+68,Kaique Alves,53,1211666.71,0,0.0,3,🆕 Novos/Inativos
+69,Erick Barros,32,651687.16,0,0.0,3,🆕 Novos/Inativos
+70,Laura Rocha,51,443786.06,0,0.0,3,🆕 Novos/Inativos
+71,Bianca da Costa,40,1094585.29,2,4967965.9,1,🌟 Alto Valor
+72,Sra. Laura Vasconcelos,34,531790.61,0,0.0,0,💎 VIP Premium
+73,Maria Clara Siqueira,35,1488668.61,2,5478040.62,1,🌟 Alto Valor
+74,José Miguel Mendes,40,1083061.26,0,0.0,3,🆕 Novos/Inativos
+75,Camila Marques,36,958533.83,3,12312948.520000001,2,📈 Em Crescimento
+76,Benício Porto,37,1689817.77,0,0.0,3,🆕 Novos/Inativos
+77,Vitor Gabriel Carvalho,29,176567.99,0,0.0,3,🆕 Novos/Inativos
+78,Arthur Gabriel Sales,31,400320.03,0,0.0,3,🆕 Novos/Inativos
+79,Rafael Borges,43,499266.59,0,0.0,0,💎 VIP Premium
+80,Lucas Vasconcelos,61,1040620.77,1,3676174.76,1,🌟 Alto Valor
+81,Lorenzo Almeida,42,493552.19,0,0.0,0,💎 VIP Premium
+82,Rael Montenegro,59,658872.04,4,19941002.459999993,2,📈 Em Crescimento
+83,Melina Barbosa,44,477119.8,1,696296.01,1,🌟 Alto Valor
+84,Rafael Montenegro,41,650806.6,0,0.0,3,🆕 Novos/Inativos
+85,Maria Vitória Siqueira,48,475451.63,0,0.0,3,🆕 Novos/Inativos
+86,Marcelo Cardoso,32,346942.03,0,0.0,0,💎 VIP Premium
+87,Thiago Cunha,29,215422.31,0,0.0,3,🆕 Novos/Inativos
+88,Amanda Pereira,38,1010530.83,1,2124360.33,1,🌟 Alto Valor
+89,Arthur Borges,46,1255557.95,0,0.0,3,🆕 Novos/Inativos
+90,Emanuel Sá,45,851344.67,0,0.0,3,🆕 Novos/Inativos
+91,Luiz Felipe Lopes,50,358250.51,0,0.0,0,💎 VIP Premium
+92,Davi Miguel Teixeira,32,174127.83,1,1470016.58,1,🌟 Alto Valor
+93,Maria Barbosa,54,983515.11,2,1796879.28,1,🌟 Alto Valor
+94,Danilo Guerra,33,228510.65,0,0.0,3,🆕 Novos/Inativos
+95,Anna Liz Gonçalves,40,454187.3,0,0.0,3,🆕 Novos/Inativos
+96,Cauã Casa Grande,57,704952.24,0,0.0,3,🆕 Novos/Inativos
+97,Dr. Dom Macedo,59,579624.14,1,1734553.9,1,🌟 Alto Valor
+98,Ana Carolina Araújo,34,278330.64,0,0.0,3,🆕 Novos/Inativos
+99,Esther Duarte,40,1340399.9,0,0.0,0,💎 VIP Premium
+100,Valentina Moreira,46,407920.19,0,0.0,3,🆕 Novos/Inativos
+101,Maria Isis da Paz,31,396831.65,0,0.0,0,💎 VIP Premium
+102,Luísa Cardoso,40,1453661.84,0,0.0,3,🆕 Novos/Inativos
+103,Davi Miguel Cassiano,42,1679810.2,1,4207457.67,1,🌟 Alto Valor
+104,Fernando Sales,31,220513.47,0,0.0,3,🆕 Novos/Inativos
+105,Ravy Correia,56,387532.98,1,1475858.76,1,🌟 Alto Valor
+106,Rafaela Freitas,42,739469.61,1,575418.74,1,🌟 Alto Valor
+107,Rael Ferreira,42,652896.58,1,1683055.48,1,🌟 Alto Valor
+108,Lucas Gabriel Vieira,45,746291.64,2,5491130.76,1,🌟 Alto Valor
+109,Dom Novaes,27,243253.84,0,0.0,3,🆕 Novos/Inativos
+110,Theo Peixoto,28,195466.59,0,0.0,0,💎 VIP Premium
+111,Ester Rios,30,390597.14,0,0.0,0,💎 VIP Premium
+112,Maria Julia Freitas,32,470869.87,0,0.0,3,🆕 Novos/Inativos
+113,Emanuella Vasconcelos,29,299839.21,0,0.0,3,🆕 Novos/Inativos
+114,Levi das Neves,26,144475.42,0,0.0,0,💎 VIP Premium
+115,Maria Liz Souza,29,253544.73,0,0.0,0,💎 VIP Premium
+116,Emilly Nogueira,34,563502.98,1,1794776.72,1,🌟 Alto Valor
+117,Luiz Gustavo Pimenta,48,1113002.23,1,1173204.77,1,🌟 Alto Valor
+118,Davi Lucas Azevedo,59,887491.49,0,0.0,3,🆕 Novos/Inativos
+119,Davi Miguel Moura,63,625878.21,0,0.0,3,🆕 Novos/Inativos
+120,Pietro Cunha,41,660949.09,1,805620.95,1,🌟 Alto Valor
+121,Lavínia da Rosa,52,1292439.66,4,17579947.9,2,📈 Em Crescimento
+122,Maria Eduarda Martins,60,995758.91,1,2777834.94,1,🌟 Alto Valor
+123,Ana Sophia Machado,44,1013230.97,4,7803197.279999998,2,📈 Em Crescimento
+124,Daniela da Rosa,47,657706.17,0,0.0,3,🆕 Novos/Inativos
+125,Kevin Pimenta,27,357745.71,0,0.0,3,🆕 Novos/Inativos
+126,Bruno Aparecida,27,386266.46,1,761461.42,3,🆕 Novos/Inativos
+127,Ana Sophia Sales,43,1050732.86,1,4150550.2,1,🌟 Alto Valor
+128,Caroline Teixeira,42,1243622.43,0,0.0,3,🆕 Novos/Inativos
+129,Matheus Pimenta,36,1061394.56,0,0.0,3,🆕 Novos/Inativos
+130,Theo Almeida,59,1179144.71,0,0.0,3,🆕 Novos/Inativos
+131,Olivia da Paz,36,847244.9,0,0.0,3,🆕 Novos/Inativos
+132,Luiz Miguel Novaes,40,1146163.62,0,0.0,3,🆕 Novos/Inativos
+133,Dr. Diego Costa,43,1344155.26,2,5080228.500000001,1,🌟 Alto Valor
+134,Luan Pimenta,58,336736.2,0,0.0,0,💎 VIP Premium
+135,Allana Freitas,47,1277750.05,1,905504.28,1,🌟 Alto Valor
+136,Eloá Moura,49,1095306.95,1,1803699.78,1,🌟 Alto Valor
+137,Gabrielly Jesus,50,990931.1,1,1830301.22,1,🌟 Alto Valor
+138,Raul Nascimento,63,343055.82,0,0.0,3,🆕 Novos/Inativos
+139,Srta. Rebeca Dias,32,233040.9,1,771150.22,3,🆕 Novos/Inativos
+140,Asafe da Paz,43,1072726.16,0,0.0,3,🆕 Novos/Inativos
+141,Isaque da Cruz,48,747567.4,1,1071548.83,0,💎 VIP Premium
+142,Eduarda Jesus,40,532718.44,1,883657.84,1,🌟 Alto Valor
+143,Oliver Cavalcanti,57,1383584.07,2,4597251.78,1,🌟 Alto Valor
+144,Ísis Moura,48,664529.86,0,0.0,0,💎 VIP Premium
+145,Sra. Laís Nunes,55,386350.72,0,0.0,0,💎 VIP Premium
+146,Luna da Cruz,40,838249.36,0,0.0,0,💎 VIP Premium
+147,Srta. Ana Liz Rios,33,332050.38,0,0.0,0,💎 VIP Premium
+148,Rhavi Cassiano,30,344505.73,0,0.0,3,🆕 Novos/Inativos
+149,Vitória Santos,30,478475.6,0,0.0,3,🆕 Novos/Inativos
+150,Bruna Rodrigues,49,676559.46,0,0.0,3,🆕 Novos/Inativos
+151,Nicole Rocha,34,299671.25,1,507835.03,3,🆕 Novos/Inativos
+152,Ravy Andrade,41,1512810.41,2,3941111.92,1,🌟 Alto Valor
+153,Marcela Campos,41,974053.32,1,1723701.76,1,🌟 Alto Valor
+154,Heloísa da Cruz,47,2170294.96,3,6570286.76,2,📈 Em Crescimento
+155,Arthur Gabriel Machado,35,828017.33,1,1239220.32,1,🌟 Alto Valor
+156,Dra. Luiza Oliveira,51,720624.99,0,0.0,0,💎 VIP Premium
+157,Mariane Novais,50,353776.17,0,0.0,3,🆕 Novos/Inativos
+158,Olívia da Costa,57,1072606.74,1,1350944.66,1,🌟 Alto Valor
+159,José Miguel Costela,61,854970.3,1,6180824.1899999995,1,🌟 Alto Valor
+160,Henrique Mendes,48,1502407.0,1,954343.7,0,💎 VIP Premium
+161,Luna Vasconcelos,46,774344.85,1,1822181.12,1,🌟 Alto Valor
+162,Sr. Léo Dias,57,303495.66,0,0.0,0,💎 VIP Premium
+163,Lucas da Conceição,42,415858.01,0,0.0,3,🆕 Novos/Inativos
+164,Yago Mendonça,27,350087.96,0,0.0,0,💎 VIP Premium
+165,Srta. Alexia Cunha,33,471771.03,0,0.0,3,🆕 Novos/Inativos
+166,Antony Moura,37,290568.07,0,0.0,3,🆕 Novos/Inativos
+167,Isis Fogaça,34,201840.55,0,0.0,0,💎 VIP Premium
+168,Maria Flor Novaes,37,1574789.33,3,7077470.129999999,2,📈 Em Crescimento
+169,Heitor Sales,37,1252955.2,1,1793979.1,1,🌟 Alto Valor
+170,Miguel Barbosa,51,835093.0,0,0.0,3,🆕 Novos/Inativos
+171,Pedro Henrique da Conceição,37,949434.35,2,4829840.25,1,🌟 Alto Valor
+172,Mateus Barros,37,1307805.87,2,3847986.58,1,🌟 Alto Valor
+173,Pedro Miguel Fonseca,40,1334934.55,4,21109299.29999999,2,📈 Em Crescimento
+174,Sr. Luan Gomes,61,881037.51,2,1922949.58,1,🌟 Alto Valor
+175,Kevin da Mata,41,1287608.42,1,1349746.24,1,🌟 Alto Valor
+176,Dra. Sabrina Peixoto,43,841031.51,2,10204210.679999998,2,📈 Em Crescimento
+177,Catarina da Rosa,34,424175.34,1,723071.16,3,🆕 Novos/Inativos
+178,Maria Clara Camargo,27,547020.98,0,0.0,3,🆕 Novos/Inativos
+179,Kevin da Costa,36,1426225.03,1,2677309.41,1,🌟 Alto Valor
+180,Luiz Miguel Sampaio,36,452533.12,1,2027012.16,1,🌟 Alto Valor
+181,Carlos Eduardo da Luz,43,1266896.93,1,1802599.46,1,🌟 Alto Valor
+182,Dra. Clarice Ferreira,45,307448.44,0,0.0,3,🆕 Novos/Inativos
+183,Rafaela Ferreira,36,712544.09,0,0.0,0,💎 VIP Premium
+184,Eloah Sousa,27,358907.95,0,0.0,0,💎 VIP Premium
+185,Marina Gonçalves,39,1638839.66,5,20481332.150000006,2,📈 Em Crescimento
+186,Bella Nascimento,30,544159.97,0,0.0,0,💎 VIP Premium
+187,Bruna Ferreira,31,287209.46,0,0.0,3,🆕 Novos/Inativos
+188,Fernando Freitas,50,646884.43,0,0.0,3,🆕 Novos/Inativos
+189,Dra. Emanuella Novais,48,1482808.72,0,0.0,0,💎 VIP Premium
+190,Matheus Novais,58,1128594.34,0,0.0,3,🆕 Novos/Inativos
+191,João Guilherme Câmara,35,315261.45,1,2765605.2,1,🌟 Alto Valor
+192,Ana Cecília Teixeira,50,413935.21,0,0.0,3,🆕 Novos/Inativos
+193,Isaac Costela,43,912573.19,1,7302478.44,1,🌟 Alto Valor
+194,Lorenzo Santos,53,544073.56,0,0.0,0,💎 VIP Premium
+195,Sra. Isadora Teixeira,35,1706452.37,2,3294510.0999999996,1,🌟 Alto Valor
+196,Sra. Mirella Mendonça,48,541393.72,0,0.0,0,💎 VIP Premium
+197,Dr. Lucca Novaes,58,607275.81,1,5091944.5,1,🌟 Alto Valor
+198,Paulo Costa,34,260941.23,0,0.0,0,💎 VIP Premium
+199,Dra. Isabel Lima,47,512668.78,1,2202323.48,1,🌟 Alto Valor
+200,Luigi Campos,28,205370.65,0,0.0,0,💎 VIP Premium
+201,Mateus Vasconcelos,41,680695.56,2,3086641.7699999996,1,🌟 Alto Valor
+202,Melina Cunha,44,1227187.98,0,0.0,0,💎 VIP Premium
+203,Antonella da Cruz,53,679662.52,1,1141369.06,1,🌟 Alto Valor
+204,Brenda da Costa,47,410254.31,0,0.0,3,🆕 Novos/Inativos
+205,Emanuella Teixeira,50,891012.26,1,2834480.96,1,🌟 Alto Valor
+206,Laura Pires,39,1689462.91,2,7189083.179999999,2,📈 Em Crescimento
+207,Gabrielly Cassiano,27,152898.26,0,0.0,0,💎 VIP Premium
+208,Ana Laura das Neves,60,297279.3,1,1204560.22,1,🌟 Alto Valor
+209,Sr. João Felipe Siqueira,35,1268151.15,2,5119112.370000001,1,🌟 Alto Valor
+210,Maria Cecília Araújo,28,263427.26,0,0.0,0,💎 VIP Premium
+211,Joaquim Aparecida,53,309307.41,0,0.0,3,🆕 Novos/Inativos
+212,Breno Oliveira,60,418545.1,0,0.0,3,🆕 Novos/Inativos
+213,Yuri Marques,50,360472.8,0,0.0,0,💎 VIP Premium
+214,Yago Teixeira,42,653252.64,1,3266822.76,1,🌟 Alto Valor
+215,Gustavo Moura,27,418192.72,1,768561.3,1,🌟 Alto Valor
+216,Srta. Aylla Montenegro,44,1248771.96,1,1470648.16,1,🌟 Alto Valor
+217,Lunna Dias,51,843069.8,3,9514251.84,2,📈 Em Crescimento
+218,Dr. Dante Nascimento,34,613680.95,2,2239199.02,1,🌟 Alto Valor
+219,Caleb Silva,37,587193.05,0,0.0,3,🆕 Novos/Inativos
+220,Calebe Martins,46,681365.6,0,0.0,3,🆕 Novos/Inativos
+221,Joana Barbosa,38,723131.13,0,0.0,3,🆕 Novos/Inativos
+222,Marina Silveira,56,335394.07,0,0.0,3,🆕 Novos/Inativos
+223,Joaquim Ramos,45,416554.45,1,2259473.64,1,🌟 Alto Valor
+224,Ísis Vieira,49,2049239.29,2,1822406.6199999999,1,🌟 Alto Valor
+225,Liam Peixoto,60,432676.72,1,347633.8,3,🆕 Novos/Inativos
+226,Isabella da Mata,46,1579897.26,0,0.0,3,🆕 Novos/Inativos
+227,Luiz Gustavo Nunes,60,724156.99,0,0.0,0,💎 VIP Premium
+228,Vinicius Mendes,34,387008.75,0,0.0,3,🆕 Novos/Inativos
+229,Maria Clara Barbosa,44,808247.14,0,0.0,0,💎 VIP Premium
+230,Dra. Maria Alice Câmara,43,869614.55,1,1218400.06,1,🌟 Alto Valor
+231,Luiza Pimenta,51,709224.09,0,0.0,3,🆕 Novos/Inativos
+232,João Costela,39,834600.2,6,38101528.800000004,2,📈 Em Crescimento
+233,Marcela Nogueira,55,657454.77,2,3145951.86,1,🌟 Alto Valor
+234,Brayan Fernandes,30,531868.51,2,3043799.8800000004,1,🌟 Alto Valor
+235,Eloah Pereira,46,588941.17,3,10961607.25,2,📈 Em Crescimento
+236,Calebe Aragão,39,548393.23,0,0.0,0,💎 VIP Premium
+237,Calebe Alves,50,823051.1,0,0.0,3,🆕 Novos/Inativos
+238,Ísis Gomes,55,902158.48,1,2113988.54,1,🌟 Alto Valor
+239,Ana Liz Cassiano,34,207316.51,0,0.0,0,💎 VIP Premium
+240,Olívia Oliveira,41,1857179.33,1,2051082.2999999998,1,🌟 Alto Valor
+241,Emanuella Cavalcante,51,1051692.12,1,3878334.72,1,🌟 Alto Valor
+242,Mathias Novais,51,214690.04,0,0.0,3,🆕 Novos/Inativos
+243,Diogo Nunes,46,1718460.75,1,1292724.28,1,🌟 Alto Valor
+244,Erick da Mota,61,1060058.62,3,10258014.72,2,📈 Em Crescimento
+245,Lucca Vieira,43,779898.98,1,1780647.96,1,🌟 Alto Valor
+246,Aurora Correia,29,452090.9,0,0.0,3,🆕 Novos/Inativos
+247,Catarina Vasconcelos,33,202343.35,0,0.0,3,🆕 Novos/Inativos
+248,Sofia Gonçalves,48,942519.57,0,0.0,0,💎 VIP Premium
+249,Sr. José Pedro Souza,28,384049.68,1,636068.43,3,🆕 Novos/Inativos
+250,Alícia Vasconcelos,33,404511.58,0,0.0,3,🆕 Novos/Inativos
+251,Marcela Marques,31,460024.49,1,1276972.84,1,🌟 Alto Valor
+252,Larissa da Rosa,55,255225.14,0,0.0,0,💎 VIP Premium
+253,Nathan Ribeiro,51,327416.6,1,377869.32,3,🆕 Novos/Inativos
+254,Dra. Hellena Rodrigues,49,2176887.36,2,7193496.640000001,2,📈 Em Crescimento
+255,Dra. Emilly Rodrigues,28,407291.18,0,0.0,3,🆕 Novos/Inativos
+256,Ana Júlia Porto,56,382662.1,1,572842.2,1,🌟 Alto Valor
+257,Dr. Raul Casa Grande,44,1402393.06,3,2991246.68,1,🌟 Alto Valor
+258,Samuel Viana,30,353220.11,0,0.0,3,🆕 Novos/Inativos
+259,Sra. Alice Duarte,45,1570181.89,2,5960218.300000001,1,🌟 Alto Valor
+260,Enzo Azevedo,52,818828.58,1,3786316.52,1,🌟 Alto Valor
+261,Enzo Guerra,43,593679.57,1,3375087.8,1,🌟 Alto Valor
+262,Jade Vargas,38,1245443.95,4,20563544.160000004,2,📈 Em Crescimento
+263,Renan Sampaio,37,1616723.61,5,22956837.96,2,📈 Em Crescimento
+264,Bella Moraes,40,1750068.6,1,1310510.34,1,🌟 Alto Valor
+265,Enrico Aparecida,35,1797768.92,3,4823992.88,2,📈 Em Crescimento
+266,Thomas Barbosa,33,534060.24,0,0.0,3,🆕 Novos/Inativos
+267,Luara Lima,35,1356842.48,2,5585125.699999999,1,🌟 Alto Valor
+268,Sr. Danilo Guerra,57,1116092.77,2,2398059.48,1,🌟 Alto Valor
+269,Rafaela Nunes,38,1248505.85,3,13383725.959999999,2,📈 Em Crescimento
+270,Benício da Luz,59,342099.75,0,0.0,0,💎 VIP Premium
+271,Isadora Mendes,44,1300530.79,0,0.0,3,🆕 Novos/Inativos
+272,Sr. Lucas da Mota,40,1086959.25,0,0.0,3,🆕 Novos/Inativos
+273,Melissa Dias,38,1373772.06,2,2812352.93,1,🌟 Alto Valor
+274,Liz Moraes,48,1354549.77,1,561092.4,0,💎 VIP Premium
+275,Sra. Bruna Brito,49,952176.95,0,0.0,3,🆕 Novos/Inativos
+276,Dra. Maria Luísa Caldeira,38,983660.14,2,7226090.880000001,2,📈 Em Crescimento
+277,Natália Ribeiro,37,1193056.94,0,0.0,3,🆕 Novos/Inativos
+278,Srta. Bella Gomes,60,757399.95,0,0.0,3,🆕 Novos/Inativos
+279,Sophie da Rosa,39,1826290.58,1,930484.43,0,💎 VIP Premium
+280,Pietra Pacheco,41,894064.63,1,2724220.44,1,🌟 Alto Valor
+281,Ana Laura Costa,30,382206.3,2,1611743.01,1,🌟 Alto Valor
+282,Heloisa Souza,42,1335122.24,2,10344871.3,2,📈 Em Crescimento
+283,Sra. Gabriela Pinto,27,247270.23,0,0.0,3,🆕 Novos/Inativos
+284,Ana Vitória Cirino,44,793925.14,0,0.0,0,💎 VIP Premium
+285,Lucas Martins,54,557143.32,1,933224.87,0,💎 VIP Premium
+286,Liam Moura,33,345987.88,0,0.0,3,🆕 Novos/Inativos
+287,Lucas Farias,48,1581771.4,1,1022281.07,1,🌟 Alto Valor
+288,Asafe Rodrigues,35,1713706.48,0,0.0,3,🆕 Novos/Inativos
+289,Juan Rezende,32,350815.52,0,0.0,3,🆕 Novos/Inativos
+290,Gustavo Nascimento,35,1184019.74,1,1769176.41,1,🌟 Alto Valor
+291,Brayan Oliveira,39,871910.69,1,2755079.82,1,🌟 Alto Valor
+292,Ana Luiza Sá,34,650826.98,0,0.0,0,💎 VIP Premium
+293,Ana Melo,35,412645.99,1,582610.79,3,🆕 Novos/Inativos
+294,Davi Aparecida,46,896982.91,0,0.0,3,🆕 Novos/Inativos
+295,Francisco Câmara,37,1146088.87,0,0.0,3,🆕 Novos/Inativos
+296,Carlos Eduardo Costa,38,1522342.83,0,0.0,3,🆕 Novos/Inativos
+297,Dr. Eduardo Nunes,32,287488.71,0,0.0,3,🆕 Novos/Inativos
+298,Melissa Fogaça,45,1376389.38,2,7523067.72,2,📈 Em Crescimento
+299,Srta. Allana Montenegro,48,318597.07,1,1119914.02,1,🌟 Alto Valor
+300,Heloisa Vargas,32,362491.91,0,0.0,3,🆕 Novos/Inativos
+301,Pietro Castro,28,405855.1,2,2396441.58,1,🌟 Alto Valor
+302,Asafe Rios,40,454793.42,0,0.0,3,🆕 Novos/Inativos
+303,Sra. Ísis Nunes,41,677661.33,1,1084898.64,1,🌟 Alto Valor
+304,Dr. Ryan Vieira,50,616049.82,1,1756577.1,1,🌟 Alto Valor
+305,Emanuel Fonseca,37,1312057.81,0,0.0,3,🆕 Novos/Inativos
+306,Joaquim Aparecida,54,709525.97,2,4450823.97,1,🌟 Alto Valor
+307,Allana Silveira,45,1173850.71,1,3273036.0,1,🌟 Alto Valor
+308,Sophia da Luz,39,636641.88,0,0.0,0,💎 VIP Premium
+309,Vicente Montenegro,32,288771.98,0,0.0,3,🆕 Novos/Inativos
+310,Caroline Pereira,27,572946.83,2,4513959.66,1,🌟 Alto Valor
+311,Beatriz Lima,29,416148.48,1,2683549.72,1,🌟 Alto Valor
+312,Stephany Campos,30,466294.09,0,0.0,3,🆕 Novos/Inativos
+313,Mariana Nunes,35,1425733.6,2,8638556.26,2,📈 Em Crescimento
+314,Luiz Felipe Vasconcelos,43,419540.7,0,0.0,3,🆕 Novos/Inativos
+315,Ana Júlia Castro,40,1660653.61,3,3388563.43,1,🌟 Alto Valor
+316,Arthur Miguel Silveira,50,1038173.98,1,1649473.58,1,🌟 Alto Valor
+317,Stella da Paz,44,1353517.63,1,2505184.92,1,🌟 Alto Valor
+318,Caio da Mota,40,1923614.21,2,2485596.3000000003,1,🌟 Alto Valor
+319,Dra. Marcela Ferreira,38,862224.21,1,855585.84,0,💎 VIP Premium
+320,Theodoro da Rocha,51,433707.28,0,0.0,3,🆕 Novos/Inativos
+321,Natália Pastor,44,1011019.41,1,2105498.07,1,🌟 Alto Valor
+322,João da Cruz,49,1169833.87,1,1350086.72,1,🌟 Alto Valor
+323,Dra. Esther Monteiro,39,640715.97,0,0.0,0,💎 VIP Premium
+324,Bruno Rocha,42,618190.15,0,0.0,3,🆕 Novos/Inativos
+325,Thomas da Mota,50,358556.79,1,1098220.52,1,🌟 Alto Valor
+326,Emanuella Marques,37,605814.43,0,0.0,3,🆕 Novos/Inativos
+327,Joana Cirino,64,1326660.0,0,0.0,0,💎 VIP Premium
+328,Lara Machado,37,602603.94,0,0.0,0,💎 VIP Premium
+329,Srta. Olívia Albuquerque,47,1499648.82,0,0.0,3,🆕 Novos/Inativos
+330,Beatriz Sales,33,328955.5,0,0.0,3,🆕 Novos/Inativos
+331,Luiz Felipe Almeida,33,204072.46,1,1493385.26,1,🌟 Alto Valor
+332,Dr. Pietro Barros,43,1456878.68,1,1396377.7,1,🌟 Alto Valor
+333,Luigi da Conceição,37,856100.94,1,1427728.86,0,💎 VIP Premium
+334,Antônio Cardoso,34,257458.0,0,0.0,3,🆕 Novos/Inativos
+335,Apollo Vargas,41,959182.35,0,0.0,3,🆕 Novos/Inativos
+336,Sra. Melina Pires,42,1833641.04,3,9479399.16,2,📈 Em Crescimento
+337,Catarina Sampaio,37,1587134.75,1,2296179.86,1,🌟 Alto Valor
+338,Caio Macedo,29,363430.09,0,0.0,3,🆕 Novos/Inativos
+339,Samuel Sá,43,1591417.57,0,0.0,3,🆕 Novos/Inativos
+340,Maria Laura da Cruz,46,718097.59,0,0.0,0,💎 VIP Premium
+341,Noah Correia,46,544947.54,0,0.0,3,🆕 Novos/Inativos
+342,Dom Aragão,38,1049260.35,1,1226555.68,1,🌟 Alto Valor
+343,Luigi Leão,37,867952.51,0,0.0,3,🆕 Novos/Inativos
+344,Emilly Correia,40,1110243.72,2,2125005.73,1,🌟 Alto Valor
+345,Giovanna Melo,65,612799.22,1,471477.83,1,🌟 Alto Valor
+346,Sr. Henrique Camargo,40,1861358.63,2,5173979.159999999,1,🌟 Alto Valor
+347,Sra. Daniela Freitas,39,1075953.23,2,8824458.719999999,2,📈 Em Crescimento
+348,Ryan da Conceição,61,414852.67,0,0.0,3,🆕 Novos/Inativos
+349,Rebeca Correia,38,1231021.64,1,1022183.74,0,💎 VIP Premium
+350,João Nogueira,39,582753.46,2,4963542.719999999,1,🌟 Alto Valor
+351,Esther Moura,61,511440.76,0,0.0,0,💎 VIP Premium
+352,Ana Lívia Aparecida,64,225596.23,0,0.0,3,🆕 Novos/Inativos
+353,Jade Aragão,44,919923.3,1,5065156.32,1,🌟 Alto Valor
+354,Srta. Juliana Moura,32,394226.27,0,0.0,0,💎 VIP Premium
+355,Vinicius Ribeiro,39,428966.98,1,651521.94,1,🌟 Alto Valor
+356,Yan Guerra,37,760933.7,1,864211.61,1,🌟 Alto Valor
+357,Yago Cunha,35,469158.16,0,0.0,0,💎 VIP Premium
+358,Valentim Carvalho,61,242394.24,0,0.0,0,💎 VIP Premium
+359,Arthur Miguel Marques,35,2115912.98,0,0.0,0,💎 VIP Premium
+360,Helena Siqueira,46,534566.14,0,0.0,3,🆕 Novos/Inativos
+361,Benjamin Vargas,48,1585533.21,0,0.0,3,🆕 Novos/Inativos
+362,Clarice Duarte,30,284140.79,0,0.0,3,🆕 Novos/Inativos
+363,Clara Cardoso,38,1176951.75,1,1736106.3,1,🌟 Alto Valor
+364,Rodrigo Novais,39,951969.28,1,3427069.6500000004,1,🌟 Alto Valor
+365,Pedro Duarte,34,151478.43,0,0.0,3,🆕 Novos/Inativos
+366,Dr. Diogo Macedo,43,786232.16,1,1190924.12,1,🌟 Alto Valor
+367,Luigi Sales,28,216951.93,0,0.0,3,🆕 Novos/Inativos
+368,Rafaela Pinto,50,1127867.44,0,0.0,3,🆕 Novos/Inativos
+369,Ravi Lucca Rezende,34,295340.12,0,0.0,3,🆕 Novos/Inativos
+370,Srta. Luara Mendonça,53,169072.64,0,0.0,0,💎 VIP Premium
+371,Eduarda Almeida,30,351133.68,0,0.0,3,🆕 Novos/Inativos
+372,Luigi Gonçalves,45,697415.6,0,0.0,0,💎 VIP Premium
+373,Luísa Machado,31,690979.6,1,1562263.6,1,🌟 Alto Valor
+374,Emanuel Dias,55,613272.67,1,1699415.97,1,🌟 Alto Valor
+375,Kamilly Cassiano,49,316676.11,1,1438121.48,1,🌟 Alto Valor
+376,Igor Rodrigues,27,414635.51,0,0.0,0,💎 VIP Premium
+377,Cecilia Castro,35,846163.75,3,9384923.67,2,📈 Em Crescimento
+378,Rebeca Sales,44,326928.34,0,0.0,3,🆕 Novos/Inativos
+379,Ana Carolina Moreira,37,983662.75,0,0.0,0,💎 VIP Premium
+380,João Vitor Macedo,36,605742.88,0,0.0,0,💎 VIP Premium
+381,Milena Borges,31,232108.78,0,0.0,0,💎 VIP Premium
+382,Ayla da Cunha,36,816882.57,0,0.0,3,🆕 Novos/Inativos
+383,Maria Helena Aparecida,51,1257628.83,0,0.0,3,🆕 Novos/Inativos
+384,Fernando Campos,37,465545.87,0,0.0,3,🆕 Novos/Inativos
+385,Henrique Pastor,28,162495.15,0,0.0,0,💎 VIP Premium
+386,Benicio Cirino,46,1059823.68,1,1724357.37,1,🌟 Alto Valor
+387,Oliver Cavalcanti,45,1233856.3,2,2363597.62,1,🌟 Alto Valor
+388,Kaique Duarte,52,371059.73,0,0.0,3,🆕 Novos/Inativos
+389,Giovanna Sampaio,44,1425639.4,1,1586940.76,1,🌟 Alto Valor
+390,Maria Cardoso,45,622405.36,0,0.0,3,🆕 Novos/Inativos
+391,Ravi Lucca Pires,49,1514256.4,0,0.0,0,💎 VIP Premium
+392,Sra. Jade Vieira,31,289326.19,1,1356095.74,1,🌟 Alto Valor
+393,Erick Correia,46,1710235.48,1,1071684.24,1,🌟 Alto Valor
+394,Letícia Nunes,31,377679.54,0,0.0,3,🆕 Novos/Inativos
+395,Mathias Cirino,65,595677.04,1,1342591.92,1,🌟 Alto Valor
+396,Henrique Moura,50,472726.06,0,0.0,0,💎 VIP Premium
+397,Dr. Vinicius das Neves,42,1359041.11,0,0.0,0,💎 VIP Premium
+398,Caio Farias,31,245622.41,0,0.0,0,💎 VIP Premium
+399,Vitor Dias,38,1288027.31,1,1167312.39,1,🌟 Alto Valor
+400,Vitor Hugo Ferreira,39,765472.69,0,0.0,3,🆕 Novos/Inativos
+401,Arthur Melo,59,1191774.39,1,1697605.9,1,🌟 Alto Valor
+402,Lucas Gabriel Costa,34,444746.0,0,0.0,3,🆕 Novos/Inativos
+403,Diego Pimenta,39,1051653.37,0,0.0,3,🆕 Novos/Inativos
+404,Nicole Cavalcante,33,504559.91,0,0.0,3,🆕 Novos/Inativos
+405,Maria Liz Pastor,56,1042697.64,1,2398250.52,1,🌟 Alto Valor
+406,Manuela Nogueira,52,1028356.73,2,2120420.19,1,🌟 Alto Valor
+407,Pedro Miguel Cavalcanti,33,305081.77,0,0.0,3,🆕 Novos/Inativos
+408,Agatha Sá,50,378799.66,0,0.0,3,🆕 Novos/Inativos
+409,Liz Lopes,47,1306697.68,2,5890596.36,2,📈 Em Crescimento
+410,Dra. Maria Alice Camargo,34,562675.3,1,2025753.66,1,🌟 Alto Valor
+411,Erick Melo,40,404995.06,0,0.0,0,💎 VIP Premium
+412,Ryan Ribeiro,61,1160486.77,1,2488790.46,1,🌟 Alto Valor
+413,Milena Gomes,55,601591.73,1,825167.33,0,💎 VIP Premium
+414,Sr. Arthur Miguel Nunes,51,507774.36,0,0.0,3,🆕 Novos/Inativos
+415,Vicente Pimenta,30,219781.84,0,0.0,0,💎 VIP Premium
+416,Mirella Moraes,49,1633978.63,0,0.0,0,💎 VIP Premium
+417,Bento Pires,40,989628.3,0,0.0,3,🆕 Novos/Inativos
+418,João Lucas da Cunha,39,1484831.52,1,578431.1,1,🌟 Alto Valor
+419,Isaac Mendonça,51,563767.34,0,0.0,3,🆕 Novos/Inativos
+420,Dra. Eloah Costela,34,372785.24,0,0.0,0,💎 VIP Premium
+421,Maria Julia Melo,40,403879.69,0,0.0,3,🆕 Novos/Inativos
+422,Júlia Farias,34,145795.34,0,0.0,0,💎 VIP Premium
+423,Emilly Dias,58,439657.73,1,1448103.51,1,🌟 Alto Valor
+424,Gael Andrade,32,333892.4,0,0.0,3,🆕 Novos/Inativos
+425,Ester Camargo,49,1466779.49,1,1207031.25,1,🌟 Alto Valor
+426,Mateus Gomes,27,296272.36,0,0.0,3,🆕 Novos/Inativos
+427,Vitor Hugo Vargas,46,588182.83,0,0.0,0,💎 VIP Premium
+428,Allana Monteiro,62,707684.17,0,0.0,0,💎 VIP Premium
+429,Maya Guerra,36,407566.82,0,0.0,3,🆕 Novos/Inativos
+430,Caleb Fonseca,47,948342.97,0,0.0,0,💎 VIP Premium
+431,Maria Alice Mendonça,51,1206293.73,0,0.0,3,🆕 Novos/Inativos
+432,Vitor Hugo Ramos,43,1237450.56,1,4111543.02,1,🌟 Alto Valor
+433,Zoe Cassiano,42,1782984.11,0,0.0,3,🆕 Novos/Inativos
+434,Benicio das Neves,47,836400.61,0,0.0,0,💎 VIP Premium
+435,Maitê Sousa,29,207007.0,0,0.0,0,💎 VIP Premium
+436,Sr. Dante da Mota,29,501142.01,0,0.0,3,🆕 Novos/Inativos
+437,Maria Flor Vasconcelos,37,759992.72,1,689972.34,1,🌟 Alto Valor
+438,Diego Porto,44,1647404.15,2,2637829.5,1,🌟 Alto Valor
+439,Dr. André Novais,42,553384.78,1,926608.22,1,🌟 Alto Valor
+440,Gael Camargo,36,448717.83,0,0.0,3,🆕 Novos/Inativos
+441,Mirella Aparecida,38,804622.36,0,0.0,0,💎 VIP Premium
+442,Lunna Leão,60,453712.99,0,0.0,3,🆕 Novos/Inativos
+444,Lucas Gabriel Cardoso,37,331206.06,0,0.0,3,🆕 Novos/Inativos
+445,Eduarda Vieira,50,752635.73,0,0.0,0,💎 VIP Premium
+446,Srta. Isadora Duarte,28,610683.54,0,0.0,0,💎 VIP Premium
+447,Vitória Gonçalves,35,1450813.36,2,6884971.239999998,2,📈 Em Crescimento
+448,Isaque Ramos,39,849596.26,1,596348.75,1,🌟 Alto Valor
+449,Sra. Ester Vieira,34,226786.17,0,0.0,0,💎 VIP Premium
+450,Bruno Pinto,46,1489204.75,2,2367957.77,1,🌟 Alto Valor
+451,Ana Lívia Novais,51,982163.54,0,0.0,3,🆕 Novos/Inativos
+452,Mariana da Mota,52,980889.19,1,2547764.54,1,🌟 Alto Valor
+453,Maria Eduarda Rocha,36,1181140.09,2,11588438.459999997,2,📈 Em Crescimento
+454,Srta. Sara Cassiano,52,713664.37,0,0.0,0,💎 VIP Premium
+455,Gabriel Azevedo,41,1072509.41,1,1758341.32,1,🌟 Alto Valor
+456,Natália da Rosa,38,1860498.98,1,2768476.08,1,🌟 Alto Valor
+457,Enrico Silva,26,356828.16,1,1391519.24,1,🌟 Alto Valor
+458,Gustavo Novais,27,256184.08,0,0.0,3,🆕 Novos/Inativos
+459,Sara Vargas,31,288022.03,0,0.0,0,💎 VIP Premium
+460,Melina Fernandes,44,387879.22,0,0.0,3,🆕 Novos/Inativos
+461,Sr. Luan Araújo,45,649085.26,0,0.0,0,💎 VIP Premium
+462,Luiza Pereira,30,245294.54,0,0.0,3,🆕 Novos/Inativos
+463,Pietro Novais,45,755037.9,1,2819755.14,1,🌟 Alto Valor
+464,Diego Costela,51,594501.94,1,1289115.96,1,🌟 Alto Valor
+465,Nicole Santos,37,584875.47,0,0.0,3,🆕 Novos/Inativos
+466,Sra. Heloisa Alves,35,1080812.41,0,0.0,3,🆕 Novos/Inativos
+467,Thales Azevedo,56,1153205.51,0,0.0,0,💎 VIP Premium
+469,Ana Vitória Moraes,33,387601.09,0,0.0,3,🆕 Novos/Inativos
+470,Vitor Pacheco,54,523564.52,1,2016336.3599999999,1,🌟 Alto Valor
+471,Hellena Correia,46,683386.64,1,799937.86,1,🌟 Alto Valor
+472,Stephany Teixeira,33,235915.37,0,0.0,0,💎 VIP Premium
+473,Otávio Sales,33,314982.32,1,521911.45,3,🆕 Novos/Inativos
+474,José Aparecida,32,605006.34,1,577406.91,3,🆕 Novos/Inativos
+475,João Lucas Pacheco,31,233650.83,0,0.0,3,🆕 Novos/Inativos
+476,Helena Silva,42,540752.03,0,0.0,0,💎 VIP Premium
+477,Bianca Cirino,48,614197.73,0,0.0,0,💎 VIP Premium
+478,Maria Cecília Santos,36,553872.35,3,9415689.76,2,📈 Em Crescimento
+479,Lavínia Lima,32,151522.83,0,0.0,3,🆕 Novos/Inativos
+480,Diego Gonçalves,48,1063996.54,0,0.0,0,💎 VIP Premium
+481,Otávio Silveira,42,469993.85,0,0.0,3,🆕 Novos/Inativos
+482,Sophia da Mota,44,1355690.66,2,12449479.32,2,📈 Em Crescimento
+483,Amanda Cavalcanti,42,1419852.76,2,8243260.620000001,2,📈 Em Crescimento
+484,Juan Ribeiro,39,586328.43,0,0.0,0,💎 VIP Premium
+485,Luara Garcia,44,1139029.67,1,846522.92,1,🌟 Alto Valor
+486,Brenda Nunes,41,940547.15,0,0.0,0,💎 VIP Premium
+487,Thales Pastor,41,699863.75,1,1819596.3,0,💎 VIP Premium
+488,Dra. Amanda Teixeira,58,882012.95,0,0.0,0,💎 VIP Premium
+489,Benício das Neves,31,543917.59,0,0.0,3,🆕 Novos/Inativos
+490,Ravy Pastor,28,498496.78,0,0.0,0,💎 VIP Premium
+491,Maitê Cavalcante,46,1942722.26,2,8825377.68,2,📈 Em Crescimento
+492,Caleb Silva,61,361431.78,0,0.0,3,🆕 Novos/Inativos
+493,Letícia Lopes,47,739119.93,1,1212202.86,1,🌟 Alto Valor
+494,Sara Cunha,46,1368744.65,3,10840628.08,2,📈 Em Crescimento
+495,Isaque Cassiano,37,1234630.08,0,0.0,3,🆕 Novos/Inativos
+496,Danilo Cassiano,41,1116046.31,1,789324.69,1,🌟 Alto Valor
+497,Arthur da Luz,37,1278679.47,1,5095147.8,1,🌟 Alto Valor
+498,Sr. Miguel Silveira,60,1272653.34,3,15216140.720000003,2,📈 Em Crescimento
+499,Camila Vargas,61,311099.27,1,1040681.94,1,🌟 Alto Valor
+500,Jade Pastor,45,1006281.18,0,0.0,3,🆕 Novos/Inativos
+501,Maria Eduarda das Neves,57,437724.22,0,0.0,3,🆕 Novos/Inativos
+502,Pedro Miguel Gomes,28,387019.06,1,1348942.82,1,🌟 Alto Valor
+503,Bruno Vasconcelos,57,428695.72,1,931392.2,0,💎 VIP Premium
+504,Lunna Marques,39,621509.56,0,0.0,3,🆕 Novos/Inativos
+505,Daniel Castro,40,540286.63,0,0.0,0,💎 VIP Premium
+506,Lunna da Paz,45,1084495.34,1,2522751.5999999996,1,🌟 Alto Valor
+507,Heloísa Borges,47,790640.54,0,0.0,3,🆕 Novos/Inativos
+508,Sr. Dante Albuquerque,37,673248.1,0,0.0,3,🆕 Novos/Inativos
+509,Pedro Costela,48,1732145.9,2,12364594.520000001,2,📈 Em Crescimento
+510,Milena da Cruz,37,1409659.09,1,1415281.0,1,🌟 Alto Valor
+511,Bento Aragão,47,1531099.19,1,961161.15,1,🌟 Alto Valor
+512,Maria Eduarda Cardoso,42,1495325.7,3,7623955.830000001,2,📈 Em Crescimento
+513,Cecília da Luz,55,335943.82,0,0.0,3,🆕 Novos/Inativos
+514,Dr. Enzo Dias,39,1507425.36,4,15482829.72,2,📈 Em Crescimento
+515,Enrico Santos,41,404544.13,0,0.0,3,🆕 Novos/Inativos
+516,Luiz Fernando Borges,46,790704.12,0,0.0,3,🆕 Novos/Inativos
+517,Oliver Barbosa,34,398771.7,0,0.0,0,💎 VIP Premium
+518,Arthur Barros,38,454725.92,0,0.0,3,🆕 Novos/Inativos
+519,Dra. Caroline Cunha,41,671316.77,0,0.0,3,🆕 Novos/Inativos
+520,Murilo Borges,41,423673.96,0,0.0,3,🆕 Novos/Inativos
+521,Luiz Henrique Rios,34,319398.07,0,0.0,3,🆕 Novos/Inativos
+522,Maria Eduarda Pimenta,36,1121810.47,1,1779065.36,1,🌟 Alto Valor
+523,Valentina Barros,40,462109.92,1,617776.92,0,💎 VIP Premium
+524,Yuri Barbosa,53,572555.69,0,0.0,3,🆕 Novos/Inativos
+525,Theodoro Almeida,32,377666.78,0,0.0,3,🆕 Novos/Inativos
+526,Milena Pinto,45,303345.3,1,433583.89,3,🆕 Novos/Inativos
+527,Anthony Gabriel Cavalcante,32,656597.87,3,6716748.15,2,📈 Em Crescimento
+528,Davi Lucas Carvalho,49,1641426.26,1,679190.0,1,🌟 Alto Valor
+529,Kevin Vargas,34,380883.91,1,1008163.7,3,🆕 Novos/Inativos
+530,Isabelly Costa,40,729781.95,0,0.0,3,🆕 Novos/Inativos
+531,Maria Liz Mendonça,41,1242861.03,1,635259.12,1,🌟 Alto Valor
+532,Bruna Monteiro,45,438549.06,0,0.0,3,🆕 Novos/Inativos
+533,Maitê Pereira,38,1167310.84,3,9288343.86,2,📈 Em Crescimento
+534,Rafaela Cardoso,34,461406.98,0,0.0,3,🆕 Novos/Inativos
+535,Luiz Henrique da Luz,31,377938.65,0,0.0,0,💎 VIP Premium
+536,Joana Fernandes,32,504987.7,0,0.0,0,💎 VIP Premium
+537,Bella Novais,30,299659.66,0,0.0,3,🆕 Novos/Inativos
+538,Luiz Otávio Farias,42,960784.61,1,1880817.27,1,🌟 Alto Valor
+539,Marcelo Silva,58,1098251.08,2,1877102.58,1,🌟 Alto Valor
+540,Stella Vieira,35,1022656.87,1,1765093.55,1,🌟 Alto Valor
+541,Ana Carolina Ribeiro,51,1084460.89,0,0.0,3,🆕 Novos/Inativos
+542,Vinícius Pimenta,44,298432.12,0,0.0,0,💎 VIP Premium
+543,Arthur Miguel Nascimento,42,1205625.09,1,686018.32,1,🌟 Alto Valor
+544,Arthur Vieira,27,636354.65,0,0.0,0,💎 VIP Premium
+545,Letícia Oliveira,46,353499.38,1,957239.92,3,🆕 Novos/Inativos
+546,Cecilia Silva,35,1942882.01,2,3550663.6,1,🌟 Alto Valor
+547,Sra. Maria Sophia Barros,35,1102730.37,0,0.0,3,🆕 Novos/Inativos
+548,Maria Laura da Luz,44,1649427.24,3,6464270.97,2,📈 Em Crescimento
+549,Dra. Vitória Campos,49,995311.89,1,3077318.74,1,🌟 Alto Valor
+550,Lavínia Aparecida,37,1277928.64,2,3129193.75,1,🌟 Alto Valor
+551,Leandro da Paz,44,970672.6,3,9117578.07,2,📈 Em Crescimento
+552,Rael Fernandes,52,316971.85,0,0.0,3,🆕 Novos/Inativos
+553,Maria Luísa Gomes,49,338687.69,1,3846255.4199999995,1,🌟 Alto Valor
+554,Camila Ramos,38,1064638.33,3,6562998.45,2,📈 Em Crescimento
+555,Antony da Mota,30,634642.58,0,0.0,0,💎 VIP Premium
+556,Luigi Lopes,30,279519.57,0,0.0,3,🆕 Novos/Inativos
+557,Fernando da Cunha,49,492201.84,0,0.0,3,🆕 Novos/Inativos
+558,Liam Casa Grande,59,613257.11,1,5395275.24,1,🌟 Alto Valor
+559,Maria Isis Camargo,40,635442.9,0,0.0,3,🆕 Novos/Inativos
+560,Beatriz da Cruz,32,322993.55,0,0.0,3,🆕 Novos/Inativos
+561,Mariana Novais,34,317715.96,1,359996.7,0,💎 VIP Premium
+562,Mateus Ferreira,40,1066041.27,0,0.0,3,🆕 Novos/Inativos
+563,Dra. Lara Lopes,33,271919.29,0,0.0,0,💎 VIP Premium
+564,Luísa Almeida,47,1033895.65,0,0.0,0,💎 VIP Premium
+565,Ana Vitória Nascimento,35,781336.17,0,0.0,0,💎 VIP Premium
+566,Maria Eduarda Correia,49,1896543.76,0,0.0,3,🆕 Novos/Inativos
+567,Maria Cecília Andrade,59,615033.36,0,0.0,3,🆕 Novos/Inativos
+568,Erick Azevedo,52,739587.01,1,564985.07,0,💎 VIP Premium
+569,Rafael Abreu,31,234654.97,0,0.0,3,🆕 Novos/Inativos
+570,Sr. Henry Gabriel Aragão,33,400410.32,0,0.0,3,🆕 Novos/Inativos
+571,Josué Costa,47,693009.98,1,1753892.73,1,🌟 Alto Valor
+572,Renan da Costa,38,1330777.83,1,944759.76,1,🌟 Alto Valor
+573,Arthur Gabriel Garcia,38,1161572.81,0,0.0,3,🆕 Novos/Inativos
+574,Mateus Guerra,39,1368257.74,0,0.0,0,💎 VIP Premium
+575,Beatriz Fernandes,56,307254.3,1,719063.28,3,🆕 Novos/Inativos
+576,Davi Lucas Porto,38,939744.96,3,11397258.749999996,2,📈 Em Crescimento
+577,Pedro Henrique Moraes,51,788415.16,0,0.0,3,🆕 Novos/Inativos
+578,Clara Araújo,46,328069.45,0,0.0,0,💎 VIP Premium
+579,Dra. Nina Peixoto,38,560188.98,2,3067091.52,1,🌟 Alto Valor
+580,Srta. Nina Pinto,29,570354.2,0,0.0,3,🆕 Novos/Inativos
+581,Sr. Danilo Casa Grande,64,919899.5,0,0.0,3,🆕 Novos/Inativos
+582,Sr. Felipe Costa,26,184187.72,0,0.0,3,🆕 Novos/Inativos
+583,Dr. Enzo Gabriel Moura,49,507107.56,0,0.0,3,🆕 Novos/Inativos
+584,Isabelly Aparecida,40,1197169.55,4,7525882.74,2,📈 Em Crescimento
+585,Srta. Olivia Vieira,36,846810.99,1,2506013.94,1,🌟 Alto Valor
+586,Sra. Sabrina Melo,47,968716.78,1,2128291.34,1,🌟 Alto Valor
+587,Eduarda Freitas,56,691205.51,1,1867782.72,1,🌟 Alto Valor
+588,Maitê Lima,43,418759.51,0,0.0,3,🆕 Novos/Inativos
+589,Breno Fogaça,38,962343.29,4,23563827.720000003,2,📈 Em Crescimento
+590,Gabriela Farias,39,1156228.85,0,0.0,0,💎 VIP Premium
+591,Dr. Nathan Pacheco,44,959886.14,1,841950.01,1,🌟 Alto Valor
+592,Nicole Fernandes,37,791232.71,1,983542.27,1,🌟 Alto Valor
+593,Leandro Sousa,46,353110.63,0,0.0,3,🆕 Novos/Inativos
+594,Ana Beatriz Carvalho,57,383718.48,1,2640462.78,1,🌟 Alto Valor
+595,Maria Isis Correia,58,859844.78,0,0.0,3,🆕 Novos/Inativos
+596,Amanda Cirino,45,1400393.95,4,9725378.26,2,📈 Em Crescimento
+597,Enzo Gabriel Duarte,53,349153.13,0,0.0,3,🆕 Novos/Inativos
+598,Pedro Santos,56,228508.64,0,0.0,3,🆕 Novos/Inativos
+599,Ana Luiza Guerra,59,687837.37,1,1020889.12,1,🌟 Alto Valor
+600,Dra. Letícia Gonçalves,35,1397311.39,2,1933914.3399999999,1,🌟 Alto Valor
+601,Srta. Isabella Castro,30,329733.46,0,0.0,3,🆕 Novos/Inativos
+602,Dr. Rael Cavalcante,40,1073630.61,1,1379658.9,1,🌟 Alto Valor
+603,José Camargo,31,615690.58,1,583188.55,0,💎 VIP Premium
+604,Lara Castro,54,1045924.82,1,1791553.58,1,🌟 Alto Valor
+605,Pedro Lucas Fogaça,45,922125.76,1,1221100.44,1,🌟 Alto Valor
+606,André Aragão,47,585017.5,0,0.0,3,🆕 Novos/Inativos
+607,Benício Câmara,36,1220603.63,1,856282.92,1,🌟 Alto Valor
+608,Giovanna Nogueira,35,419605.58,1,377317.05,3,🆕 Novos/Inativos
+609,Hadassa Marques,43,1774123.66,2,4302708.12,1,🌟 Alto Valor
+610,Bella Silva,44,1127677.15,1,1200881.64,1,🌟 Alto Valor
+611,Pietro Garcia,44,681649.94,0,0.0,3,🆕 Novos/Inativos
+612,Anna Liz Araújo,46,946349.62,2,1598341.9,1,🌟 Alto Valor
+613,João Lucas Dias,44,1237415.11,1,1193712.66,1,🌟 Alto Valor
+614,Isadora Rodrigues,32,289429.49,0,0.0,0,💎 VIP Premium
+615,Davi Lucas Borges,53,784886.53,0,0.0,0,💎 VIP Premium
+616,Emanuelly Pereira,35,1197896.16,1,1352552.16,1,🌟 Alto Valor
+617,Maysa Lima,35,525321.91,1,970002.62,1,🌟 Alto Valor
+618,Srta. Jade Garcia,29,341615.75,0,0.0,3,🆕 Novos/Inativos
+619,Gabriel Abreu,45,830098.57,0,0.0,0,💎 VIP Premium
+620,Ana Carolina Campos,36,1442277.19,0,0.0,3,🆕 Novos/Inativos
+621,Srta. Isabelly Mendes,40,1163824.44,5,26388253.84000001,2,📈 Em Crescimento
+622,Elisa Albuquerque,29,478950.27,0,0.0,3,🆕 Novos/Inativos
+623,Kevin Montenegro,49,595831.15,0,0.0,3,🆕 Novos/Inativos
+624,Sra. Alana Cavalcante,41,498062.85,0,0.0,3,🆕 Novos/Inativos
+625,Srta. Fernanda Mendonça,35,925939.13,1,793300.27,1,🌟 Alto Valor
+626,Maysa Pires,44,1060360.22,1,577380.76,1,🌟 Alto Valor
+627,Rhavi Mendonça,44,1174168.9,1,787431.53,1,🌟 Alto Valor
+628,Juliana Mendonça,48,756204.07,0,0.0,3,🆕 Novos/Inativos
+629,Ana Laura Fogaça,53,378589.03,0,0.0,0,💎 VIP Premium
+630,Olívia Moraes,54,708677.24,0,0.0,0,💎 VIP Premium
+631,Anna Liz Ferreira,27,172508.83,0,0.0,3,🆕 Novos/Inativos
+632,Davi Lucas Monteiro,37,941567.82,0,0.0,0,💎 VIP Premium
+633,Aurora Caldeira,36,835939.42,0,0.0,3,🆕 Novos/Inativos
+634,Rebeca Borges,53,1216577.59,0,0.0,3,🆕 Novos/Inativos
+635,Caio Camargo,40,869481.1,0,0.0,0,💎 VIP Premium
+636,Vitor Gabriel Correia,44,1486429.03,2,11942917.049999999,2,📈 Em Crescimento
+637,Luara Casa Grande,34,162588.38,0,0.0,0,💎 VIP Premium
+638,Srta. Kamilly Santos,38,1127821.11,1,671896.02,1,🌟 Alto Valor
+639,Maria Júlia da Rosa,37,1279263.57,1,1937217.66,1,🌟 Alto Valor
+640,Gael Sampaio,41,1689555.53,1,1089269.42,1,🌟 Alto Valor
+641,Sra. Lavínia Casa Grande,44,657310.09,1,429742.82,3,🆕 Novos/Inativos
+642,Luiz Henrique Melo,33,235433.64,0,0.0,3,🆕 Novos/Inativos
+643,Rebeca da Rosa,48,614832.07,1,2000893.7399999998,1,🌟 Alto Valor
+644,Davi Mendonça,35,1152051.06,2,2491192.88,1,🌟 Alto Valor
+645,Maya da Rosa,29,203236.89,0,0.0,0,💎 VIP Premium
+646,Valentim Pacheco,33,304948.48,0,0.0,3,🆕 Novos/Inativos
+647,Davi Lucas Oliveira,36,881989.49,1,902131.84,1,🌟 Alto Valor
+648,Agatha da Cruz,37,1036171.79,0,0.0,3,🆕 Novos/Inativos
+649,Sophia Costela,47,822765.12,0,0.0,3,🆕 Novos/Inativos
+650,Maria Alice da Mota,36,952504.17,1,1324641.7,1,🌟 Alto Valor
+651,Srta. Zoe Costela,38,783787.6,1,1090330.08,1,🌟 Alto Valor
+652,Maria Helena Alves,55,1081721.08,0,0.0,3,🆕 Novos/Inativos
+653,Diogo Câmara,38,1112947.14,1,2679367.05,1,🌟 Alto Valor
+654,Marcela Sampaio,31,222383.03,0,0.0,0,💎 VIP Premium
+655,Carolina da Luz,42,1608332.84,4,15335972.579999998,2,📈 Em Crescimento
+656,Mariah Santos,54,166121.64,0,0.0,3,🆕 Novos/Inativos
+657,Nicolas Vargas,36,633589.08,0,0.0,0,💎 VIP Premium
+658,Otávio Rocha,60,363832.04,0,0.0,0,💎 VIP Premium
+659,Sra. Isabelly Sousa,46,1213794.68,0,0.0,3,🆕 Novos/Inativos
+660,Sabrina Garcia,50,380428.79,0,0.0,3,🆕 Novos/Inativos
+661,Matteo Cunha,32,185798.85,1,1722427.44,3,🆕 Novos/Inativos
+662,André Ferreira,44,1881879.54,2,5038142.82,1,🌟 Alto Valor
+663,Ryan Abreu,53,748099.53,1,3330413.79,1,🌟 Alto Valor
+664,Maysa Castro,37,1696177.47,2,2346571.87,1,🌟 Alto Valor
+665,Luísa Andrade,29,412413.7,0,0.0,3,🆕 Novos/Inativos
+666,Maria Julia Cardoso,43,449448.01,0,0.0,0,💎 VIP Premium
+667,Srta. Maya Mendes,56,693959.04,1,493508.7,0,💎 VIP Premium
+668,Srta. Mariane Costa,33,327369.88,1,1907094.76,1,🌟 Alto Valor
+669,Ana Carolina da Mota,29,266368.83,1,603803.46,3,🆕 Novos/Inativos
+670,Dra. Isabel Câmara,45,340872.5,0,0.0,0,💎 VIP Premium
+671,Liam Aragão,30,206664.01,0,0.0,0,💎 VIP Premium
+672,Samuel Fonseca,28,246396.18,0,0.0,0,💎 VIP Premium
+673,Sr. João Guilherme Costela,55,301492.13,0,0.0,3,🆕 Novos/Inativos
+674,Yago Pinto,46,797374.84,0,0.0,0,💎 VIP Premium
+675,Dr. Dante Lopes,55,788755.05,0,0.0,0,💎 VIP Premium
+676,Gabriel Sousa,43,994164.0,2,5646717.569999999,1,🌟 Alto Valor
+677,Júlia Costela,57,337148.17,1,1788278.6099999999,1,🌟 Alto Valor
+678,Juan Santos,44,1115293.51,2,2173260.75,1,🌟 Alto Valor
+679,Isadora Costela,39,778629.86,1,964473.93,1,🌟 Alto Valor
+680,Laís Duarte,51,555025.17,2,4248293.199999999,1,🌟 Alto Valor
+681,Jade Pires,39,1402125.22,2,2130824.46,1,🌟 Alto Valor
+682,Rhavi Borges,28,129675.08,0,0.0,0,💎 VIP Premium
+683,Matteo Rodrigues,47,1157623.14,0,0.0,3,🆕 Novos/Inativos
+684,Marcos Vinicius Gomes,41,1415689.46,0,0.0,0,💎 VIP Premium
+685,Vitor Hugo Sousa,41,403309.93,0,0.0,3,🆕 Novos/Inativos
+686,Yago Sales,32,420924.98,0,0.0,0,💎 VIP Premium
+687,Ian Lima,33,403226.1,0,0.0,3,🆕 Novos/Inativos
+688,Luiz Henrique Barbosa,36,525881.65,0,0.0,0,💎 VIP Premium
+689,Mariana Cassiano,34,454543.53,0,0.0,3,🆕 Novos/Inativos
+690,Melissa Silveira,43,1427203.06,1,1404850.9,1,🌟 Alto Valor
+691,Dr. Otávio Mendes,25,609994.2,1,869080.43,1,🌟 Alto Valor
+692,Yasmin Nascimento,45,1127103.35,2,4184996.96,1,🌟 Alto Valor
+693,Luiz Miguel Novais,51,698642.59,3,4263046.16,1,🌟 Alto Valor
+694,Henry Gabriel Araújo,49,1699094.17,1,1071787.65,1,🌟 Alto Valor
+695,Eduarda Alves,54,305835.16,0,0.0,0,💎 VIP Premium
+696,Dra. Letícia Melo,52,990130.07,1,1220843.42,0,💎 VIP Premium
+697,Anthony Gonçalves,40,542640.66,1,532453.19,3,🆕 Novos/Inativos
+698,Maria Flor Cardoso,49,448397.71,1,1264056.2,1,🌟 Alto Valor
+699,Maria Luiza Garcia,43,935580.55,0,0.0,3,🆕 Novos/Inativos
+700,Isaque da Paz,35,1681762.19,0,0.0,3,🆕 Novos/Inativos
+701,Bryan Nunes,52,785519.57,0,0.0,0,💎 VIP Premium
+702,Levi Sá,35,895354.83,0,0.0,3,🆕 Novos/Inativos
+703,Pietra Pastor,43,841942.42,1,1829676.93,1,🌟 Alto Valor
+704,Dra. Stephany Vargas,39,1485887.46,2,7323438.360000001,2,📈 Em Crescimento
+705,Eduardo Nunes,59,497702.64,0,0.0,3,🆕 Novos/Inativos
+706,Enrico Azevedo,58,877398.66,0,0.0,0,💎 VIP Premium
+707,Ana Cecília Fonseca,27,296780.86,1,590540.96,3,🆕 Novos/Inativos
+708,Milena da Luz,34,368709.11,0,0.0,3,🆕 Novos/Inativos
+709,Ana Sophia Câmara,54,832014.43,0,0.0,3,🆕 Novos/Inativos
+710,Marina Costa,40,1383724.0,0,0.0,3,🆕 Novos/Inativos
+711,Daniela Melo,30,405294.7,0,0.0,3,🆕 Novos/Inativos
+712,Antônio Teixeira,44,852678.74,2,3978774.4400000004,1,🌟 Alto Valor
+713,Valentina Cunha,30,179027.92,0,0.0,0,💎 VIP Premium
+714,Srta. Maya Fogaça,58,663500.89,1,2632702.92,1,🌟 Alto Valor
+715,Clara Monteiro,28,230562.8,0,0.0,3,🆕 Novos/Inativos
+716,Ísis Vasconcelos,55,311903.48,0,0.0,0,💎 VIP Premium
+717,Camila Sampaio,40,452038.68,0,0.0,0,💎 VIP Premium
+718,Mariane Freitas,27,298835.0,1,890214.2,3,🆕 Novos/Inativos
+719,Allana Pimenta,40,671275.4,1,882280.34,1,🌟 Alto Valor
+720,Hadassa Câmara,47,1146032.09,0,0.0,3,🆕 Novos/Inativos
+721,Thiago da Paz,43,1512843.8,1,4386316.04,1,🌟 Alto Valor
+722,Dra. Luiza Farias,44,1687251.57,0,0.0,3,🆕 Novos/Inativos
+723,Srta. Maria Luiza Dias,27,494841.4,0,0.0,0,💎 VIP Premium
+724,Caleb Borges,38,1221294.38,0,0.0,0,💎 VIP Premium
+725,Davi Lucca Marques,29,246277.84,0,0.0,3,🆕 Novos/Inativos
+726,Alícia Porto,34,587687.7,0,0.0,0,💎 VIP Premium
+727,Sr. Matteo Brito,38,1484631.68,0,0.0,3,🆕 Novos/Inativos
+728,Kaique Albuquerque,38,914223.49,2,6821974.65,2,📈 Em Crescimento
+729,Gael Pereira,27,391573.27,0,0.0,3,🆕 Novos/Inativos
+730,Bryan Siqueira,42,537074.96,0,0.0,3,🆕 Novos/Inativos
+731,Evelyn da Cunha,54,234714.62,0,0.0,0,💎 VIP Premium
+732,Melissa Lima,40,1688973.55,1,2615961.94,1,🌟 Alto Valor
+733,Thomas da Cunha,36,1473979.1,0,0.0,3,🆕 Novos/Inativos
+734,Sr. Brayan Cunha,29,415625.21,0,0.0,3,🆕 Novos/Inativos
+735,Ana Luiza Gomes,52,1418117.13,1,2078591.8,1,🌟 Alto Valor
+736,Gael Henrique Aragão,38,713802.09,0,0.0,0,💎 VIP Premium
+737,Antônio da Paz,37,787325.2,1,1532343.42,1,🌟 Alto Valor
+738,Ravy Brito,63,949250.99,0,0.0,0,💎 VIP Premium
+739,Letícia Sampaio,37,1433044.75,3,7886919.479999999,2,📈 Em Crescimento
+740,Dr. Henry Gabriel Cavalcante,40,1248563.83,0,0.0,0,💎 VIP Premium
+741,Dr. João Gabriel Sampaio,43,462661.18,0,0.0,0,💎 VIP Premium
+742,Isabella Oliveira,47,825736.29,1,1745292.5,1,🌟 Alto Valor
+743,Gustavo Sales,54,297536.62,0,0.0,3,🆕 Novos/Inativos
+744,Vinícius Moraes,37,723043.76,0,0.0,3,🆕 Novos/Inativos
+745,Esther Azevedo,32,364741.62,0,0.0,3,🆕 Novos/Inativos
+746,Arthur Melo,52,1202878.39,0,0.0,3,🆕 Novos/Inativos
+747,Lívia Aragão,34,547301.69,2,5197084.24,1,🌟 Alto Valor
+748,Vinícius Pereira,47,1089814.98,1,1749660.72,1,🌟 Alto Valor
+749,Benício Nascimento,55,328708.35,0,0.0,3,🆕 Novos/Inativos
+750,Luiz Felipe Porto,47,1295493.87,1,1613480.68,0,💎 VIP Premium
+751,Lucas Gabriel Marques,43,1344879.74,1,1339199.09,1,🌟 Alto Valor
+752,Dr. Alexandre Mendonça,37,685282.29,2,1582763.9500000002,1,🌟 Alto Valor
+753,Kevin Sousa,43,534282.04,2,3967218.24,1,🌟 Alto Valor
+754,Rafaela Camargo,45,1124541.32,2,2688444.29,1,🌟 Alto Valor
+755,Caio Correia,47,418572.64,2,2501459.94,1,🌟 Alto Valor
+756,Kamilly das Neves,30,494527.3,0,0.0,3,🆕 Novos/Inativos
+757,Theo Rodrigues,32,483001.17,0,0.0,3,🆕 Novos/Inativos
+758,Anthony Gabriel Marques,32,633883.24,1,2082563.31,1,🌟 Alto Valor
+759,Davi Miguel Ferreira,49,942753.2,0,0.0,0,💎 VIP Premium
+760,Maria da Cruz,34,442046.56,0,0.0,0,💎 VIP Premium
+761,Guilherme da Cunha,36,1733863.7,2,2276544.7800000003,1,🌟 Alto Valor
+762,Aylla Carvalho,34,422510.03,0,0.0,3,🆕 Novos/Inativos
+763,Amanda Vargas,35,1375810.68,0,0.0,3,🆕 Novos/Inativos
+764,Laís Aragão,49,2101855.94,2,5020454.61,1,🌟 Alto Valor
+765,Sr. João Vitor Nunes,38,1362062.44,1,917970.43,0,💎 VIP Premium
+766,Henry Gabriel Rocha,39,744932.69,0,0.0,0,💎 VIP Premium
+767,Vicente Brito,41,1245623.45,1,1414001.49,1,🌟 Alto Valor
+768,Isaac Nogueira,38,904502.64,0,0.0,3,🆕 Novos/Inativos
+769,Pietra da Rocha,46,1111065.92,1,1288609.44,1,🌟 Alto Valor
+770,Raul Campos,34,266777.17,0,0.0,3,🆕 Novos/Inativos
+771,Emanuel Fogaça,32,417399.69,0,0.0,0,💎 VIP Premium
+772,Srta. Lara Viana,48,380972.76,0,0.0,3,🆕 Novos/Inativos
+773,Marcela Pacheco,43,1051528.42,2,3189006.54,1,🌟 Alto Valor
+774,Erick Siqueira,51,482679.27,0,0.0,0,💎 VIP Premium
+775,Ana Cavalcanti,32,350255.6,0,0.0,0,💎 VIP Premium
+776,Guilherme Sousa,55,730908.18,1,2527024.8,1,🌟 Alto Valor
+777,Ísis Barbosa,31,486550.37,1,1386019.9,1,🌟 Alto Valor
+778,Pedro Lucas Lima,53,435272.32,2,5418304.44,1,🌟 Alto Valor
+779,Luísa Almeida,54,760615.42,2,6007279.999999999,2,📈 Em Crescimento
+780,Sarah das Neves,56,424501.41,0,0.0,3,🆕 Novos/Inativos
+781,Lucas Gabriel Teixeira,44,1363133.32,1,616102.78,1,🌟 Alto Valor
+782,Oliver Peixoto,41,1007291.25,1,2345853.24,1,🌟 Alto Valor
+783,Liz Viana,40,472946.94,0,0.0,0,💎 VIP Premium
+784,Carolina Lopes,42,1538048.13,0,0.0,3,🆕 Novos/Inativos
+785,Igor Borges,30,373866.89,0,0.0,0,💎 VIP Premium
+786,Emilly da Paz,54,703877.83,1,2367718.68,1,🌟 Alto Valor
+787,Yago Costela,55,882223.05,0,0.0,3,🆕 Novos/Inativos
+788,Sr. Benjamim Ferreira,46,872103.61,2,4626784.98,1,🌟 Alto Valor
+789,Marcelo Silveira,30,354415.46,0,0.0,0,💎 VIP Premium
+790,Letícia Barros,49,1207205.21,0,0.0,3,🆕 Novos/Inativos
+791,Marina Nascimento,50,628378.12,0,0.0,3,🆕 Novos/Inativos
+792,Dr. Paulo Viana,44,1735402.08,2,5899619.719999999,2,📈 Em Crescimento
+793,Nina Souza,30,403686.41,1,588219.47,3,🆕 Novos/Inativos
+794,Kamilly Fonseca,36,1013626.41,0,0.0,0,💎 VIP Premium
+795,Ravi Lucca Andrade,43,757409.59,0,0.0,3,🆕 Novos/Inativos
+796,José Pedro Vargas,46,741991.43,0,0.0,0,💎 VIP Premium
+797,Luiza Aparecida,50,1100249.26,1,699637.19,1,🌟 Alto Valor
+798,Thiago Macedo,30,360303.54,0,0.0,3,🆕 Novos/Inativos
+799,Luan Pereira,53,636388.9,0,0.0,0,💎 VIP Premium
+800,Cauê Pereira,38,1458666.19,0,0.0,0,💎 VIP Premium
+801,Anna Liz Barbosa,37,810201.57,2,3124687.18,1,🌟 Alto Valor
+802,Maysa Dias,30,392625.18,0,0.0,3,🆕 Novos/Inativos
+803,Sra. Maria Cecília Barros,30,327680.04,0,0.0,3,🆕 Novos/Inativos
+804,Nicolas Rocha,41,944195.98,1,1832604.69,1,🌟 Alto Valor
+805,Fernanda Cirino,46,373305.72,0,0.0,3,🆕 Novos/Inativos
+806,Srta. Ana Sophia Cardoso,37,805608.58,0,0.0,3,🆕 Novos/Inativos
+807,Bianca Silveira,36,350297.11,0,0.0,3,🆕 Novos/Inativos
+808,Dom Abreu,32,202794.82,0,0.0,0,💎 VIP Premium
+809,Valentim Moura,58,306486.46,0,0.0,0,💎 VIP Premium
+810,Luara Brito,43,607769.52,0,0.0,3,🆕 Novos/Inativos
+811,João Lucas Casa Grande,67,1153928.01,1,1033461.7,0,💎 VIP Premium
+812,Sr. João Miguel Oliveira,61,327333.6,0,0.0,0,💎 VIP Premium
+814,Ana Sophia Santos,31,384778.53,0,0.0,3,🆕 Novos/Inativos
+815,Hellena Rocha,47,486675.15,1,1852469.25,1,🌟 Alto Valor
+816,Pedro Henrique Azevedo,31,178105.48,0,0.0,3,🆕 Novos/Inativos
+817,Vitória Ribeiro,53,827021.55,0,0.0,0,💎 VIP Premium
+818,Daniel Sá,41,597843.64,0,0.0,0,💎 VIP Premium
+819,Rebeca Peixoto,44,484125.05,0,0.0,0,💎 VIP Premium
+820,Luiza Jesus,44,677700.06,1,860299.15,1,🌟 Alto Valor
+821,Hellena Oliveira,48,932613.62,0,0.0,3,🆕 Novos/Inativos
+822,Ayla Vasconcelos,29,317159.06,0,0.0,3,🆕 Novos/Inativos
+823,Srta. Lavínia Castro,26,668346.77,1,485616.33,3,🆕 Novos/Inativos
+824,Emanuel da Paz,46,679293.86,0,0.0,0,💎 VIP Premium
+825,Maria Vitória Almeida,58,231671.59,1,1164882.56,1,🌟 Alto Valor
+826,Alícia da Rosa,36,620664.95,0,0.0,0,💎 VIP Premium
+827,Lara Mendes,46,421915.17,0,0.0,3,🆕 Novos/Inativos
+828,Miguel Vargas,39,640292.67,1,1323654.6,1,🌟 Alto Valor
+829,Gustavo Henrique Mendonça,49,1093029.14,1,1402808.0,1,🌟 Alto Valor
+830,Luana Sousa,48,505564.26,0,0.0,3,🆕 Novos/Inativos
+831,Sara Dias,46,908333.65,1,7391199.4399999995,1,🌟 Alto Valor
+832,Enrico Moreira,44,794363.96,0,0.0,0,💎 VIP Premium
+833,Maria Liz Albuquerque,49,619753.15,0,0.0,3,🆕 Novos/Inativos
+834,Gabrielly Pimenta,25,423724.85,0,0.0,0,💎 VIP Premium
+835,Emanuelly Cassiano,50,200102.4,0,0.0,3,🆕 Novos/Inativos
+836,Eduarda Azevedo,59,312156.5,0,0.0,3,🆕 Novos/Inativos
+837,Ágatha Ramos,38,1408557.77,3,8268433.289999999,2,📈 Em Crescimento
+838,Maria Isis Farias,31,177405.95,1,1341636.68,3,🆕 Novos/Inativos
+839,Sr. Benjamim Carvalho,34,194478.17,0,0.0,3,🆕 Novos/Inativos
+840,Sra. Maria das Neves,29,239159.09,0,0.0,0,💎 VIP Premium
+841,Maya Rezende,29,184778.14,0,0.0,3,🆕 Novos/Inativos
+842,Srta. Fernanda Macedo,38,668537.52,0,0.0,3,🆕 Novos/Inativos
+843,João Guilherme Ramos,51,294742.6,0,0.0,3,🆕 Novos/Inativos
+844,Renan Souza,56,1132583.86,0,0.0,3,🆕 Novos/Inativos
+845,Ana Liz Dias,46,708933.17,1,595669.12,1,🌟 Alto Valor
+846,Nathan Leão,52,577562.68,2,2668468.6999999997,1,🌟 Alto Valor
+847,Dra. Maria Luísa Cavalcanti,34,167587.6,1,707930.46,3,🆕 Novos/Inativos
+848,Caleb Cirino,32,679446.68,0,0.0,3,🆕 Novos/Inativos
+849,Esther Souza,36,528401.28,0,0.0,3,🆕 Novos/Inativos
+850,Guilherme Cavalcanti,46,744070.1,1,927635.5,1,🌟 Alto Valor
+851,Maria Isis Cassiano,46,706468.0,0,0.0,3,🆕 Novos/Inativos
+852,Henrique Martins,49,803301.84,1,2627546.3,1,🌟 Alto Valor
+853,Ana Beatriz Duarte,32,635757.48,0,0.0,3,🆕 Novos/Inativos
+854,Ravi Lucca Nogueira,45,1150251.44,1,2692452.12,1,🌟 Alto Valor
+855,Maitê Mendes,34,311853.87,0,0.0,3,🆕 Novos/Inativos
+856,Théo Cavalcante,34,435120.54,0,0.0,3,🆕 Novos/Inativos
+857,Raul Abreu,28,201541.99,0,0.0,0,💎 VIP Premium
+858,Maria Fernanda Abreu,33,574024.85,1,1039393.29,1,🌟 Alto Valor
+859,Carolina Dias,44,806483.34,0,0.0,3,🆕 Novos/Inativos
+860,Henry Pereira,49,1164519.14,1,2314597.92,1,🌟 Alto Valor
+861,Esther Aparecida,33,674302.72,0,0.0,3,🆕 Novos/Inativos
+862,José Pedro Leão,34,380913.16,0,0.0,3,🆕 Novos/Inativos
+863,Sr. Thiago Gomes,37,814004.79,1,1028613.23,1,🌟 Alto Valor
+864,Maria Fernanda Vasconcelos,31,540887.17,0,0.0,3,🆕 Novos/Inativos
+865,Dr. Gael Henrique Moraes,53,600943.73,1,398420.37,3,🆕 Novos/Inativos
+866,Otávio Fernandes,49,783627.21,0,0.0,0,💎 VIP Premium
+867,Luiz Henrique Siqueira,49,661899.67,0,0.0,0,💎 VIP Premium
+868,Dr. Joaquim Siqueira,37,721626.85,0,0.0,3,🆕 Novos/Inativos
+869,Liz Lima,52,1170044.41,1,857805.12,1,🌟 Alto Valor
+870,Ágatha Vieira,37,1144641.57,0,0.0,3,🆕 Novos/Inativos
+871,Emilly Rocha,48,1374421.81,1,2078989.6,1,🌟 Alto Valor
+872,Henry Gabriel Almeida,48,553081.0,1,889096.16,1,🌟 Alto Valor
+873,Alice Fernandes,38,897555.62,1,618453.58,1,🌟 Alto Valor
+874,Anna Liz Pires,39,1247168.42,0,0.0,0,💎 VIP Premium
+875,Enzo Pinto,36,1012397.44,0,0.0,3,🆕 Novos/Inativos
+876,Miguel Cunha,47,1274443.35,0,0.0,3,🆕 Novos/Inativos
+877,Liam Vargas,35,1370686.43,3,8300519.700000001,2,📈 Em Crescimento
+878,Murilo da Paz,57,310238.37,1,566486.28,1,🌟 Alto Valor
+879,Heloisa Carvalho,32,428318.42,1,2715616.08,1,🌟 Alto Valor
+880,Dra. Maria Julia Novaes,37,502866.72,0,0.0,0,💎 VIP Premium
+881,Ravi Marques,44,1174585.51,2,2409593.53,1,🌟 Alto Valor
+882,Arthur Gabriel Rodrigues,41,781706.33,0,0.0,0,💎 VIP Premium
+883,Ana Liz da Rocha,36,1508175.16,2,2951721.66,1,🌟 Alto Valor
+884,Brenda Silveira,40,1302553.81,1,2252393.82,1,🌟 Alto Valor
+885,Rebeca Sá,32,430413.1,2,4104224.16,1,🌟 Alto Valor
+886,Vicente da Paz,36,1448757.85,0,0.0,3,🆕 Novos/Inativos
+887,Davi Lucas Casa Grande,38,538802.09,0,0.0,3,🆕 Novos/Inativos
+888,Dra. Maria Luiza Mendes,35,1984629.51,5,27724115.100000005,2,📈 Em Crescimento
+889,Rafaela Cavalcanti,37,1425290.36,1,1635370.03,1,🌟 Alto Valor
+890,Srta. Fernanda Fogaça,45,1305477.67,0,0.0,3,🆕 Novos/Inativos
+891,Ana Lívia da Mata,32,144388.33,0,0.0,3,🆕 Novos/Inativos
+892,João Felipe Novaes,32,207345.64,0,0.0,3,🆕 Novos/Inativos
+893,Beatriz Nascimento,36,1673685.43,1,2735882.88,1,🌟 Alto Valor
+894,Ryan da Rosa,42,1246698.01,1,558963.59,1,🌟 Alto Valor
+895,Thales Pires,50,1311098.33,1,892212.3,1,🌟 Alto Valor
+896,Luana Pires,35,795169.15,1,1947023.18,0,💎 VIP Premium
+897,Liz Brito,44,783003.14,0,0.0,3,🆕 Novos/Inativos
+898,Dr. Cauã Rodrigues,62,869489.22,3,7108191.180000001,2,📈 Em Crescimento
+899,Maria Vitória Vasconcelos,37,1988950.95,4,8744701.830000002,2,📈 Em Crescimento
+900,Maria Júlia Teixeira,39,763659.04,0,0.0,3,🆕 Novos/Inativos
+901,Jade da Rocha,49,471115.57,0,0.0,3,🆕 Novos/Inativos
+902,Breno da Cruz,56,483942.59,1,1942902.9000000001,1,🌟 Alto Valor
+903,Maria Flor Araújo,42,370149.19,0,0.0,0,💎 VIP Premium
+904,Sra. Clarice Cassiano,60,601281.51,2,2697510.7,1,🌟 Alto Valor
+905,Bernardo Viana,27,518124.4,1,863818.77,0,💎 VIP Premium
+906,Alícia Carvalho,49,768198.8,0,0.0,3,🆕 Novos/Inativos
+907,Ana Beatriz Montenegro,32,295634.81,0,0.0,0,💎 VIP Premium
+908,Aurora Oliveira,36,2003708.79,1,1324215.32,1,🌟 Alto Valor
+909,Maitê Marques,49,749223.79,0,0.0,3,🆕 Novos/Inativos
+910,José Pedro Câmara,29,601233.43,1,5278467.78,1,🌟 Alto Valor
+911,Vitor Pereira,45,598826.17,0,0.0,0,💎 VIP Premium
+912,Júlia da Conceição,39,339243.99,0,0.0,3,🆕 Novos/Inativos
+913,Maria Liz Costa,38,1418349.11,2,7087476.549999999,2,📈 Em Crescimento
+914,Maria Alice Souza,47,889420.4,1,960412.04,0,💎 VIP Premium
+915,Mariah Guerra,28,321117.37,1,914484.3,3,🆕 Novos/Inativos
+916,Dra. Luna Aparecida,35,430112.33,0,0.0,0,💎 VIP Premium
+917,Juan Freitas,40,1209027.33,0,0.0,3,🆕 Novos/Inativos
+918,Leandro Guerra,39,1079851.53,1,2502178.38,1,🌟 Alto Valor
+919,Valentina Cavalcante,34,268202.31,1,585421.61,3,🆕 Novos/Inativos
+920,Catarina Pereira,65,1155423.58,0,0.0,0,💎 VIP Premium
+921,Dra. Fernanda Cardoso,54,884730.72,0,0.0,3,🆕 Novos/Inativos
+922,Francisco Siqueira,32,226745.05,0,0.0,3,🆕 Novos/Inativos
+923,Srta. Maria Isis Pires,39,882748.49,0,0.0,0,💎 VIP Premium
+924,Rafaela Ferreira,48,882665.78,2,4333772.8,1,🌟 Alto Valor
+925,Sr. José Miguel Fernandes,40,593699.73,2,1427138.44,0,💎 VIP Premium
+926,Calebe da Conceição,36,1419239.59,0,0.0,3,🆕 Novos/Inativos
+927,Miguel Moraes,48,775815.31,1,2335797.64,1,🌟 Alto Valor
+928,Vitor Fonseca,42,1195279.3,0,0.0,3,🆕 Novos/Inativos
+929,João Lucas Aragão,55,663782.41,1,1854433.98,1,🌟 Alto Valor
+930,Dra. Luana Costela,39,1612162.51,2,3328728.71,1,🌟 Alto Valor
+931,Josué Ferreira,46,2034205.72,1,1983270.68,1,🌟 Alto Valor
+932,Dante Moreira,51,261166.57,0,0.0,0,💎 VIP Premium
+933,Sra. Júlia Aparecida,52,299144.86,0,0.0,3,🆕 Novos/Inativos
+934,Luiz Miguel da Costa,27,357217.11,1,793931.98,3,🆕 Novos/Inativos
+935,Sr. Anthony Gabriel Brito,49,348012.42,0,0.0,3,🆕 Novos/Inativos
+936,Stella Rios,55,721308.25,1,2465050.4699999997,1,🌟 Alto Valor
+937,Mariah Gonçalves,34,142180.3,0,0.0,3,🆕 Novos/Inativos
+938,Apollo Pires,37,737448.17,1,880836.69,0,💎 VIP Premium
+939,Dr. João Vargas,34,226393.92,1,648918.3,3,🆕 Novos/Inativos
+940,Heloísa Dias,59,671752.57,0,0.0,3,🆕 Novos/Inativos
+941,Dr. Luiz Miguel Sá,49,1668810.46,1,687697.75,1,🌟 Alto Valor
+942,Miguel Pinto,43,1852046.32,2,2933153.69,1,🌟 Alto Valor
+943,Matheus Caldeira,30,274668.47,0,0.0,3,🆕 Novos/Inativos
+944,Henry Gabriel Macedo,33,313798.95,1,2721140.76,1,🌟 Alto Valor
+945,Noah Cirino,43,507963.79,2,4155481.5200000005,1,🌟 Alto Valor
+946,Sr. Davi Luiz Duarte,50,665951.93,1,1588301.62,1,🌟 Alto Valor
+947,Dra. Heloisa Martins,29,394861.41,1,2055771.5100000002,1,🌟 Alto Valor
+948,Ana Laura Ferreira,30,398482.61,0,0.0,3,🆕 Novos/Inativos
+949,Srta. Maria Laura Cunha,57,564845.55,0,0.0,0,💎 VIP Premium
+950,Sr. Benjamim Silva,43,810347.91,0,0.0,3,🆕 Novos/Inativos
+951,Sabrina Siqueira,50,935534.71,2,3434253.28,1,🌟 Alto Valor
+952,Leonardo Fogaça,36,1272851.27,2,7961620.84,2,📈 Em Crescimento
+953,Aylla Moura,45,2055289.81,2,5890547.28,1,🌟 Alto Valor
+954,Lorena Alves,37,419487.81,0,0.0,0,💎 VIP Premium
+955,Maria Fernanda Oliveira,36,1127531.02,0,0.0,0,💎 VIP Premium
+956,Cauê Ferreira,59,1031667.22,0,0.0,3,🆕 Novos/Inativos
+957,Bruna Rios,41,804284.71,1,1666721.58,1,🌟 Alto Valor
+958,Beatriz Moreira,53,588977.1,2,1798086.8599999999,1,🌟 Alto Valor
+959,Sr. Pietro Teixeira,42,743779.92,0,0.0,0,💎 VIP Premium
+960,Rafaela Pimenta,32,221319.77,0,0.0,3,🆕 Novos/Inativos
+961,Levi Sousa,43,989970.14,0,0.0,0,💎 VIP Premium
+962,Thomas Freitas,42,997183.47,1,1027559.21,1,🌟 Alto Valor
+963,Augusto Garcia,42,950212.08,1,1040070.28,1,🌟 Alto Valor
+964,Josué Pinto,29,570755.72,0,0.0,3,🆕 Novos/Inativos
+965,Anthony Pires,36,1398703.36,1,1327266.94,1,🌟 Alto Valor
+966,Lunna Cavalcante,42,734034.08,3,6643011.869999998,2,📈 Em Crescimento
+967,Gabriela Cardoso,40,965180.65,3,4644144.62,1,🌟 Alto Valor
+968,Maria Eduarda Macedo,35,1543743.61,4,19140293.8,2,📈 Em Crescimento
+969,Erick Ferreira,43,1119796.95,0,0.0,3,🆕 Novos/Inativos
+970,Dr. Apollo Macedo,43,668998.68,1,1868437.16,1,🌟 Alto Valor
+971,Yasmin Almeida,35,995318.74,2,7236728.759999999,2,📈 Em Crescimento
+972,Bárbara Câmara,41,753792.05,0,0.0,3,🆕 Novos/Inativos
+973,Rebeca Pimenta,26,207570.04,0,0.0,3,🆕 Novos/Inativos
+974,Léo Sousa,36,1770743.22,2,7854585.36,2,📈 Em Crescimento
+975,Mariah Leão,38,450673.24,0,0.0,0,💎 VIP Premium
+976,Henrique Silva,28,221982.52,0,0.0,0,💎 VIP Premium
+977,Cecília Melo,56,901341.93,4,21941863.100000005,2,📈 Em Crescimento
+978,Maria Isis Moreira,50,694307.22,0,0.0,0,💎 VIP Premium
+979,Dom Jesus,38,1210738.29,0,0.0,0,💎 VIP Premium
+980,Benjamim Farias,43,1388199.06,0,0.0,3,🆕 Novos/Inativos
+981,Maitê Santos,44,1303843.49,0,0.0,3,🆕 Novos/Inativos
+982,Yuri Pires,35,576916.69,0,0.0,0,💎 VIP Premium
+983,Pietra Cavalcante,46,516660.06,0,0.0,0,💎 VIP Premium
+984,Sr. Léo Azevedo,43,752370.94,2,2878779.38,1,🌟 Alto Valor
+985,Allana Pinto,50,886316.76,1,930031.94,0,💎 VIP Premium
+986,Isabella Sampaio,49,890556.32,3,14955177.000000006,2,📈 Em Crescimento
+987,Antony da Rosa,51,646346.98,1,594565.46,1,🌟 Alto Valor
+988,Sra. Caroline Ferreira,38,464907.6,0,0.0,0,💎 VIP Premium
+989,Breno Cavalcanti,42,1153362.55,1,921841.51,1,🌟 Alto Valor
+990,Natália Pires,33,525870.96,0,0.0,3,🆕 Novos/Inativos
+991,Benicio Silva,40,793040.37,0,0.0,3,🆕 Novos/Inativos
+992,Dra. Ana Liz Macedo,32,336953.72,1,588440.27,3,🆕 Novos/Inativos
+994,Luiz Felipe Sousa,42,844956.86,1,1798314.0,1,🌟 Alto Valor
+995,Marina Barros,46,479088.61,0,0.0,0,💎 VIP Premium
+996,Maria Alice Souza,40,1231595.22,1,1669227.88,1,🌟 Alto Valor
+997,Nina Martins,43,1673460.41,0,0.0,3,🆕 Novos/Inativos
+998,Maria Clara Albuquerque,31,395785.85,1,568695.27,3,🆕 Novos/Inativos
+999,Lucca Costa,50,642302.23,1,562407.4,0,💎 VIP Premium
+1000,Eduarda Mendonça,26,414407.02,0,0.0,3,🆕 Novos/Inativos
+1001,Rebeca Albuquerque,34,472807.55,1,1324773.26,1,🌟 Alto Valor
+1002,Dr. Davi Lucas Freitas,42,658584.27,2,9164794.8,2,📈 Em Crescimento
+1003,Manuela Oliveira,55,945502.54,2,6682145.82,1,🌟 Alto Valor
+1004,Allana Dias,57,416839.76,0,0.0,3,🆕 Novos/Inativos
+1005,Evelyn Vieira,53,1177276.2,0,0.0,0,💎 VIP Premium
+1006,Liam Mendonça,35,1150121.31,2,9885582.279999997,2,📈 Em Crescimento
+1007,Marcos Vinicius Lima,42,1052439.39,1,2785896.4,1,🌟 Alto Valor
+1008,Maria Helena Novais,46,300225.83,0,0.0,0,💎 VIP Premium
+1009,Carolina Duarte,53,871675.13,2,5901457.16,1,🌟 Alto Valor
+1010,Luna Gonçalves,43,530881.31,0,0.0,0,💎 VIP Premium
+1011,Bernardo Carvalho,38,885339.55,0,0.0,0,💎 VIP Premium
+1012,Maria Liz Nogueira,65,917772.54,2,9632618.6,2,📈 Em Crescimento
+1013,Isaque Araújo,40,1084899.37,1,1976502.82,1,🌟 Alto Valor
+1014,Maria Laura Almeida,40,551637.25,1,1082125.16,1,🌟 Alto Valor
+1015,Luiz Fernando Sampaio,41,1329722.48,2,8667435.209999999,2,📈 Em Crescimento
+1017,Pietro Pereira,62,267100.01,0,0.0,0,💎 VIP Premium
+1018,Luiz Miguel Martins,60,378571.02,0,0.0,0,💎 VIP Premium
+1019,Theo Silveira,35,1138905.21,2,2974692.12,1,🌟 Alto Valor
+1020,Cauê Abreu,37,838522.51,1,2531510.04,1,🌟 Alto Valor
+1021,Sr. Gabriel Lima,39,696613.91,1,1862940.86,1,🌟 Alto Valor
+1022,Arthur Melo,34,380743.52,0,0.0,0,💎 VIP Premium
+1023,Eduardo Cunha,32,347743.77,0,0.0,3,🆕 Novos/Inativos
+1024,Ana Luiza Vargas,36,1284559.96,1,1786007.28,1,🌟 Alto Valor
+1025,Rebeca Vieira,40,1047309.14,1,3286152.4499999997,1,🌟 Alto Valor
+1026,Dra. Ágatha Casa Grande,35,614961.92,1,878596.09,1,🌟 Alto Valor
+1027,Dr. Caio Pereira,48,1031426.37,2,2851033.82,1,🌟 Alto Valor
+1028,Sr. Davi Miguel Vieira,38,1181540.68,1,1376123.82,1,🌟 Alto Valor
+1029,Eloah Sousa,60,868936.0,1,825511.76,0,💎 VIP Premium
+1030,Sra. Bianca Câmara,38,1298795.94,2,3884714.4000000004,1,🌟 Alto Valor
+1031,Gustavo Henrique Nogueira,47,881139.91,0,0.0,0,💎 VIP Premium
+1032,Otávio Fogaça,27,451652.09,0,0.0,0,💎 VIP Premium
+1033,Ana Cecília Rocha,38,588903.25,1,2294265.58,1,🌟 Alto Valor
+1034,Marcela Rodrigues,62,1072386.45,1,3472051.28,1,🌟 Alto Valor
+1035,Maria Helena Souza,47,1487940.7,2,7470356.76,2,📈 Em Crescimento
+1036,Carolina Pastor,45,875702.21,0,0.0,3,🆕 Novos/Inativos
+1037,Bárbara Sampaio,42,385405.05,1,425078.66,3,🆕 Novos/Inativos
+1038,Rodrigo Mendonça,40,493420.11,0,0.0,0,💎 VIP Premium
+1039,Pedro Miguel Sampaio,47,895073.84,2,3941243.5,1,🌟 Alto Valor
+1040,Dra. Maria Eduarda Porto,65,812666.5,1,567053.05,1,🌟 Alto Valor
+1041,Maria Liz Montenegro,47,1399619.1,1,2978875.72,1,🌟 Alto Valor
+1042,Rhavi Azevedo,41,1639625.42,1,1166220.66,1,🌟 Alto Valor
+1043,Thomas Viana,53,412985.24,1,1640456.79,1,🌟 Alto Valor
+1044,Gabriel Ribeiro,50,191945.24,0,0.0,3,🆕 Novos/Inativos
+1045,Bernardo Mendes,34,489182.05,2,3569160.5100000002,1,🌟 Alto Valor
+1046,Ana Correia,50,460804.43,1,564194.37,1,🌟 Alto Valor
+1047,Theo Vargas,27,397277.88,1,623593.97,3,🆕 Novos/Inativos
+1048,Manuela da Rosa,27,221263.15,0,0.0,3,🆕 Novos/Inativos
+1049,Samuel Fernandes,47,1215982.75,0,0.0,3,🆕 Novos/Inativos
+1050,Dr. Gael Farias,53,326735.7,1,662597.19,1,🌟 Alto Valor
+1051,Sr. Ravi Pacheco,49,518361.7,2,1959471.51,1,🌟 Alto Valor
+1052,Rafaela Silva,32,294551.24,0,0.0,3,🆕 Novos/Inativos
+1053,Gabriel da Cunha,43,1073939.31,1,2682174.38,1,🌟 Alto Valor
+1054,Bianca Melo,43,1643831.57,3,3222133.49,1,🌟 Alto Valor
+1055,Zoe da Mata,41,616893.6,1,561451.03,1,🌟 Alto Valor
+1056,Sra. Larissa Lopes,48,1685592.36,1,7421223.4399999995,2,📈 Em Crescimento
+1057,Luiza Teixeira,32,494260.75,0,0.0,0,💎 VIP Premium
+1058,Calebe da Cruz,55,777086.35,0,0.0,3,🆕 Novos/Inativos
+1059,Lorena Lopes,51,416428.17,0,0.0,0,💎 VIP Premium
+1060,Vitor Hugo Teixeira,55,693740.89,1,665108.47,1,🌟 Alto Valor
+1061,Marcelo Casa Grande,40,1060139.51,0,0.0,3,🆕 Novos/Inativos
+1062,Mateus Peixoto,31,226746.06,0,0.0,3,🆕 Novos/Inativos
+1063,Samuel Lopes,42,1360488.84,1,2945465.12,1,🌟 Alto Valor
+1064,Valentim Peixoto,54,593960.66,0,0.0,3,🆕 Novos/Inativos
+1066,Caleb Pinto,46,1061181.59,1,8399935.92,2,📈 Em Crescimento
+1067,Carlos Eduardo da Mata,37,1413610.68,0,0.0,0,💎 VIP Premium
+1068,João Gabriel Moraes,32,649939.85,1,914990.41,1,🌟 Alto Valor
+1069,Dr. Ravi da Cruz,30,426487.02,1,1667563.6500000001,1,🌟 Alto Valor
+1070,Vitória Mendonça,58,760965.77,0,0.0,3,🆕 Novos/Inativos
+1071,Maria Luísa Cavalcante,49,1084091.47,1,3276307.6,1,🌟 Alto Valor
+1072,Letícia Freitas,29,519952.11,0,0.0,3,🆕 Novos/Inativos
+1073,Diego Almeida,34,221717.48,0,0.0,3,🆕 Novos/Inativos
+1074,Diogo Porto,38,959990.14,0,0.0,3,🆕 Novos/Inativos
+1075,Pietra Aparecida,34,651222.15,0,0.0,3,🆕 Novos/Inativos
+1076,Apollo Moraes,54,862201.82,1,952091.74,1,🌟 Alto Valor
+1077,Sr. Valentim Pacheco,36,1240917.24,2,6851611.4399999995,2,📈 Em Crescimento
+1078,Maysa Siqueira,31,373969.54,0,0.0,3,🆕 Novos/Inativos
+1079,Davi Luiz Correia,57,1104626.56,1,1756814.3,1,🌟 Alto Valor
+1080,João Siqueira,51,513125.49,1,1641715.64,1,🌟 Alto Valor
+1081,Joana Oliveira,37,1148511.58,0,0.0,0,💎 VIP Premium
+1082,Júlia Farias,47,606753.29,0,0.0,0,💎 VIP Premium
+1083,Carlos Eduardo Sampaio,39,1083967.74,0,0.0,0,💎 VIP Premium
+1084,Pedro Henrique Guerra,36,595870.17,1,970066.6,3,🆕 Novos/Inativos
+1085,Hadassa Guerra,52,584205.36,0,0.0,3,🆕 Novos/Inativos
+1086,Carlos Eduardo Barros,45,1549029.44,0,0.0,3,🆕 Novos/Inativos
+1087,Davi Luiz da Rocha,38,820354.16,0,0.0,3,🆕 Novos/Inativos
+1088,Gael Vieira,46,2087473.27,4,28598385.800000004,2,📈 Em Crescimento
+1089,Ravi Pereira,37,1816402.1,0,0.0,0,💎 VIP Premium
+1090,Maria Alice Moraes,37,1036703.66,0,0.0,3,🆕 Novos/Inativos
+1091,Dante Casa Grande,30,159384.49,0,0.0,0,💎 VIP Premium
+1092,Yuri Siqueira,48,636561.21,0,0.0,0,💎 VIP Premium
+1093,Theo Martins,35,674050.96,0,0.0,3,🆕 Novos/Inativos
+1094,Oliver Borges,46,706453.38,0,0.0,3,🆕 Novos/Inativos
+1095,Anthony Pires,45,1222662.01,3,5171363.52,1,🌟 Alto Valor
+1096,Vinícius Gonçalves,41,1031971.88,1,3338455.76,1,🌟 Alto Valor
+1097,Sr. Nicolas Pastor,45,1772880.73,2,8176086.44,2,📈 Em Crescimento
+1098,Arthur Miguel da Conceição,33,257396.06,0,0.0,0,💎 VIP Premium
+1099,João Guilherme Nascimento,35,1392920.3,2,1959925.63,1,🌟 Alto Valor
+1100,Isaac Gomes,48,1707998.23,1,2768476.08,1,🌟 Alto Valor
+1101,João Vitor Rios,51,698650.65,0,0.0,3,🆕 Novos/Inativos
+1102,Davi Abreu,47,898794.85,1,1268135.04,1,🌟 Alto Valor
+1103,Rodrigo Rios,58,759037.26,1,674971.87,1,🌟 Alto Valor
+1104,Diogo Fernandes,67,1025591.37,0,0.0,0,💎 VIP Premium
+1105,Hadassa Cavalcante,49,1068354.37,0,0.0,0,💎 VIP Premium
+1106,Arthur Miguel Machado,56,425400.59,0,0.0,3,🆕 Novos/Inativos
+1107,Vicente Novais,55,583512.61,0,0.0,0,💎 VIP Premium
+1108,Vitor Gabriel Lima,44,1176576.93,0,0.0,3,🆕 Novos/Inativos
+1109,Sr. Theo das Neves,48,800152.7,3,4955384.16,1,🌟 Alto Valor
+1110,Calebe da Luz,55,1029009.62,0,0.0,3,🆕 Novos/Inativos
+1111,Yan Oliveira,37,964054.19,0,0.0,0,💎 VIP Premium
+1113,Sr. Francisco Rezende,39,589612.74,0,0.0,3,🆕 Novos/Inativos
+1114,Esther Monteiro,33,397477.1,0,0.0,0,💎 VIP Premium
+1115,Maria Sophia Pacheco,34,432250.97,0,0.0,3,🆕 Novos/Inativos
+1116,Sra. Carolina Oliveira,46,1366954.09,1,853686.22,1,🌟 Alto Valor
+1117,Daniel Oliveira,66,375108.91,0,0.0,0,💎 VIP Premium
+1118,Dra. Camila Freitas,43,1358303.81,0,0.0,3,🆕 Novos/Inativos
+1119,Rebeca da Mota,44,535627.75,0,0.0,0,💎 VIP Premium
+1120,Brenda da Paz,50,1469664.09,2,5289159.82,1,🌟 Alto Valor
+1121,Heloisa Machado,44,942765.88,2,2716678.02,1,🌟 Alto Valor
+1122,Hellena Novaes,47,1405344.77,1,855810.33,0,💎 VIP Premium
+1123,Cauê da Costa,37,1181786.61,1,4945515.64,1,🌟 Alto Valor
+1124,Dr. Luigi Abreu,34,175381.72,0,0.0,0,💎 VIP Premium
+1125,Maria Alice Brito,41,1308525.19,1,967780.99,0,💎 VIP Premium
+1126,Heloísa Lopes,37,1638153.88,1,987265.67,1,🌟 Alto Valor
+1127,Ana Sophia Caldeira,40,1341439.15,1,2029319.4000000001,1,🌟 Alto Valor
+1128,João Lucas Ramos,49,944758.13,0,0.0,3,🆕 Novos/Inativos
+1129,Kamilly Nogueira,43,1541135.24,1,1232923.34,1,🌟 Alto Valor
+1130,Paulo Sampaio,48,676630.3,0,0.0,0,💎 VIP Premium
+1131,Augusto Siqueira,39,1025166.98,0,0.0,0,💎 VIP Premium
+1132,Gustavo Fonseca,42,636269.4,1,1359591.56,1,🌟 Alto Valor
+1133,Bryan Teixeira,41,1062253.65,0,0.0,0,💎 VIP Premium
+1134,Luísa Machado,41,835226.65,1,1513596.02,1,🌟 Alto Valor
+1135,Hadassa Siqueira,57,609287.45,0,0.0,0,💎 VIP Premium
+1136,Dra. Yasmin Camargo,57,1388774.12,4,21121000.590000007,2,📈 Em Crescimento
+1137,Ísis Barbosa,51,591800.86,0,0.0,0,💎 VIP Premium
+1138,Augusto Lima,43,793025.98,1,533146.56,1,🌟 Alto Valor
+1139,Sra. Natália Cavalcante,34,482357.87,1,1247707.78,1,🌟 Alto Valor
+1140,Srta. Rafaela Brito,57,355607.74,0,0.0,3,🆕 Novos/Inativos
+1141,Lavínia Sá,49,830949.84,0,0.0,3,🆕 Novos/Inativos
+1142,Erick Teixeira,40,655415.87,0,0.0,3,🆕 Novos/Inativos
+1143,Alexandre Ribeiro,45,824154.99,0,0.0,0,💎 VIP Premium
+1144,Camila da Costa,50,414630.05,0,0.0,0,💎 VIP Premium
+1145,Ana Cecília Novaes,32,259156.12,0,0.0,0,💎 VIP Premium
+1146,Sr. Vinicius Cirino,27,237319.14,0,0.0,3,🆕 Novos/Inativos
+1147,José Pedro Ramos,53,442833.74,1,1104776.12,1,🌟 Alto Valor
+1148,Eduardo Rocha,54,1062510.75,0,0.0,0,💎 VIP Premium
+1149,Otto Sá,29,428747.13,1,1103592.0,3,🆕 Novos/Inativos
+1150,Lavínia Pires,28,402098.77,0,0.0,3,🆕 Novos/Inativos
+1151,Gael Siqueira,33,279423.73,2,1290351.1,1,🌟 Alto Valor
+1152,Henry Gabriel Siqueira,29,252285.31,1,557261.05,3,🆕 Novos/Inativos
+1153,Manuela Andrade,61,498285.09,2,6009515.039999999,1,🌟 Alto Valor
+1154,Hellena Casa Grande,54,273915.16,0,0.0,3,🆕 Novos/Inativos
+1155,Isaque Pastor,34,209878.31,0,0.0,3,🆕 Novos/Inativos
+1156,Thiago Monteiro,36,1276963.93,1,1303638.32,1,🌟 Alto Valor
+1157,Bianca Farias,32,457556.63,2,1954473.82,1,🌟 Alto Valor
+1158,João Miguel Peixoto,54,342562.93,0,0.0,0,💎 VIP Premium
+1159,Leonardo Pereira,25,260916.92,0,0.0,3,🆕 Novos/Inativos
+1160,Pietra Fernandes,30,475633.96,3,3486231.3400000003,1,🌟 Alto Valor
+1161,Rael da Mota,34,181852.66,0,0.0,3,🆕 Novos/Inativos
+1162,Alícia Vasconcelos,32,372946.66,0,0.0,3,🆕 Novos/Inativos
+1163,Benjamin Moreira,33,284778.02,0,0.0,3,🆕 Novos/Inativos
+1164,Srta. Beatriz Cavalcanti,38,1187811.67,3,13705076.700000003,2,📈 Em Crescimento
+1165,Raquel Lima,32,371449.88,0,0.0,3,🆕 Novos/Inativos
+1166,Luigi da Rosa,49,1585561.35,3,8150188.05,2,📈 Em Crescimento
+1167,Cauã Rios,61,302415.62,0,0.0,0,💎 VIP Premium
+1168,Rael da Cunha,40,405694.14,0,0.0,0,💎 VIP Premium
+1169,Mirella Borges,54,390136.36,0,0.0,0,💎 VIP Premium
+1170,Luana Nunes,59,741614.67,1,1350065.08,1,🌟 Alto Valor
+1171,Alícia Novais,29,401313.31,1,889025.3,3,🆕 Novos/Inativos
+1172,Srta. Stephany Pereira,51,551490.13,0,0.0,0,💎 VIP Premium
+1173,Luiz Felipe Jesus,38,1477635.3,1,589010.16,1,🌟 Alto Valor
+1174,Juliana Borges,35,1584076.12,2,3605737.7800000003,1,🌟 Alto Valor
+1175,Vinícius Dias,56,958873.3,0,0.0,3,🆕 Novos/Inativos
+1176,Enzo Mendes,34,249438.84,1,1281628.58,3,🆕 Novos/Inativos
+1177,Gabriela Barbosa,49,1350649.21,0,0.0,3,🆕 Novos/Inativos
+1178,Juan Pires,39,917276.13,1,1987166.94,1,🌟 Alto Valor
+1179,Léo Câmara,44,1377329.8,1,959238.73,1,🌟 Alto Valor
+1180,Caroline Peixoto,54,999459.39,2,9138706.140000002,2,📈 Em Crescimento
+1181,Antônio Gonçalves,47,373556.23,0,0.0,0,💎 VIP Premium
+1182,Bianca Martins,28,232251.49,1,560045.62,3,🆕 Novos/Inativos
+1183,Isabela Moraes,44,1456395.18,0,0.0,0,💎 VIP Premium
+1184,Ísis da Rocha,26,198265.94,1,549197.42,3,🆕 Novos/Inativos
+1185,Pedro da Mota,50,376864.7,0,0.0,3,🆕 Novos/Inativos
+1186,Sophie Cavalcante,60,415868.5,0,0.0,3,🆕 Novos/Inativos
+1187,Eloá Oliveira,46,716353.01,0,0.0,3,🆕 Novos/Inativos
+1188,Ana Fernandes,63,223469.48,0,0.0,3,🆕 Novos/Inativos
+1189,Sara da Costa,46,1533594.3,2,3381162.26,1,🌟 Alto Valor
+1190,Luiz Fernando Duarte,34,547788.12,1,797010.21,1,🌟 Alto Valor
+1191,Brayan Moreira,26,351702.07,0,0.0,0,💎 VIP Premium
+1192,Juliana da Costa,41,1441538.42,2,11207936.959999997,2,📈 Em Crescimento
+1193,Dra. Heloísa Ribeiro,33,454391.62,2,5978599.4399999995,1,🌟 Alto Valor
+1194,Ana Luiza Ramos,27,432599.71,0,0.0,3,🆕 Novos/Inativos
+1195,Maria Liz Machado,30,305446.58,1,547457.06,3,🆕 Novos/Inativos
+1196,Dra. Nicole Monteiro,55,653997.59,2,4625767.08,1,🌟 Alto Valor
+1197,Fernanda Monteiro,58,594048.18,0,0.0,3,🆕 Novos/Inativos
+1198,Maria Cecília Sá,49,701550.7,0,0.0,3,🆕 Novos/Inativos
+1199,Luigi Freitas,28,456264.1,2,2014328.44,1,🌟 Alto Valor
+1200,Isadora Porto,35,896835.7,0,0.0,0,💎 VIP Premium
+1201,José Pedro Barros,27,585717.11,1,2545862.82,1,🌟 Alto Valor
+1202,Henry Fernandes,55,1016679.0,0,0.0,0,💎 VIP Premium
+1203,Lunna Almeida,39,1477226.12,2,7118577.660000002,1,🌟 Alto Valor
+1204,Rafaela Cavalcante,40,784832.38,2,3211162.6,1,🌟 Alto Valor
+1205,Caio Duarte,46,781591.81,1,1029995.57,1,🌟 Alto Valor
+1206,Dra. Aylla da Costa,43,787892.46,1,1076234.34,1,🌟 Alto Valor
+1207,Rafael Gomes,44,822210.45,2,1235403.5099999998,0,💎 VIP Premium
+1208,Théo Moura,47,1426107.55,1,2513909.36,1,🌟 Alto Valor
+1209,Melina da Mota,38,874368.46,1,5413599.24,1,🌟 Alto Valor
+1210,Dr. Felipe Montenegro,43,1501730.19,2,1678906.57,1,🌟 Alto Valor
+1211,Marcelo Porto,33,516284.59,1,938341.93,0,💎 VIP Premium
+1212,Ana Beatriz Moreira,43,1851148.05,2,7288810.98,2,📈 Em Crescimento
+1213,Rebeca Casa Grande,37,1211129.46,2,4928083.399999999,1,🌟 Alto Valor
+1214,Dra. Eloah Freitas,45,1208712.88,0,0.0,0,💎 VIP Premium
+1215,André Pires,48,499103.9,0,0.0,0,💎 VIP Premium
+1216,Dra. Nicole Ferreira,48,1462457.5,2,6267079.77,2,📈 Em Crescimento
+1217,Dr. Luiz Miguel Novais,34,430282.3,0,0.0,0,💎 VIP Premium
+1218,Isabella Siqueira,49,1462532.51,1,2789359.98,1,🌟 Alto Valor
+1219,Helena Nunes,49,547539.19,0,0.0,0,💎 VIP Premium
+1220,Sra. Lunna Ribeiro,29,256469.15,0,0.0,3,🆕 Novos/Inativos
+1221,Gabrielly Dias,36,1398546.5,2,5601276.6,1,🌟 Alto Valor
+1222,Dr. José Oliveira,42,657906.85,0,0.0,3,🆕 Novos/Inativos
+1223,Pedro Lucas Azevedo,29,296593.2,0,0.0,3,🆕 Novos/Inativos
+1224,Valentim da Cruz,46,564978.1,0,0.0,0,💎 VIP Premium
+1225,João Teixeira,48,1082855.87,2,7591156.85,2,📈 Em Crescimento
+1226,Sophie Fogaça,46,1842586.52,0,0.0,3,🆕 Novos/Inativos
+1227,Anna Liz Oliveira,56,716406.85,5,12611370.059999999,2,📈 Em Crescimento
+1228,Sra. Amanda Borges,33,353050.09,0,0.0,3,🆕 Novos/Inativos
+1229,Gustavo Henrique Rodrigues,34,493013.26,2,1238622.9,1,🌟 Alto Valor
+1230,Natália Jesus,39,1900834.46,3,6284885.44,2,📈 Em Crescimento
+1231,Fernando Aparecida,54,719697.05,1,1038197.79,0,💎 VIP Premium
+1232,Gael Lopes,56,723369.45,0,0.0,3,🆕 Novos/Inativos
+1233,Caleb da Paz,42,1689728.55,2,6497750.839999999,2,📈 Em Crescimento
+1234,Marcos Vinicius Cardoso,51,1150103.16,2,1204586.9300000002,1,🌟 Alto Valor
+1235,Theo Almeida,40,751536.74,0,0.0,3,🆕 Novos/Inativos
+1236,Lorena Teixeira,38,508265.02,0,0.0,3,🆕 Novos/Inativos
+1237,Elisa Mendes,51,354350.01,1,1327913.52,1,🌟 Alto Valor
+1238,Noah da Conceição,50,917137.32,0,0.0,3,🆕 Novos/Inativos
+1239,Bento Campos,26,123260.19,0,0.0,0,💎 VIP Premium
+1240,Marcela Freitas,32,226223.76,0,0.0,3,🆕 Novos/Inativos
+1241,Ana Liz Vargas,29,510975.29,1,1490149.12,1,🌟 Alto Valor
+1242,Caleb Mendonça,30,388959.4,0,0.0,3,🆕 Novos/Inativos
+1243,Cauê Fernandes,50,821570.99,0,0.0,0,💎 VIP Premium
+1244,Sr. Benicio da Paz,50,763538.11,0,0.0,3,🆕 Novos/Inativos
+1245,Luiz Fernando Nascimento,52,710282.53,0,0.0,3,🆕 Novos/Inativos
+1246,Gabriela Pereira,51,1270611.11,2,6556773.720000001,1,🌟 Alto Valor
+1247,Isabella Carvalho,25,302922.32,0,0.0,3,🆕 Novos/Inativos
+1248,Danilo Aragão,33,316799.67,0,0.0,3,🆕 Novos/Inativos
+1249,Ana Lívia Silva,64,1066818.39,2,6525638.039999999,1,🌟 Alto Valor
+1250,Letícia Ramos,46,436365.59,0,0.0,3,🆕 Novos/Inativos
+1251,Maria Helena Pereira,45,455414.37,0,0.0,3,🆕 Novos/Inativos
+1252,Igor Cavalcanti,49,1211034.67,0,0.0,3,🆕 Novos/Inativos
+1253,Bernardo Silva,32,505841.95,0,0.0,3,🆕 Novos/Inativos
+1254,Ana Laura Castro,55,745344.84,0,0.0,3,🆕 Novos/Inativos
+1255,Melissa Casa Grande,57,908691.9,0,0.0,3,🆕 Novos/Inativos
+1256,Kevin Nascimento,42,437424.74,1,1531077.3900000001,1,🌟 Alto Valor
+1257,Alexia Nogueira,37,1031283.78,0,0.0,3,🆕 Novos/Inativos
+1258,Antonella da Rosa,48,809655.96,0,0.0,3,🆕 Novos/Inativos
+1259,Sofia Cassiano,41,1885341.16,1,903793.54,1,🌟 Alto Valor
+1260,Srta. Joana Vieira,33,375512.33,1,1000989.66,3,🆕 Novos/Inativos
+1261,Heloisa Farias,54,1047272.32,0,0.0,3,🆕 Novos/Inativos
+1262,Maria Flor Gomes,33,529676.89,1,5343991.319999999,1,🌟 Alto Valor
+1263,Lucca Caldeira,36,672965.51,2,2912533.18,1,🌟 Alto Valor
+1264,Hellena da Mata,37,811446.54,1,760666.48,1,🌟 Alto Valor
+1265,Melina Pereira,37,689912.47,1,568607.29,1,🌟 Alto Valor
+1266,Elisa Costela,33,508249.58,1,1776498.28,1,🌟 Alto Valor
+1267,Sophia Brito,42,853021.16,0,0.0,0,💎 VIP Premium
+1268,Aylla Lima,33,375949.57,2,1130359.32,1,🌟 Alto Valor
+1269,José Pedro Peixoto,40,847286.83,2,3740376.52,1,🌟 Alto Valor
+1270,Noah Moreira,44,540145.87,0,0.0,3,🆕 Novos/Inativos
+1271,Zoe Pinto,41,923935.84,1,980072.24,1,🌟 Alto Valor
+1272,Dr. Levi Ribeiro,36,947768.02,1,1369973.65,1,🌟 Alto Valor
+1273,Sr. Brayan Melo,53,950171.76,0,0.0,3,🆕 Novos/Inativos
+1274,Carolina Brito,35,508948.32,0,0.0,3,🆕 Novos/Inativos
+1275,Vinícius Pacheco,45,1219109.66,3,14683520.549999995,2,📈 Em Crescimento
+1276,Dr. João Castro,43,936360.72,1,2316442.96,1,🌟 Alto Valor
+1277,Liam Câmara,37,840587.64,0,0.0,3,🆕 Novos/Inativos
+1278,Maitê Sampaio,55,642471.27,1,912346.52,1,🌟 Alto Valor
+1279,Dante Cavalcanti,29,293040.01,0,0.0,0,💎 VIP Premium
+1280,Ana Caldeira,60,491224.85,0,0.0,0,💎 VIP Premium
+1281,Vitor Gabriel Albuquerque,37,575378.8,1,1813313.34,0,💎 VIP Premium
+1282,Dr. Anthony Gabriel da Mata,56,1337525.7,1,834208.61,0,💎 VIP Premium
+1283,Isis da Conceição,41,1164159.29,0,0.0,3,🆕 Novos/Inativos
+1284,Dr. Théo Cavalcanti,48,859278.48,1,2425129.14,1,🌟 Alto Valor
+1285,Leandro Rezende,40,1269406.99,1,1579796.2,1,🌟 Alto Valor
+1286,Rebeca Rodrigues,37,1167351.23,0,0.0,0,💎 VIP Premium
+1287,Maria Helena Rodrigues,55,1429116.36,1,3301175.92,1,🌟 Alto Valor
+1288,Sr. Arthur Gabriel Gomes,56,460112.09,1,2414063.24,1,🌟 Alto Valor
+1289,Cauã Moraes,49,1414339.44,1,1144147.64,1,🌟 Alto Valor
+1290,José Miguel Rios,27,564180.54,0,0.0,3,🆕 Novos/Inativos
+1291,Bianca Albuquerque,38,313242.13,0,0.0,0,💎 VIP Premium
+1292,Mariana Pastor,47,1911344.67,3,13839618.639999997,2,📈 Em Crescimento
+1293,Isabel Andrade,51,979034.13,1,2356415.3,1,🌟 Alto Valor
+1294,Elisa Moreira,33,620411.39,0,0.0,0,💎 VIP Premium
+1295,Valentim Moraes,28,494200.01,0,0.0,3,🆕 Novos/Inativos
+1297,Yan Barros,50,239153.68,0,0.0,3,🆕 Novos/Inativos
+1298,Ana Julia Viana,55,999064.0,0,0.0,3,🆕 Novos/Inativos
+1299,Gael Henrique Siqueira,47,1163377.64,3,11886037.349999998,2,📈 Em Crescimento
+1300,Augusto Lopes,48,1004211.3,0,0.0,0,💎 VIP Premium
+1301,Srta. Larissa Abreu,36,909233.6,1,1341221.52,1,🌟 Alto Valor
+1302,Léo Vargas,43,672893.97,0,0.0,0,💎 VIP Premium
+1303,Eduarda Gomes,44,965733.38,0,0.0,0,💎 VIP Premium
+1304,Raquel Viana,45,852911.8,1,1290457.62,0,💎 VIP Premium
+1305,Alícia Sales,41,1481687.1,1,820259.21,1,🌟 Alto Valor
+1306,Kevin Barros,35,1071116.11,1,1953602.34,1,🌟 Alto Valor
+1307,Lavínia Santos,49,1226434.68,1,995742.21,1,🌟 Alto Valor
+1308,Caleb Pereira,31,427823.18,1,388926.48,3,🆕 Novos/Inativos
+1309,Ana Júlia Santos,38,1787223.97,3,14823309.879999997,2,📈 Em Crescimento
+1310,Alexandre Oliveira,29,283049.68,1,677174.19,3,🆕 Novos/Inativos
+1311,Benjamim Marques,55,347821.08,0,0.0,3,🆕 Novos/Inativos
+1312,Caio Mendonça,41,1121705.18,2,5548059.319999999,1,🌟 Alto Valor
+1313,Rodrigo Azevedo,61,715828.25,0,0.0,0,💎 VIP Premium
+1314,Caio Dias,46,1899506.69,3,4557823.68,2,📈 Em Crescimento
+1315,Ravi Barbosa,62,1067304.44,2,12326791.619999997,2,📈 Em Crescimento
+1316,Sra. Laís da Conceição,34,387327.59,0,0.0,3,🆕 Novos/Inativos
+1317,João Lucas Melo,33,259294.33,2,2183605.8000000003,1,🌟 Alto Valor
+1318,José Pedro Farias,47,1702892.57,5,31904696.740000006,2,📈 Em Crescimento
+1319,Sra. Maysa da Cunha,39,413453.49,0,0.0,0,💎 VIP Premium
+1320,Yan Câmara,40,2096045.54,1,1278415.82,1,🌟 Alto Valor
+1321,Ana Julia Farias,28,301780.33,0,0.0,3,🆕 Novos/Inativos
+1322,Eduarda Costela,42,1004094.23,0,0.0,3,🆕 Novos/Inativos
+1323,Igor Brito,34,378443.28,0,0.0,3,🆕 Novos/Inativos
+1324,Felipe Cavalcante,35,417200.21,0,0.0,0,💎 VIP Premium
+1325,Dr. Bento Albuquerque,52,859582.99,0,0.0,3,🆕 Novos/Inativos
+1326,Pedro Lucas Porto,39,592395.37,0,0.0,3,🆕 Novos/Inativos
+1327,Dr. Arthur da Conceição,40,415857.94,0,0.0,3,🆕 Novos/Inativos
+1328,Luiz Fernando Cardoso,56,349012.05,0,0.0,0,💎 VIP Premium
+1329,Lucca Pimenta,33,215129.12,0,0.0,0,💎 VIP Premium
+1331,Sra. Pietra da Luz,37,1310784.4,0,0.0,3,🆕 Novos/Inativos
+1332,Sra. Heloisa Almeida,34,337762.34,0,0.0,3,🆕 Novos/Inativos
+1333,Thales Cunha,51,957630.38,1,2729418.33,1,🌟 Alto Valor
+1334,Francisco Ribeiro,37,1291470.66,2,1606686.1,1,🌟 Alto Valor
+1335,Ana Clara Fogaça,45,1413041.51,1,1888373.26,1,🌟 Alto Valor
+1336,Maria Júlia Macedo,50,390672.42,0,0.0,0,💎 VIP Premium
+1337,Ester Borges,33,644117.86,1,812366.18,0,💎 VIP Premium
+1338,Dr. Vicente Cirino,30,211986.22,0,0.0,3,🆕 Novos/Inativos
+1339,Yan Abreu,54,335955.01,0,0.0,0,💎 VIP Premium
+1340,Rebeca Silveira,37,813834.98,2,7911383.219999999,2,📈 Em Crescimento
+1341,Sr. Levi Nunes,52,358517.01,1,563417.35,0,💎 VIP Premium
+1342,Helena Azevedo,39,522216.04,0,0.0,3,🆕 Novos/Inativos
+1343,Aylla Moraes,53,492320.76,3,9406670.759999998,2,📈 Em Crescimento
+1344,Ian Carvalho,31,229695.79,0,0.0,0,💎 VIP Premium
+1345,Maria Cecília Oliveira,54,348141.21,0,0.0,0,💎 VIP Premium
+1346,Pedro Lucas Monteiro,39,523555.32,1,1663489.52,1,🌟 Alto Valor
+1347,Miguel Costa,46,1336795.89,1,2243293.26,1,🌟 Alto Valor
+1348,Vitor Gabriel Câmara,48,890414.89,0,0.0,3,🆕 Novos/Inativos
+1349,Emanuel Pacheco,49,1112683.32,0,0.0,0,💎 VIP Premium
+1350,Bruno Costa,48,1272597.16,1,917372.34,1,🌟 Alto Valor
+1351,Matheus da Conceição,43,1067997.97,2,10929981.360000001,2,📈 Em Crescimento
+1352,Arthur Miguel Macedo,33,447601.17,0,0.0,3,🆕 Novos/Inativos
+1353,Maria Flor Cavalcante,37,806760.1,0,0.0,0,💎 VIP Premium
+1354,Cecilia Sousa,48,472511.67,0,0.0,0,💎 VIP Premium
+1355,Clara Porto,32,332279.05,0,0.0,3,🆕 Novos/Inativos
+1356,Davi Luiz Silveira,39,1142871.14,1,1193469.38,1,🌟 Alto Valor
+1357,Srta. Ana Vitória Barros,55,942022.9,0,0.0,3,🆕 Novos/Inativos
+1358,Maria Liz Pastor,44,735194.84,0,0.0,3,🆕 Novos/Inativos
+1359,Ana Luiza Lopes,49,662659.85,2,3523476.24,1,🌟 Alto Valor
+1360,Lorena Moraes,41,674819.59,1,6721564.199999998,1,🌟 Alto Valor
+1361,Emilly Camargo,38,880351.42,0,0.0,0,💎 VIP Premium
+1362,Benjamim Rios,42,1055936.46,1,2489365.54,1,🌟 Alto Valor
+1363,Maria Sophia Câmara,36,522879.48,0,0.0,3,🆕 Novos/Inativos
+1364,Bruno Freitas,54,723086.16,0,0.0,3,🆕 Novos/Inativos
+1365,João Felipe Rodrigues,44,1665987.11,1,5499011.58,1,🌟 Alto Valor
+1366,Milena Cardoso,33,646947.0,0,0.0,0,💎 VIP Premium
+1367,Maria Alice Cassiano,36,1378253.02,1,6892605.88,1,🌟 Alto Valor
+1368,Srta. Ana Luiza das Neves,63,306464.99,0,0.0,0,💎 VIP Premium
+1369,Miguel Moura,38,657153.86,0,0.0,3,🆕 Novos/Inativos
+1370,Emanuelly Silveira,29,338076.27,0,0.0,0,💎 VIP Premium
+1371,Enzo Gabriel Cassiano,42,933037.05,2,6915510.86,1,🌟 Alto Valor
+1372,Dra. Hellena Viana,32,423455.6,1,1390661.86,1,🌟 Alto Valor
+1373,Natália Aparecida,44,917049.52,1,1749296.7,1,🌟 Alto Valor
+1374,Eduardo Gonçalves,30,473510.41,1,1259910.42,3,🆕 Novos/Inativos
+1376,Lavínia da Cunha,49,522818.13,1,1510595.98,1,🌟 Alto Valor
+1377,Lucca Cunha,41,1805610.75,0,0.0,3,🆕 Novos/Inativos
+1378,Cauã da Costa,63,618585.22,0,0.0,3,🆕 Novos/Inativos
+1379,Emanuella Guerra,42,1063994.96,0,0.0,3,🆕 Novos/Inativos
+1380,Ana Clara Fonseca,56,348145.07,0,0.0,3,🆕 Novos/Inativos
+1381,Dr. João Gabriel Almeida,28,134049.89,0,0.0,3,🆕 Novos/Inativos
+1382,Agatha Carvalho,42,977744.79,0,0.0,3,🆕 Novos/Inativos
+1383,Brayan Costa,36,1041115.84,1,4010319.4,1,🌟 Alto Valor
+1384,Brayan Cavalcante,29,429710.45,0,0.0,3,🆕 Novos/Inativos
+1385,Dra. Vitória Nascimento,36,548720.67,0,0.0,3,🆕 Novos/Inativos
+1386,Maria Helena Farias,37,601458.86,1,591838.45,1,🌟 Alto Valor
+1387,Bernardo Fogaça,36,1750241.03,1,2889052.22,1,🌟 Alto Valor
+1388,Davi Miguel Leão,37,889357.79,2,4116730.2600000002,1,🌟 Alto Valor
+1389,Caio Leão,47,1352339.58,1,2606799.27,1,🌟 Alto Valor
+1390,Srta. Olivia Costa,49,1715752.8,2,2195241.1500000004,1,🌟 Alto Valor
+1391,Maria Alice Carvalho,53,1365998.41,2,3806984.48,1,🌟 Alto Valor
+1392,Vinícius Castro,32,374475.19,0,0.0,0,💎 VIP Premium
+1393,Lívia Pimenta,53,761216.31,1,3705529.16,1,🌟 Alto Valor
+1394,Leandro Pimenta,42,463199.46,0,0.0,0,💎 VIP Premium
+1395,Julia Almeida,51,459259.06,1,1178459.97,1,🌟 Alto Valor
+1396,Yasmin Ramos,43,488575.63,1,1257854.26,1,🌟 Alto Valor
+1397,Lunna da Rosa,51,532238.9,0,0.0,0,💎 VIP Premium
+1398,João Lucas Nunes,35,641996.09,1,3149192.8199999994,1,🌟 Alto Valor
+1399,Danilo Costela,50,1074719.12,3,12519411.719999999,2,📈 Em Crescimento
+1400,Marina Barros,30,462326.53,0,0.0,3,🆕 Novos/Inativos
+1401,Brayan Câmara,29,525989.02,0,0.0,0,💎 VIP Premium
+1402,Fernando da Luz,58,1006232.96,1,2628118.62,1,🌟 Alto Valor
+1403,Arthur Gabriel Novaes,61,350893.21,1,1177893.54,1,🌟 Alto Valor
+1404,Julia Correia,41,525679.39,2,2866127.94,1,🌟 Alto Valor
+1405,Lara Lima,39,735742.22,1,987907.58,1,🌟 Alto Valor
+1406,Davi Luiz Almeida,31,452859.51,0,0.0,0,💎 VIP Premium
+1407,Nina Macedo,34,259902.73,0,0.0,3,🆕 Novos/Inativos
+1408,Manuella Sá,36,964720.36,1,624943.32,1,🌟 Alto Valor
+1409,Eloá da Costa,57,502228.64,0,0.0,0,💎 VIP Premium
+1410,Rafael Silva,35,835862.55,0,0.0,3,🆕 Novos/Inativos
+1412,Vitor Gabriel Macedo,51,446643.32,1,574108.52,0,💎 VIP Premium
+1413,Sra. Maria Isis Gonçalves,32,506230.18,1,988139.05,0,💎 VIP Premium
+1414,Caio Aragão,28,255433.16,0,0.0,3,🆕 Novos/Inativos
+1415,Ryan da Rocha,49,1021149.41,1,1632870.02,1,🌟 Alto Valor
+1416,Luiza Sousa,30,388415.14,0,0.0,0,💎 VIP Premium
+1417,Enrico Almeida,62,206826.64,0,0.0,3,🆕 Novos/Inativos
+1418,Dra. Agatha Sales,35,1003003.46,1,2637284.76,1,🌟 Alto Valor
+1419,Luísa Albuquerque,49,970708.44,1,2733426.69,1,🌟 Alto Valor
+1420,Melissa Monteiro,58,703767.82,0,0.0,3,🆕 Novos/Inativos
+1421,Olívia Dias,32,448596.63,1,373766.76,3,🆕 Novos/Inativos
+1422,Catarina Alves,29,595314.45,0,0.0,0,💎 VIP Premium
+1423,Dr. Igor Lopes,53,390153.51,1,412046.45,0,💎 VIP Premium
+1424,Lucas Gabriel Ribeiro,54,480310.75,0,0.0,0,💎 VIP Premium
+1425,Yasmin Câmara,38,1216869.65,1,1037476.71,1,🌟 Alto Valor
+1426,Sra. Zoe Cassiano,48,1429331.7,2,7111975.7,1,🌟 Alto Valor
+1427,Vitor Gabriel Araújo,59,831878.39,0,0.0,3,🆕 Novos/Inativos
+1428,Isabelly Dias,40,1493669.17,1,1800731.68,1,🌟 Alto Valor
+1429,Cecília Silva,59,844016.33,0,0.0,3,🆕 Novos/Inativos
+1430,Vitor Cunha,49,610459.71,1,1108564.67,1,🌟 Alto Valor
+1431,Lara Oliveira,26,329738.87,1,759601.18,3,🆕 Novos/Inativos
+1432,Enzo Gabriel Santos,27,164701.4,0,0.0,0,💎 VIP Premium
+1433,Lorenzo Pires,26,465542.21,1,451168.91,3,🆕 Novos/Inativos
+1434,Eloá Ribeiro,39,385399.24,0,0.0,3,🆕 Novos/Inativos
+1435,Theodoro Pimenta,40,819964.61,1,1700913.36,1,🌟 Alto Valor
+1436,Miguel Marques,32,496662.26,0,0.0,0,💎 VIP Premium
+1437,Eduardo Brito,35,760187.26,0,0.0,0,💎 VIP Premium
+1438,Maria Isis Brito,36,689413.23,0,0.0,3,🆕 Novos/Inativos
+1439,Ravi Lucca Pereira,37,560766.8,0,0.0,3,🆕 Novos/Inativos
+1440,Sra. Marcela Ribeiro,34,303622.87,0,0.0,0,💎 VIP Premium
+1441,Maria Oliveira,53,381839.8,0,0.0,3,🆕 Novos/Inativos
+1442,João Gabriel Rios,29,629061.77,0,0.0,3,🆕 Novos/Inativos
+1443,Noah Lima,43,735490.81,1,1720445.46,1,🌟 Alto Valor
+1444,Sara da Cunha,47,1498702.0,2,1826376.9,1,🌟 Alto Valor
+1445,Raul Moreira,50,764016.35,0,0.0,0,💎 VIP Premium
+1447,Yuri Pereira,40,1953213.69,0,0.0,3,🆕 Novos/Inativos
+1448,Esther Rios,37,502767.7,1,1313446.82,1,🌟 Alto Valor
+1449,Dr. Isaac Albuquerque,64,701294.98,0,0.0,3,🆕 Novos/Inativos
+1450,Maria Alice Ramos,44,876175.69,2,4450861.41,1,🌟 Alto Valor
+1451,Melissa Nunes,50,642674.02,1,2038975.7,1,🌟 Alto Valor
+1452,Gabrielly Lima,41,578860.45,1,1833596.68,1,🌟 Alto Valor
+1453,Luigi Lima,46,1039891.14,3,9874873.36,2,📈 Em Crescimento
+1454,Pietra Carvalho,60,982974.84,0,0.0,3,🆕 Novos/Inativos
+1455,Theo das Neves,59,418972.1,0,0.0,3,🆕 Novos/Inativos
+1456,Igor Nascimento,44,1104381.19,1,1465966.8,1,🌟 Alto Valor
+1457,Alexandre Sousa,37,873962.14,0,0.0,0,💎 VIP Premium
+1458,Júlia Nascimento,38,1030795.47,0,0.0,3,🆕 Novos/Inativos
+1459,Levi Brito,40,452839.22,1,2037849.52,1,🌟 Alto Valor
+1460,Ana Julia Fonseca,28,387842.86,0,0.0,0,💎 VIP Premium
+1461,Vitória Siqueira,46,1774771.23,0,0.0,3,🆕 Novos/Inativos
+1462,Arthur Miguel Farias,46,960831.86,0,0.0,3,🆕 Novos/Inativos
+1463,Srta. Isabella Ramos,52,600014.95,2,3959863.2,1,🌟 Alto Valor
+1464,Olívia Costa,27,377362.8,0,0.0,3,🆕 Novos/Inativos
+1465,Hadassa Duarte,44,1735586.91,2,3496045.26,1,🌟 Alto Valor
+1466,João Lucas Garcia,36,560538.3,0,0.0,3,🆕 Novos/Inativos
+1467,Miguel Carvalho,41,1513946.6,1,927567.93,0,💎 VIP Premium
+1468,Manuela Mendes,57,622579.68,0,0.0,3,🆕 Novos/Inativos
+1469,Enzo Gabriel Rezende,52,527065.57,0,0.0,0,💎 VIP Premium
+1470,Dr. Lucas Porto,31,670820.25,0,0.0,3,🆕 Novos/Inativos
+1471,Dra. Ana Sophia Carvalho,30,503393.71,0,0.0,0,💎 VIP Premium
+1472,João Farias,42,904090.18,0,0.0,3,🆕 Novos/Inativos
+1473,Srta. Ana Costela,29,385297.48,0,0.0,0,💎 VIP Premium
+1474,Alexia Almeida,36,536298.45,0,0.0,0,💎 VIP Premium
+1475,Giovanna Câmara,34,238308.08,0,0.0,0,💎 VIP Premium
+1476,Isaque Viana,53,606039.46,0,0.0,3,🆕 Novos/Inativos
+1477,Sra. Ana Cecília Oliveira,32,479557.54,1,1376870.18,1,🌟 Alto Valor
+1478,Heitor Silva,40,635126.92,0,0.0,3,🆕 Novos/Inativos
+1479,Luiz Fernando Moraes,37,792341.27,1,1326031.74,1,🌟 Alto Valor
+1480,Luiz Otávio Porto,43,471206.33,0,0.0,3,🆕 Novos/Inativos
+1481,Sr. Carlos Eduardo Garcia,32,348140.16,0,0.0,0,💎 VIP Premium
+1482,Mariah Vargas,53,685251.84,0,0.0,3,🆕 Novos/Inativos
+1483,Dra. Maria Sophia Barbosa,31,248084.0,0,0.0,3,🆕 Novos/Inativos
+1484,Gabriel Rios,38,496931.75,1,1933076.0100000002,1,🌟 Alto Valor
+1485,João Porto,42,1755461.13,3,10185014.4,2,📈 Em Crescimento
+1486,Ana Clara Leão,60,712450.45,1,1744084.36,1,🌟 Alto Valor
+1487,Sophia Marques,28,354600.06,0,0.0,0,💎 VIP Premium
+1488,Antônio Ramos,59,714164.83,0,0.0,3,🆕 Novos/Inativos
+1489,Ana Luiza Montenegro,29,150274.74,0,0.0,0,💎 VIP Premium
+1490,Alice da Cunha,39,1345568.79,0,0.0,3,🆕 Novos/Inativos
+1491,Carolina Gonçalves,39,1543614.38,1,5619744.360000001,2,📈 Em Crescimento
+1492,Nicole Carvalho,31,525355.01,0,0.0,3,🆕 Novos/Inativos
+1493,Marcelo Vasconcelos,41,1476327.63,0,0.0,3,🆕 Novos/Inativos
+1494,Renan Cassiano,41,1614064.85,1,2160292.12,1,🌟 Alto Valor
+1495,Anthony Gabriel da Luz,35,806945.46,1,1386375.0,1,🌟 Alto Valor
+1496,Beatriz Sales,60,990778.62,0,0.0,3,🆕 Novos/Inativos
+1497,Lucas Gabriel Vasconcelos,41,687877.37,1,663575.2,0,💎 VIP Premium
+1498,Lucca Martins,32,503795.95,0,0.0,0,💎 VIP Premium
+1500,Thomas Melo,59,1106558.57,1,3502833.05,1,🌟 Alto Valor
+1501,Brenda Nunes,37,1252132.4,0,0.0,3,🆕 Novos/Inativos
+1502,Juan Viana,48,1499326.97,2,16024371.12,2,📈 Em Crescimento
+1503,Diego Siqueira,54,860708.44,1,2777863.4699999997,1,🌟 Alto Valor
+1504,Maria Dias,49,492408.76,1,502024.59,3,🆕 Novos/Inativos
+1505,Dr. Vitor Hugo Ferreira,41,776955.46,0,0.0,3,🆕 Novos/Inativos
+1506,Ágatha Guerra,58,796606.91,0,0.0,3,🆕 Novos/Inativos
+1507,Theodoro Moura,27,224970.05,0,0.0,0,💎 VIP Premium
+1508,Lavínia Pinto,56,474517.51,0,0.0,0,💎 VIP Premium
+1509,Luan da Conceição,44,937029.89,1,3297580.17,1,🌟 Alto Valor
+1510,Luiza da Mota,40,1856124.1,2,5564070.7,1,🌟 Alto Valor
+1511,Sr. Gustavo Henrique Teixeira,39,1414746.92,5,17685518.919999998,2,📈 Em Crescimento
+1512,Brenda Pimenta,28,574889.27,0,0.0,0,💎 VIP Premium
+1513,Caleb Gomes,50,826760.44,0,0.0,3,🆕 Novos/Inativos
+1514,Alexia Nogueira,47,1103582.5,0,0.0,0,💎 VIP Premium
+1515,Sophie da Mota,34,479711.07,1,1112544.4500000002,3,🆕 Novos/Inativos
+1516,Maria Eduarda Sales,44,1371477.88,1,760113.84,1,🌟 Alto Valor
+1517,Sr. João Lucas Jesus,32,426166.41,0,0.0,3,🆕 Novos/Inativos
+1518,Melina Casa Grande,34,262819.26,0,0.0,0,💎 VIP Premium
+1519,Hellena Moraes,35,1526102.22,0,0.0,3,🆕 Novos/Inativos
+1520,Julia Sales,47,1195141.53,0,0.0,0,💎 VIP Premium
+1521,Caio Castro,41,707629.69,0,0.0,3,🆕 Novos/Inativos
+1522,Allana da Paz,35,1163084.39,0,0.0,3,🆕 Novos/Inativos
+1523,Bryan Cardoso,55,242584.97,0,0.0,3,🆕 Novos/Inativos
+1524,Sr. Davi Lucas Alves,40,1273961.05,0,0.0,3,🆕 Novos/Inativos
+1525,Emanuelly Casa Grande,28,161869.91,0,0.0,0,💎 VIP Premium
+1526,Dr. Gustavo Siqueira,27,609848.43,0,0.0,3,🆕 Novos/Inativos
+1527,Sr. Davi Lucas Marques,44,948687.32,0,0.0,0,💎 VIP Premium
+1528,Pedro Miguel Jesus,34,193701.85,0,0.0,3,🆕 Novos/Inativos
+1529,Arthur Miguel Jesus,62,1117885.7,0,0.0,3,🆕 Novos/Inativos
+1530,Leandro Aragão,35,1368097.46,0,0.0,0,💎 VIP Premium
+1531,Dr. Erick Almeida,54,763385.96,0,0.0,3,🆕 Novos/Inativos
+1532,Vinícius Casa Grande,35,480068.26,0,0.0,3,🆕 Novos/Inativos
+1533,Benício Moura,57,807065.7,1,2130162.54,1,🌟 Alto Valor
+1534,Léo das Neves,39,634451.82,2,7976829.0,1,🌟 Alto Valor
+1535,Alana da Costa,45,645993.05,0,0.0,0,💎 VIP Premium
+1536,Melissa Novaes,30,425078.01,0,0.0,3,🆕 Novos/Inativos
+1537,Srta. Nina Teixeira,43,596049.03,0,0.0,3,🆕 Novos/Inativos
+1538,Larissa Porto,31,287295.1,0,0.0,0,💎 VIP Premium
+1539,Dante Almeida,60,646639.45,0,0.0,3,🆕 Novos/Inativos
+1540,Brenda Leão,39,760011.77,1,2038997.54,1,🌟 Alto Valor
+1541,Maria Isis da Cunha,52,227397.6,1,1606169.5499999998,1,🌟 Alto Valor
+1542,André Cirino,42,900338.56,0,0.0,0,💎 VIP Premium
+1543,Heitor Gonçalves,47,519126.63,0,0.0,3,🆕 Novos/Inativos
+1544,Miguel Rios,58,169779.0,0,0.0,3,🆕 Novos/Inativos
+1545,Lorenzo Araújo,53,395518.08,1,1087209.9,1,🌟 Alto Valor
+1546,Stephany Vargas,44,1516375.15,0,0.0,3,🆕 Novos/Inativos
+1547,Ana Luiza Câmara,48,1468682.04,2,5380369.92,1,🌟 Alto Valor
+1548,Sr. Marcos Vinicius Melo,51,430864.17,0,0.0,0,💎 VIP Premium
+1549,Luan Almeida,33,744607.9,0,0.0,3,🆕 Novos/Inativos
+1550,Isadora Novaes,35,939495.02,2,8835367.0,2,📈 Em Crescimento
+1551,Sara Montenegro,35,1712785.28,6,32490673.92,2,📈 Em Crescimento
+1552,Juan Viana,47,1769943.68,2,18684683.58,2,📈 Em Crescimento
+1553,Gabrielly Araújo,31,170154.5,0,0.0,3,🆕 Novos/Inativos
+1554,Dr. Ian Moura,50,612178.88,1,1663255.44,1,🌟 Alto Valor
+1555,Erick Farias,56,657549.63,3,9759846.749999998,2,📈 Em Crescimento
+1556,Davi Luiz Albuquerque,43,1601007.02,0,0.0,0,💎 VIP Premium
+1557,Maria Vitória Sales,43,1517966.73,2,1835215.98,1,🌟 Alto Valor
+1558,Valentim Moreira,54,699241.19,1,2880222.93,1,🌟 Alto Valor
+1559,Valentina Pereira,38,554712.08,0,0.0,3,🆕 Novos/Inativos
+1560,Lorenzo Jesus,29,479884.46,0,0.0,3,🆕 Novos/Inativos
+1561,Arthur da Costa,35,2021709.57,3,9049483.440000001,2,📈 Em Crescimento
+1562,Bella Caldeira,45,621164.23,0,0.0,0,💎 VIP Premium
+1563,Emanuel Pimenta,57,557350.17,0,0.0,0,💎 VIP Premium
+1564,Alexia Costela,37,469419.17,0,0.0,3,🆕 Novos/Inativos
+1565,Ana Vitória Araújo,34,454058.57,1,2214024.9899999998,1,🌟 Alto Valor
+1566,Sr. Arthur Gabriel da Rocha,34,568721.37,0,0.0,3,🆕 Novos/Inativos
+1567,João Lucas Viana,53,795492.59,2,3299883.78,1,🌟 Alto Valor
+1568,Luiz Fernando Pimenta,39,944887.93,1,1935040.7,1,🌟 Alto Valor
+1569,Emanuel Oliveira,39,566589.96,0,0.0,3,🆕 Novos/Inativos
+1571,Rael Silveira,37,855870.42,0,0.0,0,💎 VIP Premium
+1572,Alexia Rios,47,1147525.9,0,0.0,3,🆕 Novos/Inativos
+1573,José Pedro Nogueira,39,683835.8,0,0.0,3,🆕 Novos/Inativos
+1574,Sr. Asafe Cassiano,37,1387683.05,4,12855381.659999998,2,📈 Em Crescimento
+1575,Sofia Novaes,37,851277.99,0,0.0,0,💎 VIP Premium
+1576,Vitor Gabriel Alves,56,613748.25,1,1361511.12,1,🌟 Alto Valor
+1577,Luara Pimenta,30,497808.41,1,1945210.1400000001,1,🌟 Alto Valor
+1578,Dr. Emanuel Azevedo,46,489191.3,1,391715.45,0,💎 VIP Premium
+1579,Fernando Gonçalves,46,1407863.3,1,2185129.92,1,🌟 Alto Valor
+1580,Sr. Thomas Pires,46,1561941.4,2,6690582.9,2,📈 Em Crescimento
+1581,Eduarda Ribeiro,34,297305.47,1,1529178.3900000001,3,🆕 Novos/Inativos
+1582,Sr. João Gabriel Costela,39,1468558.48,3,3364066.89,1,🌟 Alto Valor
+1583,Cecilia da Luz,43,1225434.81,2,5986935.75,1,🌟 Alto Valor
+1584,Dra. Brenda Pastor,40,484027.8,0,0.0,0,💎 VIP Premium
+1586,Benjamin Moreira,42,459182.81,1,962487.2,3,🆕 Novos/Inativos
+1587,Thomas da Mata,52,787497.35,1,1839330.04,1,🌟 Alto Valor
+1588,Maria Júlia Cavalcante,31,505253.66,0,0.0,3,🆕 Novos/Inativos
+1589,Yuri Jesus,31,216319.66,0,0.0,3,🆕 Novos/Inativos
+1590,Emanuella Peixoto,56,1076627.02,2,6934270.999999999,2,📈 Em Crescimento
+1591,Luigi Aragão,32,129582.95,0,0.0,0,💎 VIP Premium
+1592,Hellena da Cruz,51,899233.18,0,0.0,3,🆕 Novos/Inativos
+1593,Augusto Leão,35,920161.67,0,0.0,0,💎 VIP Premium
+1594,Maya Cardoso,47,775556.69,0,0.0,3,🆕 Novos/Inativos
+1595,João Gabriel Lima,44,770675.11,1,860759.98,0,💎 VIP Premium
+1597,Ravi Melo,44,1145218.64,1,2888522.43,1,🌟 Alto Valor
+1598,João Lucas Lima,56,405983.54,1,2043128.91,1,🌟 Alto Valor
+1599,Esther Cavalcanti,49,713363.7,0,0.0,3,🆕 Novos/Inativos
+1600,João Felipe Ferreira,52,289654.24,0,0.0,3,🆕 Novos/Inativos
+1601,Vitor Gabriel Freitas,25,331067.66,1,696409.32,3,🆕 Novos/Inativos
+1602,Juliana Azevedo,29,179226.26,0,0.0,0,💎 VIP Premium
+1603,Lorenzo Vasconcelos,43,354419.59,0,0.0,3,🆕 Novos/Inativos
+1604,Henry Marques,42,1657983.35,0,0.0,3,🆕 Novos/Inativos
+1605,Caroline Rocha,38,1294121.57,1,1719296.24,1,🌟 Alto Valor
+1606,Ana Beatriz Araújo,56,411414.34,0,0.0,3,🆕 Novos/Inativos
+1607,Maria Isis Almeida,33,615773.77,1,593190.68,3,🆕 Novos/Inativos
+1608,Isabelly Cunha,57,583669.5,0,0.0,0,💎 VIP Premium
+1609,Srta. Mariah Jesus,49,1222548.57,0,0.0,0,💎 VIP Premium
+1610,Theodoro Teixeira,43,846049.19,1,3336065.78,1,🌟 Alto Valor
+1611,Maria Liz Alves,59,1158543.87,0,0.0,3,🆕 Novos/Inativos
+1612,Maria Liz Rodrigues,46,1335376.86,3,7823684.099999999,2,📈 Em Crescimento
+1613,Felipe Vargas,47,1065985.89,1,604998.65,1,🌟 Alto Valor
+1614,Raul Sousa,39,945234.85,0,0.0,0,💎 VIP Premium
+1615,Vitor Gabriel Rodrigues,38,1542945.01,1,4175664.5,1,🌟 Alto Valor
+1616,Milena Alves,39,1220539.55,1,3455393.68,1,🌟 Alto Valor
+1617,Vitória Castro,29,428932.01,0,0.0,0,💎 VIP Premium
+1618,Sarah Abreu,54,543014.72,0,0.0,3,🆕 Novos/Inativos
+1619,Isis Vargas,42,1274226.58,1,2328493.08,1,🌟 Alto Valor
+1620,Letícia Aparecida,47,724423.46,2,1934944.1600000001,1,🌟 Alto Valor
+1621,Eloah Peixoto,45,1848095.38,1,1299840.7,1,🌟 Alto Valor
+1622,Maitê Nunes,35,1137866.43,1,779535.11,1,🌟 Alto Valor
+1623,Brenda Cavalcante,31,477016.78,0,0.0,3,🆕 Novos/Inativos
+1624,Ana Laura Porto,40,893275.85,0,0.0,0,💎 VIP Premium
+1625,Dr. André Barros,29,290448.85,0,0.0,3,🆕 Novos/Inativos
+1626,Ayla Cassiano,38,370176.43,0,0.0,3,🆕 Novos/Inativos
+1627,Maria Flor Rezende,32,228227.59,0,0.0,0,💎 VIP Premium
+1628,Sra. Jade Montenegro,34,560413.3,1,912249.34,3,🆕 Novos/Inativos
+1629,Luiz Gustavo Silva,38,908347.17,2,8095083.030000001,2,📈 Em Crescimento
+1630,Mateus Guerra,51,341155.39,0,0.0,0,💎 VIP Premium
+1631,Raquel Rios,43,1821732.21,1,740534.67,0,💎 VIP Premium
+1632,Carolina Albuquerque,33,344589.19,1,661768.17,3,🆕 Novos/Inativos
+1633,Daniela Pastor,51,424243.81,0,0.0,0,💎 VIP Premium
+1634,Dr. Anthony Gabriel da Rosa,52,747618.68,1,1425489.76,1,🌟 Alto Valor
+1635,Vitória Souza,29,211343.38,1,773456.09,3,🆕 Novos/Inativos
+1636,Clara Pimenta,36,595596.14,0,0.0,3,🆕 Novos/Inativos
+1637,Valentim Oliveira,52,419030.06,0,0.0,0,💎 VIP Premium
+1638,Maria Isis da Rosa,51,198468.59,1,777434.86,3,🆕 Novos/Inativos
+1639,Ryan Lima,43,761014.13,0,0.0,3,🆕 Novos/Inativos
+1640,Léo Guerra,52,1085733.74,1,1211850.86,1,🌟 Alto Valor
+1641,Lívia Mendes,28,123674.3,0,0.0,3,🆕 Novos/Inativos
+1642,Evelyn Mendes,41,611589.58,0,0.0,3,🆕 Novos/Inativos
+1643,Otto Borges,45,433194.31,0,0.0,3,🆕 Novos/Inativos
+1644,Gustavo Henrique Marques,41,1394867.16,1,2403149.02,1,🌟 Alto Valor
+1645,Thales Lopes,33,427194.05,1,2264806.12,1,🌟 Alto Valor
+1646,Ana Sophia Viana,46,762859.06,0,0.0,0,💎 VIP Premium
+1647,João Felipe Fogaça,55,592787.29,3,7848735.880000001,2,📈 Em Crescimento
+1648,Anna Liz Siqueira,41,588536.31,0,0.0,0,💎 VIP Premium
+1649,Rebeca Melo,36,1661720.24,1,1239390.13,1,🌟 Alto Valor
+1650,Antony Teixeira,39,1644041.0,2,8002081.499999999,2,📈 Em Crescimento
+1651,Théo Freitas,45,1255856.59,1,969505.96,1,🌟 Alto Valor
+1652,Maitê Borges,28,393029.84,0,0.0,0,💎 VIP Premium
+1653,Gabriel Pereira,47,514485.29,0,0.0,3,🆕 Novos/Inativos
+1654,Ana Cecília Peixoto,47,420358.62,1,2103048.88,1,🌟 Alto Valor
+1655,Diogo Gomes,44,650383.54,1,1096265.86,1,🌟 Alto Valor
+1656,Francisco Ribeiro,38,282740.79,0,0.0,3,🆕 Novos/Inativos
+1657,Alana Melo,32,389030.12,0,0.0,0,💎 VIP Premium
+1658,João Vitor Gomes,45,726563.7,0,0.0,0,💎 VIP Premium
+1659,Josué Duarte,44,718233.79,1,2113857.48,1,🌟 Alto Valor
+1660,Melissa Abreu,54,823623.7,0,0.0,3,🆕 Novos/Inativos
+1661,Alexia Freitas,43,1734323.48,1,2082777.66,1,🌟 Alto Valor
+1662,Augusto Pastor,50,807410.21,1,5530174.16,1,🌟 Alto Valor
+1663,Guilherme Vargas,32,273871.2,0,0.0,0,💎 VIP Premium
+1664,Vitor Lopes,40,986606.38,0,0.0,3,🆕 Novos/Inativos
+1665,João Miguel Sales,51,444131.15,0,0.0,3,🆕 Novos/Inativos
+1666,Marcela Moura,50,698500.34,1,1543945.5,1,🌟 Alto Valor
+1667,Sabrina Aragão,50,299592.09,0,0.0,3,🆕 Novos/Inativos
+1668,Juan Machado,33,532723.77,0,0.0,0,💎 VIP Premium
+1669,Sr. André Azevedo,34,571195.51,0,0.0,3,🆕 Novos/Inativos
+1670,Ana Liz Freitas,37,858836.79,0,0.0,3,🆕 Novos/Inativos
+1671,Marcos Vinicius da Luz,54,1242311.34,1,1206450.32,1,🌟 Alto Valor
+1672,Yasmin Gonçalves,41,541550.07,1,2039930.94,1,🌟 Alto Valor
+1673,Lorenzo Silva,35,1281130.03,0,0.0,0,💎 VIP Premium
+1674,Rhavi Melo,55,956633.41,1,3312349.72,1,🌟 Alto Valor
+1675,Isabella Cunha,60,637347.5,1,4332524.84,1,🌟 Alto Valor
+1676,Asafe Cirino,37,1381145.86,1,2685688.29,1,🌟 Alto Valor
+1677,Isabela Pinto,42,1038996.64,1,4654684.53,1,🌟 Alto Valor
+1678,Alexandre Azevedo,47,1835823.9,2,2139370.07,1,🌟 Alto Valor
+1679,Valentina Cassiano,35,979066.84,0,0.0,3,🆕 Novos/Inativos
+1680,Dr. Bernardo Costa,55,712392.28,0,0.0,0,💎 VIP Premium
+1681,Milena Martins,49,570792.74,1,1743495.64,1,🌟 Alto Valor
+1682,Gustavo Henrique Novais,50,387661.63,0,0.0,0,💎 VIP Premium
+1683,Arthur Miguel Porto,49,539406.54,0,0.0,0,💎 VIP Premium
+1684,Paulo Marques,36,525241.41,0,0.0,0,💎 VIP Premium
+1685,Maria Alice Porto,53,617369.22,1,1687705.28,1,🌟 Alto Valor
+1686,Cauã Moreira,53,1054062.78,0,0.0,3,🆕 Novos/Inativos
+1687,Luara Dias,40,580039.14,3,4533279.359999999,1,🌟 Alto Valor
+1688,Beatriz Cardoso,47,655087.69,0,0.0,3,🆕 Novos/Inativos
+1689,Antony Abreu,45,1601557.32,0,0.0,3,🆕 Novos/Inativos
+1690,Elisa Fernandes,36,1501069.15,1,5380575.3,1,🌟 Alto Valor
+1691,Valentina Ramos,37,1269184.6,1,1592044.02,1,🌟 Alto Valor
+1692,Dra. Jade Oliveira,40,1916781.28,1,4238826.39,1,🌟 Alto Valor
+1693,Melina Pinto,36,1627174.55,1,1601570.08,1,🌟 Alto Valor
+1694,Diego Leão,42,2187823.65,5,25349225.749999996,2,📈 Em Crescimento
+1695,Lucas Monteiro,36,423893.05,0,0.0,3,🆕 Novos/Inativos
+1696,Benjamim Gomes,50,539439.9,0,0.0,3,🆕 Novos/Inativos
+1697,Luan Caldeira,47,975202.14,1,664973.53,1,🌟 Alto Valor
+1698,Guilherme Moura,36,640968.44,0,0.0,3,🆕 Novos/Inativos
+1699,Evelyn Aparecida,42,1170445.14,4,27910253.749999993,2,📈 Em Crescimento
+1700,Arthur Pereira,39,1700561.6,1,1062832.2,1,🌟 Alto Valor
+1701,Raquel Carvalho,35,1063962.36,2,3620507.5500000007,1,🌟 Alto Valor
+1702,Sr. Ravi Costela,55,682134.91,0,0.0,3,🆕 Novos/Inativos
+1703,Ana Clara Carvalho,52,396704.43,0,0.0,3,🆕 Novos/Inativos
+1704,Cecilia Farias,43,786044.78,1,697492.38,0,💎 VIP Premium
+1705,Maya Marques,48,614175.45,1,848876.96,1,🌟 Alto Valor
+1707,Dra. Maria Cecília Silveira,36,1404765.5,3,8492063.16,2,📈 Em Crescimento
+1708,Alexandre Gomes,36,503261.35,0,0.0,3,🆕 Novos/Inativos
+1709,Diogo Garcia,43,446177.44,2,2846421.6299999994,1,🌟 Alto Valor
+1710,Cecília Câmara,60,1046174.65,0,0.0,3,🆕 Novos/Inativos
+1711,Paulo Dias,60,1145451.1,1,7225593.96,1,🌟 Alto Valor
+1712,Sara Dias,37,465957.68,0,0.0,3,🆕 Novos/Inativos
+1713,Sr. Lorenzo Monteiro,32,337688.99,0,0.0,3,🆕 Novos/Inativos
+1714,Sophie Macedo,47,1237070.26,2,6716684.79,2,📈 Em Crescimento
+1715,Bianca Cirino,40,1910069.99,0,0.0,3,🆕 Novos/Inativos
+1716,Maria Julia Rezende,51,211423.5,0,0.0,3,🆕 Novos/Inativos
+1717,Caroline Câmara,30,183140.61,0,0.0,3,🆕 Novos/Inativos
+1718,Maya Ribeiro,43,622410.62,0,0.0,3,🆕 Novos/Inativos
+1719,Heloisa Correia,40,1348628.63,1,943788.04,1,🌟 Alto Valor
+1720,Ana Cecília Rodrigues,34,343251.86,0,0.0,0,💎 VIP Premium
+1721,Augusto das Neves,38,347404.28,0,0.0,3,🆕 Novos/Inativos
+1722,Luna Aragão,51,425356.11,0,0.0,3,🆕 Novos/Inativos
+1723,Melissa Nascimento,37,1759285.7,1,1812181.41,1,🌟 Alto Valor
+1724,Laís Alves,32,264279.51,1,741386.24,3,🆕 Novos/Inativos
+1725,Theo Montenegro,41,1148556.08,1,2810430.93,1,🌟 Alto Valor
+1726,Maria Júlia Novais,44,627973.37,1,969705.33,0,💎 VIP Premium
+1727,Caleb Garcia,25,297976.68,1,1943024.28,1,🌟 Alto Valor
+1728,João Vitor Vieira,31,145834.6,0,0.0,3,🆕 Novos/Inativos
+1729,Raquel da Mata,51,1418160.44,0,0.0,3,🆕 Novos/Inativos
+1730,Ana Sophia Ramos,38,1976252.19,2,2222343.0,1,🌟 Alto Valor
+1731,Apollo Sousa,36,1331480.73,2,5949853.82,1,🌟 Alto Valor
+1732,Dra. Maria Isis Santos,39,1687981.84,1,2662138.8,1,🌟 Alto Valor
+1733,Ana Vitória Abreu,45,1375894.23,0,0.0,3,🆕 Novos/Inativos
+1734,Ísis Aparecida,36,1016252.9,0,0.0,0,💎 VIP Premium
+1735,Ana Sophia Duarte,45,1613113.3,0,0.0,0,💎 VIP Premium
+1736,Raul da Rosa,44,607769.56,0,0.0,3,🆕 Novos/Inativos
+1737,Helena Azevedo,31,220883.44,0,0.0,0,💎 VIP Premium
+1738,Augusto Alves,40,875471.96,2,6964130.720000002,2,📈 Em Crescimento
+1739,Rafaela Casa Grande,45,2035969.32,3,8315195.19,2,📈 Em Crescimento
+1740,Dr. Marcos Vinicius Siqueira,37,801380.44,0,0.0,3,🆕 Novos/Inativos
+1741,Valentina Moreira,52,672319.09,2,4414839.510000001,1,🌟 Alto Valor
+1742,Sabrina Rezende,32,225038.13,0,0.0,3,🆕 Novos/Inativos
+1743,Isabelly Barros,37,622434.14,1,992760.6,1,🌟 Alto Valor
+1744,Bella Albuquerque,55,833392.12,1,2378910.12,1,🌟 Alto Valor
+1745,Lucas Teixeira,38,652448.56,0,0.0,0,💎 VIP Premium
+1746,Felipe Santos,42,1251110.13,1,1148217.04,1,🌟 Alto Valor
+1747,Srta. Lunna Carvalho,26,324976.53,0,0.0,0,💎 VIP Premium
+1748,Sr. José Miguel Dias,59,1112701.25,2,2329486.45,1,🌟 Alto Valor
+1749,Arthur Gabriel Dias,35,854776.94,1,3017213.62,1,🌟 Alto Valor
+1750,Danilo Teixeira,66,860448.78,0,0.0,3,🆕 Novos/Inativos
+1751,Maria Flor Camargo,39,513365.21,1,4444394.8,1,🌟 Alto Valor
+1753,Mariane Correia,46,1287549.56,2,3713731.74,1,🌟 Alto Valor
+1754,Ravy da Conceição,29,608962.96,1,497699.06,3,🆕 Novos/Inativos
+1755,Eduarda Freitas,31,337055.1,0,0.0,0,💎 VIP Premium
+1756,Maria Eduarda Castro,36,606185.83,2,4739698.84,1,🌟 Alto Valor
+1757,Maitê Souza,57,1019853.21,2,2155321.33,1,🌟 Alto Valor
+1758,Raul Ramos,36,1752284.01,1,4559134.36,1,🌟 Alto Valor
+1759,Mariane da Cruz,40,960652.18,0,0.0,3,🆕 Novos/Inativos
+1760,Ana Vitória Leão,38,993116.26,1,1697004.88,1,🌟 Alto Valor
+1761,Antônio Monteiro,55,665069.16,0,0.0,0,💎 VIP Premium
+1762,Allana Novais,32,486023.9,0,0.0,3,🆕 Novos/Inativos
+1763,Letícia Viana,38,1113056.33,1,835337.98,1,🌟 Alto Valor
+1764,Cauê Marques,46,1167822.81,0,0.0,0,💎 VIP Premium
+1765,Sra. Natália Borges,51,413925.99,0,0.0,3,🆕 Novos/Inativos
+1766,Mathias Caldeira,30,188247.07,0,0.0,3,🆕 Novos/Inativos
+1767,Gael Câmara,53,811605.03,1,3946213.4400000004,1,🌟 Alto Valor
+1768,Ísis Sales,57,291979.14,1,574432.54,1,🌟 Alto Valor
+1769,Alexia da Paz,56,430671.88,0,0.0,3,🆕 Novos/Inativos
+1770,Ísis Andrade,32,636519.34,1,437424.96,0,💎 VIP Premium
+1771,Eduardo Araújo,47,602042.49,0,0.0,3,🆕 Novos/Inativos
+1772,Maria Helena Araújo,40,1842809.65,2,5269216.56,2,📈 Em Crescimento
+1773,Kevin Martins,34,291219.6,1,1087140.56,3,🆕 Novos/Inativos
+1774,Ryan Sampaio,46,750347.63,0,0.0,0,💎 VIP Premium
+1775,Isaque Novaes,55,773091.4,2,3000947.5199999996,1,🌟 Alto Valor
+1776,Clarice Campos,51,484495.03,1,390847.6,3,🆕 Novos/Inativos
+1777,Ester Gomes,49,1214603.24,1,566809.76,1,🌟 Alto Valor
+1778,Luiz Otávio da Paz,32,403637.13,0,0.0,3,🆕 Novos/Inativos
+1779,Maria Julia Pereira,38,770688.84,2,6082828.76,1,🌟 Alto Valor
+1780,Maria Liz Costela,32,421178.76,0,0.0,3,🆕 Novos/Inativos
+1781,Maria Clara Alves,50,615071.74,0,0.0,3,🆕 Novos/Inativos
+1782,Mariah Cirino,52,338964.59,1,1468279.72,1,🌟 Alto Valor
+1783,Catarina Nascimento,50,411770.95,0,0.0,0,💎 VIP Premium
+1784,Yuri Casa Grande,36,387251.34,0,0.0,3,🆕 Novos/Inativos
+1785,Dr. Arthur Gabriel Abreu,38,742738.56,1,1360290.72,1,🌟 Alto Valor
+1786,Ana Vasconcelos,44,1031901.28,0,0.0,3,🆕 Novos/Inativos
+1787,Ana Cecília Peixoto,46,1246874.82,1,1096209.52,1,🌟 Alto Valor
+1788,Sra. Isabelly da Rosa,45,727556.0,2,1525734.53,1,🌟 Alto Valor
+1789,Dra. Carolina Novaes,32,445140.71,1,736348.08,3,🆕 Novos/Inativos
+1790,Amanda Rocha,49,285781.88,0,0.0,3,🆕 Novos/Inativos
+1791,Alice Dias,40,861201.69,0,0.0,3,🆕 Novos/Inativos
+1792,Srta. Mariah Pereira,42,618915.99,1,372645.46,0,💎 VIP Premium
+1793,Benicio Gomes,54,743960.15,0,0.0,0,💎 VIP Premium
+1794,Maria Vitória Borges,38,1522688.96,4,12149747.320000002,2,📈 Em Crescimento
+1795,Lara Correia,34,667943.65,0,0.0,3,🆕 Novos/Inativos
+1796,Emilly Duarte,49,658953.52,1,1130313.96,1,🌟 Alto Valor
+1797,João Guilherme Barros,39,539930.87,1,3446595.24,1,🌟 Alto Valor
+1798,Dr. Raul da Paz,35,1001892.24,0,0.0,3,🆕 Novos/Inativos
+1799,Isaque Teixeira,32,292219.78,1,616490.04,3,🆕 Novos/Inativos
+1800,Sr. Vinicius Gomes,48,1020499.75,0,0.0,3,🆕 Novos/Inativos
+1801,Carlos Eduardo Mendonça,32,228621.2,0,0.0,0,💎 VIP Premium
+1802,Isabella Pastor,27,253084.37,0,0.0,3,🆕 Novos/Inativos
+1803,Igor Pastor,34,387932.95,0,0.0,3,🆕 Novos/Inativos
+1804,Cauê Oliveira,42,1544744.2,1,1313770.34,1,🌟 Alto Valor
+1805,Benjamin Ramos,41,723777.73,2,7651897.080000002,1,🌟 Alto Valor
+1806,Maria Eduarda Fogaça,55,736296.99,2,3123884.12,1,🌟 Alto Valor
+1807,Nina Martins,47,1759591.96,3,5116368.34,1,🌟 Alto Valor
+1809,Emanuel Novaes,37,697431.74,1,1397486.16,1,🌟 Alto Valor
+1810,Danilo Gonçalves,42,946882.27,0,0.0,3,🆕 Novos/Inativos
+1811,Gael Henrique Rodrigues,35,697295.42,1,1820159.4,1,🌟 Alto Valor
+1812,Dr. Henry Monteiro,44,1054276.79,0,0.0,3,🆕 Novos/Inativos
+1813,Sr. Vitor Gabriel Nunes,38,1274716.31,0,0.0,3,🆕 Novos/Inativos
+1814,Giovanna Cardoso,44,1142641.42,0,0.0,3,🆕 Novos/Inativos
+1815,Luigi Costela,25,364819.94,1,1466069.16,1,🌟 Alto Valor
+1816,Melina Vieira,46,1148355.32,2,4593331.7,1,🌟 Alto Valor
+1817,Maria Júlia Dias,46,958036.1,3,10548597.700000001,2,📈 Em Crescimento
+1818,João Pedro Santos,38,414633.2,0,0.0,3,🆕 Novos/Inativos
+1819,Yasmin Farias,54,629671.13,0,0.0,3,🆕 Novos/Inativos
+1820,Maysa Pacheco,39,437793.53,1,759841.2,3,🆕 Novos/Inativos
+1821,Diogo Viana,48,1160656.66,1,2537909.64,1,🌟 Alto Valor
+1822,Vicente da Rocha,49,1545292.55,1,2224726.38,1,🌟 Alto Valor
+1823,Gael Macedo,42,423193.69,0,0.0,0,💎 VIP Premium
+1824,Nicolas Pires,52,316212.92,1,1753087.38,1,🌟 Alto Valor
+1825,Dra. Stella da Rocha,50,643429.55,0,0.0,3,🆕 Novos/Inativos
+1826,Vitor Hugo Pereira,32,214278.17,0,0.0,0,💎 VIP Premium
+1827,Catarina Alves,44,1341737.2,3,5150069.3,1,🌟 Alto Valor
+1828,Marcelo Aragão,37,714640.26,0,0.0,3,🆕 Novos/Inativos
+1829,Vinicius Siqueira,42,1414234.01,3,5151562.080000001,1,🌟 Alto Valor
+1830,Sophia Fernandes,51,434502.31,0,0.0,0,💎 VIP Premium
+1831,Dr. Thiago Aragão,41,311095.42,2,1101712.52,0,💎 VIP Premium
+1832,Milena Novaes,30,430160.15,0,0.0,0,💎 VIP Premium
+1833,Srta. Maya Borges,56,823219.5,0,0.0,3,🆕 Novos/Inativos
+1834,Maria Alice Pacheco,36,2042147.06,0,0.0,3,🆕 Novos/Inativos
+1835,José Miguel Fogaça,54,777240.92,2,6520350.459999999,1,🌟 Alto Valor
+1836,Sophia Castro,47,677653.69,0,0.0,3,🆕 Novos/Inativos
+1837,Juliana Lima,53,882310.05,0,0.0,3,🆕 Novos/Inativos
+1838,Emanuelly Mendes,65,399195.87,0,0.0,0,💎 VIP Premium
+1839,Maria Eduarda da Rosa,45,1133644.66,0,0.0,3,🆕 Novos/Inativos
+1840,Mirella Teixeira,60,1004480.6,1,946379.77,1,🌟 Alto Valor
+1841,Dra. Rafaela Rezende,44,1037879.35,2,4768961.46,1,🌟 Alto Valor
+1842,Gael da Rocha,54,358726.56,0,0.0,3,🆕 Novos/Inativos
+1843,Olívia Caldeira,52,550215.3,1,3085463.2199999997,1,🌟 Alto Valor
+1844,Maria Flor Moura,40,519213.85,0,0.0,0,💎 VIP Premium
+1846,Alícia Fonseca,40,895366.42,0,0.0,3,🆕 Novos/Inativos
+1847,Bernardo Gonçalves,29,538015.08,1,2270862.02,1,🌟 Alto Valor
+1849,Cauê da Paz,28,505594.02,1,868613.49,1,🌟 Alto Valor
+1850,Gustavo Henrique Borges,50,586901.97,0,0.0,0,💎 VIP Premium
+1851,Dr. Enzo Silveira,30,467480.46,2,1069146.12,1,🌟 Alto Valor
+1852,Marcos Vinicius Vieira,35,1342287.54,1,5073588.6,1,🌟 Alto Valor
+1853,Gabriela Siqueira,42,727026.68,1,584045.35,0,💎 VIP Premium
+1854,Arthur Miguel Pastor,48,533934.92,0,0.0,3,🆕 Novos/Inativos
+1855,Isabel Farias,41,427722.08,2,2982275.34,1,🌟 Alto Valor
+1856,Mariana Borges,35,385097.06,0,0.0,3,🆕 Novos/Inativos
+1857,Dr. Raul Sampaio,50,612988.01,0,0.0,3,🆕 Novos/Inativos
+1858,Marina Monteiro,57,809916.42,0,0.0,0,💎 VIP Premium
+1859,Isabel Melo,52,735314.56,1,4185703.62,1,🌟 Alto Valor
+1860,Maria Laura Cardoso,34,436063.85,1,1104133.22,3,🆕 Novos/Inativos
+1861,Emanuel Cirino,42,379276.99,0,0.0,0,💎 VIP Premium
+1862,Sr. Francisco Novaes,39,1074172.35,1,690003.55,0,💎 VIP Premium
+1863,Dr. Rhavi Martins,40,545655.72,1,496907.81,3,🆕 Novos/Inativos
+1864,Liam Alves,57,1271311.45,0,0.0,0,💎 VIP Premium
+1865,Davi Miguel Pastor,38,1213114.6,0,0.0,3,🆕 Novos/Inativos
+1866,Maria Cecília Vasconcelos,35,1411076.54,0,0.0,3,🆕 Novos/Inativos
+1867,Igor Ramos,53,741897.12,0,0.0,3,🆕 Novos/Inativos
+1868,Ana Carolina Monteiro,58,454920.18,1,364686.07,0,💎 VIP Premium
+1869,Giovanna Campos,52,1139165.25,0,0.0,0,💎 VIP Premium
+1870,José Pedro Sampaio,30,606285.4,1,1968364.76,1,🌟 Alto Valor
+1871,Dr. Thales da Cunha,42,1165960.07,2,11993320.319999998,2,📈 Em Crescimento
+1874,Raul Melo,35,357736.39,0,0.0,0,💎 VIP Premium
+1875,Isis da Rosa,40,840679.82,2,8733345.48,2,📈 Em Crescimento
+1876,Srta. Emanuella Nascimento,42,1575301.3,2,3510834.1599999997,1,🌟 Alto Valor
+1877,Ravi Lucca Machado,37,1233995.67,2,3722609.61,1,🌟 Alto Valor
+1878,Lucas Gabriel Novais,33,306739.01,0,0.0,0,💎 VIP Premium
+1879,Luigi da Conceição,47,1879207.63,2,1585986.92,1,🌟 Alto Valor
+1880,Diego da Costa,40,1276662.06,1,12569030.4,2,📈 Em Crescimento
+1881,Manuella Camargo,41,1941053.3,1,1213686.98,1,🌟 Alto Valor
+1882,Pedro Aparecida,29,358231.89,0,0.0,3,🆕 Novos/Inativos
+1883,Srta. Maria Vitória Carvalho,42,748716.83,0,0.0,3,🆕 Novos/Inativos
+1884,Liam Melo,32,216048.83,0,0.0,0,💎 VIP Premium
+1885,Melina Gonçalves,45,767396.12,1,6728487.200000001,1,🌟 Alto Valor
+1886,Lucca Barbosa,48,1546215.26,0,0.0,0,💎 VIP Premium
+1887,Mariah Macedo,45,1372527.91,3,6169708.74,2,📈 Em Crescimento
+1888,João Vitor Rezende,53,1055944.45,1,600847.73,0,💎 VIP Premium
+1889,Isaac Caldeira,34,220495.51,0,0.0,3,🆕 Novos/Inativos
+1890,Lucas da Rocha,58,484434.04,2,3932783.8799999994,1,🌟 Alto Valor
+1891,Sr. Bryan Andrade,46,1575550.83,0,0.0,0,💎 VIP Premium
+1892,Mathias Viana,51,465693.1,1,3414710.05,1,🌟 Alto Valor
+1893,Eduardo Castro,44,490243.35,1,549719.52,0,💎 VIP Premium
+1894,Apollo Fogaça,37,793461.11,2,2488287.6,1,🌟 Alto Valor
+1895,Benjamin da Cunha,52,525735.28,0,0.0,3,🆕 Novos/Inativos
+1896,Heitor Souza,39,568135.94,1,1714915.22,0,💎 VIP Premium
+1897,Gustavo da Mata,47,869564.86,0,0.0,3,🆕 Novos/Inativos
+1898,Augusto Barbosa,56,956465.05,1,3085185.9,1,🌟 Alto Valor
+1899,Ana Liz Brito,44,577951.85,1,551633.91,1,🌟 Alto Valor
+1900,Srta. Ana Vitória Sá,33,432301.77,0,0.0,3,🆕 Novos/Inativos
+1901,Mateus Peixoto,53,655284.49,1,897399.59,1,🌟 Alto Valor
+1902,Bruno da Cunha,28,352250.52,1,1348793.4,1,🌟 Alto Valor
+1903,Yasmin Pereira,36,700688.47,1,1125450.69,1,🌟 Alto Valor
+1904,Liz Fonseca,27,228976.98,0,0.0,0,💎 VIP Premium
+1905,Mariane Monteiro,59,790623.14,2,1743922.35,1,🌟 Alto Valor
+1906,Bianca Carvalho,30,278476.25,3,5029309.05,1,🌟 Alto Valor
+1907,Yago Moura,39,1676523.97,1,1597636.92,1,🌟 Alto Valor
+1908,Emanuelly Monteiro,60,485852.69,1,381290.96,3,🆕 Novos/Inativos
+1909,Bella Freitas,47,627385.72,1,836245.95,1,🌟 Alto Valor
+1910,José Gomes,56,1416000.46,0,0.0,3,🆕 Novos/Inativos
+1911,Alexandre Alves,42,1706527.99,0,0.0,0,💎 VIP Premium
+1912,Srta. Bruna Ribeiro,33,566254.09,2,4431479.58,1,🌟 Alto Valor
+1913,Dra. Clara Pacheco,49,1411887.45,1,1975156.02,1,🌟 Alto Valor
+1914,Caio Nascimento,41,949627.91,1,804415.44,0,💎 VIP Premium
+1915,Larissa Pacheco,34,278715.47,0,0.0,3,🆕 Novos/Inativos
+1916,Lívia Leão,42,1250502.51,1,710289.75,1,🌟 Alto Valor
+1917,Calebe Jesus,39,1670317.61,4,30033266.12999999,2,📈 Em Crescimento
+1918,Noah Cunha,30,446565.18,1,693989.19,3,🆕 Novos/Inativos
+1919,Eloah Sampaio,44,1771531.34,0,0.0,3,🆕 Novos/Inativos
+1920,Hellena Sales,32,430864.49,0,0.0,3,🆕 Novos/Inativos
+1921,Benjamin da Cruz,50,277932.14,1,596000.02,0,💎 VIP Premium
+1922,Yan Teixeira,32,205392.07,0,0.0,3,🆕 Novos/Inativos
+1923,Francisco Duarte,35,1531787.73,0,0.0,3,🆕 Novos/Inativos
+1924,Isabel Oliveira,50,394372.74,0,0.0,3,🆕 Novos/Inativos
+1925,Isabelly Albuquerque,55,760274.28,0,0.0,3,🆕 Novos/Inativos
+1926,Catarina Pires,58,265892.89,1,562557.16,1,🌟 Alto Valor
+1927,Ana Luiza Azevedo,27,679454.16,0,0.0,0,💎 VIP Premium
+1928,Sra. Alexia Santos,61,577626.81,1,1211603.72,1,🌟 Alto Valor
+1929,Isabelly Cirino,44,271703.34,2,6569871.240000002,1,🌟 Alto Valor
+1930,Júlia Cassiano,31,474928.78,0,0.0,0,💎 VIP Premium
+1931,Sophie Lima,31,482526.12,0,0.0,0,💎 VIP Premium
+1932,Ágatha Pinto,43,1128625.82,3,9579479.879999999,2,📈 Em Crescimento
+1933,Matheus Barbosa,46,1138726.85,0,0.0,3,🆕 Novos/Inativos
+1934,Emanuella da Costa,44,1715997.51,3,11035952.040000001,2,📈 Em Crescimento
+1935,Vitor Gabriel Gomes,43,2049177.01,3,22590870.200000003,2,📈 Em Crescimento
+1936,Dom da Rocha,37,586244.05,0,0.0,0,💎 VIP Premium
+1937,Heloísa da Costa,40,1308182.16,1,574230.17,1,🌟 Alto Valor
+1938,Erick da Paz,62,1091272.01,2,9392951.4,2,📈 Em Crescimento
+1939,Luiz Felipe Castro,58,617138.28,2,2922611.3,1,🌟 Alto Valor
+1940,Aylla Melo,59,444140.97,0,0.0,3,🆕 Novos/Inativos
+1941,Dr. Davi Luiz Novaes,34,481521.71,1,376883.13,3,🆕 Novos/Inativos
+1942,Joana Marques,34,394591.25,0,0.0,0,💎 VIP Premium
+1943,Apollo Teixeira,41,1352315.59,1,859632.54,1,🌟 Alto Valor
+1944,Lucca Barbosa,32,579998.18,0,0.0,3,🆕 Novos/Inativos
+1945,Dr. Valentim Duarte,37,1357113.65,0,0.0,0,💎 VIP Premium
+1946,João Cavalcanti,49,978023.62,0,0.0,0,💎 VIP Premium
+1947,Sr. Isaque Nascimento,45,853809.57,2,5415589.16,1,🌟 Alto Valor
+1948,Sra. Ana Júlia Rios,35,925676.48,0,0.0,0,💎 VIP Premium
+1949,Maria Flor Peixoto,50,1008558.11,0,0.0,3,🆕 Novos/Inativos
+1950,Ana Julia Cunha,40,1065103.13,1,3540951.0,1,🌟 Alto Valor
+1951,Nathan Moraes,31,180671.19,0,0.0,3,🆕 Novos/Inativos
+1952,Mariah Borges,54,498029.41,1,542443.11,1,🌟 Alto Valor
+1953,Emanuella Rocha,57,453510.17,0,0.0,3,🆕 Novos/Inativos
+1954,Sabrina da Luz,57,1337568.11,0,0.0,3,🆕 Novos/Inativos
+1955,Pietro Souza,44,1077227.61,1,700189.39,1,🌟 Alto Valor
+1956,Dom Almeida,35,830169.91,0,0.0,3,🆕 Novos/Inativos
+1957,Dr. Gustavo Henrique Rezende,50,528582.91,0,0.0,0,💎 VIP Premium
+1958,Sr. Isaque Souza,33,638736.78,0,0.0,3,🆕 Novos/Inativos
+1959,Ana Beatriz Pires,26,199254.42,1,738144.96,3,🆕 Novos/Inativos
+1960,Ana Vitória Barros,49,1717374.3,3,12849144.930000002,2,📈 Em Crescimento
+1961,Leonardo Siqueira,29,285437.86,0,0.0,0,💎 VIP Premium
+1962,Maria Isis Novaes,32,572358.64,1,787771.75,0,💎 VIP Premium
+1963,Ana Lívia da Mota,36,1035845.4,0,0.0,3,🆕 Novos/Inativos
+1964,Rodrigo Rodrigues,46,1189927.06,0,0.0,3,🆕 Novos/Inativos
+1965,Maria Flor Andrade,43,1127973.0,0,0.0,3,🆕 Novos/Inativos
+1966,Rafael da Rosa,32,425991.41,1,1299323.74,1,🌟 Alto Valor
+1967,Heloisa Fogaça,37,1068102.55,3,13026255.959999997,2,📈 Em Crescimento
+1968,Thiago Rocha,38,1572323.6,1,1727252.25,1,🌟 Alto Valor
+1969,Vinicius Vasconcelos,49,1219795.26,0,0.0,0,💎 VIP Premium
+1971,Henry das Neves,46,1546583.58,2,7686662.31,2,📈 Em Crescimento
+1972,Dra. Emanuella das Neves,54,193449.42,0,0.0,3,🆕 Novos/Inativos
+1973,Luara Cassiano,46,935593.1,1,581407.29,1,🌟 Alto Valor
+1974,Sr. Benjamim Azevedo,34,555206.29,0,0.0,0,💎 VIP Premium
+1975,Maria Luísa Fonseca,32,336035.26,1,568982.47,3,🆕 Novos/Inativos
+1976,Beatriz Casa Grande,35,712612.7,0,0.0,3,🆕 Novos/Inativos
+1977,Bella Sales,35,1231697.76,2,6240300.509999999,1,🌟 Alto Valor
+1978,Davi Guerra,52,279854.66,0,0.0,0,💎 VIP Premium
+1979,Clara Alves,39,295194.84,0,0.0,0,💎 VIP Premium
+1980,Davi Lucca Novaes,40,1123902.25,0,0.0,0,💎 VIP Premium
+1981,Carolina da Cunha,58,467584.35,0,0.0,3,🆕 Novos/Inativos
+1982,Sophie Ramos,61,1142907.05,3,2529176.7199999997,1,🌟 Alto Valor
+1983,João Albuquerque,31,245449.11,0,0.0,3,🆕 Novos/Inativos
+1984,Bryan Porto,48,728490.35,1,1187631.14,1,🌟 Alto Valor
+1985,Rebeca Moura,28,325525.91,0,0.0,3,🆕 Novos/Inativos
+1986,Carolina Carvalho,25,183288.96,0,0.0,3,🆕 Novos/Inativos
+1987,Anthony Gabriel Cunha,31,293210.4,1,1538775.08,3,🆕 Novos/Inativos
+1988,Brayan Pastor,39,397561.3,0,0.0,3,🆕 Novos/Inativos
+1989,Sr. Nicolas Melo,35,387645.43,1,1215608.96,0,💎 VIP Premium
+1990,Vitória Souza,28,260529.17,1,1464490.2,1,🌟 Alto Valor
+1991,Dra. Agatha Teixeira,48,1060355.67,1,3701616.21,1,🌟 Alto Valor
+1992,Letícia Rodrigues,34,393648.2,1,500969.58,3,🆕 Novos/Inativos
+1993,Juliana Siqueira,46,2132724.32,2,4941695.7,1,🌟 Alto Valor
+1994,Luísa Peixoto,28,265743.14,0,0.0,0,💎 VIP Premium
+1995,Eduarda Lima,38,1099521.55,1,2655523.32,1,🌟 Alto Valor
+1996,Maria Luísa Fogaça,45,454141.35,0,0.0,0,💎 VIP Premium
+1997,Gustavo Ferreira,61,575371.8,0,0.0,0,💎 VIP Premium
+1998,Davi Lucas Moura,45,1524633.43,0,0.0,3,🆕 Novos/Inativos
+1999,Stephany Vargas,48,1002150.45,0,0.0,3,🆕 Novos/Inativos
+2000,Lucas Gabriel Câmara,60,570262.11,2,3820857.0,1,🌟 Alto Valor
+2001,Luciano Duarte,35,85000.0,0,0.0,0,💎 VIP Premium

@@ -1,0 +1,801 @@
+servico_id,venda_id,tipo_servico,data_servico,valor_servico,satisfacao_cliente,observacoes
+1,1249,Reparo,2024-10-02,49837.59,4,Serviço de excelência.
+2,159,Manutenção,2024-12-31,13397.52,2,Serviço realizado conforme esperado.
+3,67,Revisão,2024-11-14,4332.97,2,Cliente satisfeito com o atendimento.
+4,213,Garantia,2024-04-02,1964.6,4,"Tudo certo, sem problemas."
+5,1352,Reparo,2024-12-22,39627.5,5,Serviço de excelência.
+6,1486,Detalhamento,2024-11-18,1655.88,5,Serviço de excelência.
+7,482,Manutenção,2024-12-07,13762.25,3,"Tudo certo, sem problemas."
+8,768,Manutenção,2024-12-31,14770.16,4,Serviço dentro do prazo.
+9,935,Personalização,2023-12-18,28086.5,4,Serviço realizado conforme esperado.
+10,1150,Garantia,2024-09-11,2910.08,5,Atendimento impecável.
+11,1494,Detalhamento,2024-05-21,2862.63,3,Serviço realizado conforme esperado.
+12,1482,Garantia,2024-04-14,897.18,3,"Tudo certo, sem problemas."
+13,1038,Detalhamento,2024-12-31,3911.68,4,Cliente satisfeito com o atendimento.
+14,832,Manutenção,2024-12-31,8512.59,5,Serviço dentro do prazo.
+15,630,Revisão,2024-05-11,4819.56,4,Serviço de excelência.
+16,282,Manutenção,2024-12-31,4124.28,1,Atendimento impecável.
+17,1448,Detalhamento,2024-11-27,2634.43,4,Serviço de excelência.
+18,496,Detalhamento,2024-05-10,3354.5,4,"Tudo certo, sem problemas."
+19,284,Detalhamento,2024-12-31,3150.69,4,Serviço de excelência.
+20,642,Personalização,2024-12-31,74462.24,5,"Tudo certo, sem problemas."
+21,607,Manutenção,2024-12-31,13430.43,4,Cliente elogiou a agilidade.
+22,743,Detalhamento,2024-12-31,4489.16,4,Serviço de excelência.
+23,613,Revisão,2024-12-31,7902.02,4,Atendimento impecável.
+24,1146,Reparo,2024-12-31,5795.01,4,Cliente elogiou a agilidade.
+25,1029,Garantia,2024-12-31,3404.3,5,Cliente satisfeito com o atendimento.
+26,1351,Detalhamento,2024-06-23,4214.33,4,"Tudo certo, sem problemas."
+27,220,Reparo,2024-12-30,22737.83,1,Serviço dentro do prazo.
+28,1149,Detalhamento,2023-09-04,2017.42,4,Serviço dentro do prazo.
+29,1181,Manutenção,2024-11-28,14114.05,4,Cliente elogiou a agilidade.
+30,357,Detalhamento,2024-09-17,1505.9,3,"Tudo certo, sem problemas."
+31,589,Personalização,2024-12-31,88134.42,4,"Tudo certo, sem problemas."
+32,1161,Reparo,2024-12-13,45969.61,3,Atendimento impecável.
+33,368,Personalização,2024-12-16,18317.14,4,Atendimento impecável.
+34,1384,Garantia,2024-10-09,3284.73,5,Serviço de excelência.
+35,335,Detalhamento,2024-12-31,1838.56,4,"Tudo certo, sem problemas."
+36,638,Personalização,2024-11-17,39300.29,5,Cliente elogiou a agilidade.
+37,397,Manutenção,2023-12-10,11418.41,5,Cliente elogiou a agilidade.
+38,620,Manutenção,2024-04-24,3673.41,5,Serviço de excelência.
+39,765,Personalização,2024-02-19,57574.52,5,Cliente satisfeito com o atendimento.
+40,1459,Detalhamento,2024-12-31,1760.33,4,Serviço realizado conforme esperado.
+41,1335,Manutenção,2024-01-11,6608.74,5,Cliente satisfeito com o atendimento.
+42,919,Revisão,2024-12-31,2448.21,3,Serviço realizado conforme esperado.
+43,158,Reparo,2024-12-31,24973.92,5,Serviço de excelência.
+44,859,Garantia,2024-12-31,2964.19,3,Serviço de excelência.
+45,583,Personalização,2024-03-06,93035.92,3,Serviço dentro do prazo.
+46,133,Manutenção,2024-12-12,4096.66,5,Cliente elogiou a agilidade.
+47,1159,Revisão,2024-06-20,2444.28,4,Serviço dentro do prazo.
+48,631,Personalização,2024-12-31,71133.96,5,Cliente satisfeito com o atendimento.
+49,671,Reparo,2024-08-14,24990.85,3,Serviço realizado conforme esperado.
+50,11,Garantia,2024-09-23,2865.76,1,Cliente elogiou a agilidade.
+51,480,Manutenção,2024-12-31,13379.53,2,Cliente satisfeito com o atendimento.
+52,334,Garantia,2024-12-31,4036.35,5,Serviço realizado conforme esperado.
+53,1397,Reparo,2024-12-31,46514.84,3,Serviço de excelência.
+54,1111,Personalização,2024-12-31,35251.89,5,Serviço realizado conforme esperado.
+55,1397,Garantia,2024-12-31,2057.02,2,Serviço realizado conforme esperado.
+56,357,Personalização,2024-10-20,56417.16,5,Serviço dentro do prazo.
+57,596,Manutenção,2023-11-25,14095.69,5,Serviço realizado conforme esperado.
+58,418,Manutenção,2024-12-31,9726.58,4,Serviço dentro do prazo.
+59,975,Reparo,2024-04-05,19945.77,5,Serviço realizado conforme esperado.
+60,1412,Garantia,2024-12-31,1194.54,3,Cliente satisfeito com o atendimento.
+61,1314,Personalização,2024-12-31,40872.9,3,"Tudo certo, sem problemas."
+62,1257,Garantia,2024-03-12,2327.38,4,Serviço realizado conforme esperado.
+63,696,Manutenção,2024-12-31,14564.31,5,Serviço dentro do prazo.
+64,450,Personalização,2024-12-31,51359.88,5,Cliente elogiou a agilidade.
+65,445,Garantia,2024-01-07,4429.89,4,Cliente elogiou a agilidade.
+66,580,Detalhamento,2024-06-22,3580.37,4,"Tudo certo, sem problemas."
+67,681,Revisão,2024-12-31,6640.1,3,"Tudo certo, sem problemas."
+68,775,Detalhamento,2024-12-31,4190.07,5,Cliente elogiou a agilidade.
+69,665,Revisão,2024-06-21,6689.93,5,Cliente satisfeito com o atendimento.
+70,1119,Manutenção,2024-12-31,11105.12,3,Atendimento impecável.
+71,1075,Personalização,2024-12-31,80958.42,3,Serviço dentro do prazo.
+72,685,Manutenção,2023-05-16,13286.96,5,Serviço realizado conforme esperado.
+73,1021,Manutenção,2024-06-10,13420.69,4,Serviço realizado conforme esperado.
+74,1035,Garantia,2024-12-31,2562.21,5,Serviço realizado conforme esperado.
+75,723,Personalização,2024-11-09,21077.47,5,Serviço de excelência.
+76,694,Detalhamento,2024-12-31,1843.13,4,Cliente satisfeito com o atendimento.
+77,830,Manutenção,2024-12-31,7543.97,5,"Tudo certo, sem problemas."
+78,867,Manutenção,2024-12-31,6529.0,5,"Tudo certo, sem problemas."
+79,1344,Detalhamento,2024-12-31,3072.05,5,"Tudo certo, sem problemas."
+80,1211,Personalização,2024-05-30,76186.4,5,Cliente elogiou a agilidade.
+81,591,Personalização,2024-12-31,13215.12,4,Serviço realizado conforme esperado.
+82,930,Detalhamento,2024-09-13,3077.69,4,"Tudo certo, sem problemas."
+83,492,Revisão,2024-11-13,7790.97,3,Cliente elogiou a agilidade.
+84,1381,Detalhamento,2024-01-14,3044.95,5,Serviço realizado conforme esperado.
+85,547,Manutenção,2024-12-31,13643.19,5,Cliente satisfeito com o atendimento.
+86,1199,Revisão,2024-12-31,6833.62,5,Serviço dentro do prazo.
+87,1488,Manutenção,2024-12-31,10502.03,5,"Tudo certo, sem problemas."
+88,1394,Garantia,2024-04-05,35.38,5,Serviço realizado conforme esperado.
+89,361,Manutenção,2024-12-31,12427.27,3,Cliente satisfeito com o atendimento.
+90,351,Manutenção,2024-12-31,5193.72,4,Cliente satisfeito com o atendimento.
+91,376,Manutenção,2023-03-17,6276.5,4,Serviço realizado conforme esperado.
+92,274,Manutenção,2023-05-01,10238.0,5,Atendimento impecável.
+93,71,Reparo,2024-03-17,28677.39,5,Serviço realizado conforme esperado.
+94,157,Garantia,2024-01-16,3305.25,5,Cliente satisfeito com o atendimento.
+95,460,Reparo,2024-08-24,5073.02,4,Atendimento impecável.
+96,1169,Manutenção,2023-07-01,6408.65,5,Cliente elogiou a agilidade.
+97,733,Garantia,2024-11-13,1179.67,5,"Tudo certo, sem problemas."
+98,26,Garantia,2024-10-20,1084.19,3,Serviço dentro do prazo.
+99,1177,Manutenção,2024-08-09,11645.73,5,"Tudo certo, sem problemas."
+100,1255,Personalização,2024-12-31,82771.94,5,Cliente elogiou a agilidade.
+101,842,Manutenção,2024-12-31,8936.32,1,Cliente elogiou a agilidade.
+102,1055,Reparo,2023-07-10,25493.78,5,Atendimento impecável.
+103,181,Detalhamento,2024-08-19,2121.8,4,Cliente satisfeito com o atendimento.
+104,727,Reparo,2024-12-31,18429.16,3,Cliente elogiou a agilidade.
+105,1402,Personalização,2023-11-06,79123.58,5,Serviço dentro do prazo.
+106,275,Personalização,2024-12-31,36020.03,4,Serviço dentro do prazo.
+107,93,Garantia,2024-11-11,227.42,5,Serviço realizado conforme esperado.
+108,550,Manutenção,2024-10-18,14944.23,4,Serviço de excelência.
+109,1055,Manutenção,2024-07-28,7942.26,3,Serviço de excelência.
+110,182,Garantia,2024-12-31,2653.34,4,Cliente satisfeito com o atendimento.
+111,309,Revisão,2024-03-23,7823.7,4,Cliente elogiou a agilidade.
+112,675,Detalhamento,2024-10-09,4939.93,3,Cliente satisfeito com o atendimento.
+113,50,Reparo,2024-07-06,46345.5,5,Serviço dentro do prazo.
+114,1325,Garantia,2024-12-15,2137.38,3,Serviço de excelência.
+115,56,Revisão,2024-12-31,4340.97,5,Serviço realizado conforme esperado.
+116,504,Reparo,2024-12-31,24123.65,4,Serviço de excelência.
+117,991,Personalização,2024-12-31,97567.95,5,"Tudo certo, sem problemas."
+118,665,Reparo,2024-11-20,48384.75,3,Serviço dentro do prazo.
+119,481,Detalhamento,2024-12-31,4120.77,5,"Tudo certo, sem problemas."
+120,432,Revisão,2024-12-31,4330.89,5,Cliente satisfeito com o atendimento.
+121,193,Garantia,2024-02-22,1958.28,4,Serviço de excelência.
+122,97,Revisão,2024-12-31,3838.81,1,Cliente elogiou a agilidade.
+123,571,Detalhamento,2024-12-31,2338.49,5,Cliente elogiou a agilidade.
+124,381,Reparo,2024-12-31,34557.14,5,"Tudo certo, sem problemas."
+125,1042,Manutenção,2024-05-12,4796.91,3,Serviço realizado conforme esperado.
+126,119,Reparo,2024-12-31,5345.65,5,Serviço dentro do prazo.
+127,979,Reparo,2024-09-10,23911.54,1,Serviço realizado conforme esperado.
+128,460,Manutenção,2024-06-17,5427.86,5,Cliente satisfeito com o atendimento.
+129,916,Garantia,2024-01-06,1366.94,5,"Tudo certo, sem problemas."
+130,1045,Detalhamento,2024-12-31,2174.03,5,Cliente elogiou a agilidade.
+131,512,Personalização,2024-12-31,86961.34,5,Serviço de excelência.
+132,320,Manutenção,2024-12-31,14518.46,4,Cliente elogiou a agilidade.
+133,996,Reparo,2024-03-21,34091.09,5,"Tudo certo, sem problemas."
+134,352,Manutenção,2024-12-22,3517.63,5,Cliente elogiou a agilidade.
+135,1042,Manutenção,2024-12-31,7557.53,5,"Tudo certo, sem problemas."
+136,935,Detalhamento,2024-12-31,4549.1,4,Cliente elogiou a agilidade.
+137,110,Garantia,2023-08-04,703.77,3,Serviço realizado conforme esperado.
+138,247,Garantia,2024-12-31,946.53,4,Serviço realizado conforme esperado.
+139,1437,Personalização,2024-06-05,67679.59,5,Serviço dentro do prazo.
+140,644,Manutenção,2024-12-31,3767.56,5,Cliente satisfeito com o atendimento.
+141,559,Garantia,2024-02-12,3347.51,5,Cliente elogiou a agilidade.
+142,408,Reparo,2024-12-31,40697.36,3,Serviço dentro do prazo.
+143,1319,Revisão,2024-12-31,4900.83,3,Serviço de excelência.
+144,609,Detalhamento,2024-12-31,3865.89,4,Serviço de excelência.
+145,1458,Revisão,2024-09-26,6187.32,5,"Tudo certo, sem problemas."
+146,860,Garantia,2024-12-31,3289.25,5,"Tudo certo, sem problemas."
+147,966,Garantia,2024-12-31,2220.23,3,Atendimento impecável.
+148,801,Manutenção,2024-12-31,9124.06,5,"Tudo certo, sem problemas."
+149,697,Detalhamento,2024-12-31,3703.36,5,Cliente satisfeito com o atendimento.
+150,96,Manutenção,2024-12-31,4570.17,1,Cliente elogiou a agilidade.
+151,834,Personalização,2024-12-31,37240.56,4,Atendimento impecável.
+152,765,Manutenção,2024-12-31,8992.85,4,Cliente satisfeito com o atendimento.
+153,4,Reparo,2024-12-31,19232.96,5,Serviço realizado conforme esperado.
+154,1305,Personalização,2024-12-31,64186.88,3,Cliente satisfeito com o atendimento.
+155,852,Manutenção,2024-12-31,7180.74,5,Serviço realizado conforme esperado.
+156,1382,Garantia,2024-12-31,1056.62,3,Atendimento impecável.
+157,434,Personalização,2024-12-31,36085.12,3,"Tudo certo, sem problemas."
+158,430,Manutenção,2024-06-17,10668.87,5,Cliente satisfeito com o atendimento.
+159,463,Reparo,2024-12-31,29582.68,5,Atendimento impecável.
+160,689,Revisão,2023-04-25,3490.13,5,Cliente satisfeito com o atendimento.
+161,660,Manutenção,2024-07-16,11359.87,5,Serviço realizado conforme esperado.
+162,1354,Garantia,2023-12-02,3319.0,5,Cliente elogiou a agilidade.
+163,658,Revisão,2024-04-04,3253.19,5,Atendimento impecável.
+164,146,Personalização,2024-12-31,47299.56,3,Atendimento impecável.
+165,1007,Revisão,2024-12-31,5515.12,3,Serviço de excelência.
+166,173,Reparo,2024-11-08,23921.38,5,"Tudo certo, sem problemas."
+167,1427,Garantia,2024-01-25,3238.68,4,Cliente satisfeito com o atendimento.
+168,478,Revisão,2024-01-18,6409.97,4,"Tudo certo, sem problemas."
+169,320,Revisão,2024-12-31,2298.39,1,Cliente satisfeito com o atendimento.
+170,1461,Revisão,2024-12-31,6806.17,2,Serviço dentro do prazo.
+171,744,Garantia,2023-06-04,4815.39,4,"Tudo certo, sem problemas."
+172,324,Garantia,2024-07-02,1877.43,5,Cliente satisfeito com o atendimento.
+173,981,Reparo,2024-05-26,7117.8,5,Serviço realizado conforme esperado.
+174,559,Garantia,2023-11-18,2451.85,4,Serviço dentro do prazo.
+175,1299,Detalhamento,2023-06-22,4062.86,2,Serviço realizado conforme esperado.
+176,832,Manutenção,2024-12-31,8868.46,4,Atendimento impecável.
+177,671,Reparo,2024-08-19,38945.08,4,Serviço de excelência.
+178,66,Detalhamento,2024-12-31,3851.9,5,Serviço dentro do prazo.
+179,1488,Personalização,2024-07-30,76703.94,5,Serviço dentro do prazo.
+180,329,Personalização,2024-06-03,43782.19,4,Atendimento impecável.
+181,442,Detalhamento,2024-12-31,2720.39,5,Serviço realizado conforme esperado.
+182,840,Garantia,2024-08-10,1902.76,4,Serviço de excelência.
+183,1193,Manutenção,2024-09-01,4937.0,4,Serviço realizado conforme esperado.
+184,1229,Personalização,2024-12-31,66503.34,5,Serviço dentro do prazo.
+185,908,Detalhamento,2024-12-31,3123.74,3,Serviço dentro do prazo.
+186,960,Personalização,2024-11-20,90721.86,3,Atendimento impecável.
+187,1105,Reparo,2024-12-31,40711.38,4,Serviço realizado conforme esperado.
+188,492,Reparo,2024-12-06,48302.62,3,Cliente satisfeito com o atendimento.
+189,863,Personalização,2024-03-17,26939.17,4,Serviço dentro do prazo.
+190,208,Revisão,2024-03-04,6934.76,5,Cliente satisfeito com o atendimento.
+191,107,Manutenção,2024-12-31,5678.08,4,Atendimento impecável.
+192,1441,Garantia,2024-08-22,3392.55,4,Serviço de excelência.
+193,807,Personalização,2024-12-31,59217.21,5,Cliente satisfeito com o atendimento.
+194,549,Garantia,2024-12-31,2770.23,4,Cliente elogiou a agilidade.
+195,583,Reparo,2024-01-03,9431.54,5,Serviço dentro do prazo.
+196,1204,Personalização,2024-12-31,29773.01,4,"Tudo certo, sem problemas."
+197,535,Garantia,2024-12-25,2881.73,5,Serviço realizado conforme esperado.
+198,1163,Personalização,2024-12-31,41104.47,5,Cliente elogiou a agilidade.
+199,1498,Manutenção,2024-12-31,9696.45,4,Cliente satisfeito com o atendimento.
+200,1240,Manutenção,2024-03-15,7707.47,4,Cliente satisfeito com o atendimento.
+201,1160,Reparo,2024-09-12,46394.35,4,"Tudo certo, sem problemas."
+202,1197,Personalização,2023-11-08,43455.77,3,"Tudo certo, sem problemas."
+203,230,Personalização,2024-12-31,31191.32,5,Serviço dentro do prazo.
+204,25,Garantia,2024-08-24,3403.9,5,Cliente elogiou a agilidade.
+205,681,Personalização,2024-12-31,19694.1,5,Serviço realizado conforme esperado.
+206,89,Reparo,2023-12-22,6247.86,5,Serviço dentro do prazo.
+207,715,Reparo,2024-12-31,36868.46,5,Serviço de excelência.
+208,857,Personalização,2024-12-31,34458.15,5,Serviço realizado conforme esperado.
+209,869,Detalhamento,2024-12-08,4687.54,4,Cliente satisfeito com o atendimento.
+210,233,Personalização,2024-12-31,22537.58,5,"Tudo certo, sem problemas."
+211,214,Detalhamento,2024-05-25,3287.72,1,Serviço realizado conforme esperado.
+212,1266,Reparo,2024-12-31,19072.67,4,Serviço dentro do prazo.
+213,1083,Detalhamento,2024-03-21,3337.85,5,Serviço de excelência.
+214,1105,Manutenção,2024-09-17,8284.37,3,Atendimento impecável.
+215,1352,Manutenção,2024-09-05,7425.09,4,Cliente elogiou a agilidade.
+216,801,Revisão,2024-12-31,2764.47,5,Serviço realizado conforme esperado.
+217,201,Manutenção,2024-12-31,7902.3,4,Serviço realizado conforme esperado.
+218,32,Detalhamento,2024-09-21,4204.46,4,"Tudo certo, sem problemas."
+219,1095,Detalhamento,2024-12-31,4554.46,5,Atendimento impecável.
+220,1378,Reparo,2024-09-17,7195.46,4,Cliente elogiou a agilidade.
+221,79,Reparo,2024-12-20,16166.06,4,Serviço de excelência.
+222,768,Personalização,2024-10-16,84901.89,5,Serviço realizado conforme esperado.
+223,210,Personalização,2024-12-31,56158.19,5,Serviço dentro do prazo.
+224,1052,Personalização,2024-08-15,19848.01,4,Serviço de excelência.
+225,782,Manutenção,2024-12-31,8971.01,5,Serviço de excelência.
+226,1458,Personalização,2024-08-15,74378.4,5,Serviço dentro do prazo.
+227,487,Reparo,2024-02-15,49686.39,5,Atendimento impecável.
+228,1349,Garantia,2024-12-31,4593.05,4,Cliente elogiou a agilidade.
+229,1110,Garantia,2024-12-31,658.95,2,Serviço realizado conforme esperado.
+230,1108,Personalização,2024-12-31,43976.35,4,Atendimento impecável.
+231,1388,Garantia,2024-01-22,429.3,5,Serviço realizado conforme esperado.
+232,403,Reparo,2024-12-31,24338.2,4,Atendimento impecável.
+233,214,Detalhamento,2024-12-31,3964.89,5,Cliente elogiou a agilidade.
+234,442,Revisão,2024-12-31,6080.73,4,Cliente satisfeito com o atendimento.
+235,194,Personalização,2024-12-31,90977.16,5,Serviço de excelência.
+236,1347,Reparo,2024-12-31,9807.11,5,Cliente satisfeito com o atendimento.
+237,1396,Personalização,2024-09-19,90988.31,4,Serviço de excelência.
+238,852,Garantia,2024-12-31,654.29,4,Serviço realizado conforme esperado.
+239,1319,Personalização,2024-12-31,27938.87,5,Atendimento impecável.
+240,923,Revisão,2023-11-08,6359.93,5,Serviço de excelência.
+241,1419,Garantia,2024-09-21,4878.05,5,Cliente satisfeito com o atendimento.
+242,765,Personalização,2024-01-22,78552.08,4,Serviço dentro do prazo.
+243,190,Garantia,2024-12-31,4147.6,5,Serviço dentro do prazo.
+244,985,Garantia,2023-11-26,1614.29,1,Cliente elogiou a agilidade.
+245,592,Garantia,2024-12-31,2698.76,5,Serviço de excelência.
+246,1088,Manutenção,2024-12-27,6427.05,4,"Tudo certo, sem problemas."
+247,556,Revisão,2024-12-31,2337.0,4,Serviço dentro do prazo.
+248,484,Garantia,2023-12-17,982.79,4,"Tudo certo, sem problemas."
+249,155,Detalhamento,2023-11-23,1716.87,4,Cliente elogiou a agilidade.
+250,1318,Personalização,2024-12-31,38943.5,5,Serviço realizado conforme esperado.
+251,773,Detalhamento,2024-12-31,1901.23,4,Serviço realizado conforme esperado.
+252,866,Reparo,2024-12-31,45628.48,5,Cliente satisfeito com o atendimento.
+253,517,Detalhamento,2024-11-14,2373.43,4,"Tudo certo, sem problemas."
+254,1360,Garantia,2024-12-31,2473.02,4,Atendimento impecável.
+255,1156,Garantia,2023-11-28,3949.95,5,Atendimento impecável.
+256,354,Revisão,2024-12-31,6556.66,4,Cliente satisfeito com o atendimento.
+257,1458,Revisão,2024-06-28,5451.18,5,Serviço de excelência.
+258,1102,Garantia,2024-06-06,463.09,5,Atendimento impecável.
+259,896,Personalização,2024-12-31,88130.16,3,Serviço dentro do prazo.
+260,973,Garantia,2024-12-31,800.69,3,Serviço dentro do prazo.
+261,705,Garantia,2024-12-31,3516.5,3,Cliente elogiou a agilidade.
+262,1010,Manutenção,2024-12-31,12025.61,4,Cliente elogiou a agilidade.
+263,168,Personalização,2023-09-18,66519.79,5,Serviço dentro do prazo.
+264,135,Manutenção,2023-09-02,10567.08,4,Serviço de excelência.
+265,917,Garantia,2023-05-07,4.69,4,Serviço dentro do prazo.
+266,1201,Garantia,2024-12-06,4690.89,4,Serviço de excelência.
+267,281,Reparo,2024-12-31,49650.61,3,Cliente satisfeito com o atendimento.
+268,1091,Garantia,2024-11-27,1515.28,5,Atendimento impecável.
+269,280,Revisão,2024-12-31,6884.42,5,Cliente satisfeito com o atendimento.
+270,1073,Reparo,2024-09-29,27087.0,5,Atendimento impecável.
+271,671,Detalhamento,2024-12-31,4113.97,1,"Tudo certo, sem problemas."
+272,1451,Garantia,2024-12-31,4848.32,5,Serviço de excelência.
+273,311,Revisão,2024-10-24,2650.75,5,Cliente elogiou a agilidade.
+274,313,Revisão,2024-12-31,4744.66,5,Serviço dentro do prazo.
+275,168,Personalização,2024-10-16,92661.66,3,"Tudo certo, sem problemas."
+276,553,Garantia,2024-08-15,3549.96,4,"Tudo certo, sem problemas."
+277,1175,Garantia,2024-12-31,2993.41,5,Atendimento impecável.
+278,324,Detalhamento,2024-09-19,4669.12,5,Serviço dentro do prazo.
+279,610,Detalhamento,2024-05-26,1750.18,3,Serviço dentro do prazo.
+280,243,Personalização,2024-12-31,39144.58,5,Serviço realizado conforme esperado.
+281,1393,Personalização,2024-12-31,17384.47,4,Serviço realizado conforme esperado.
+282,1331,Detalhamento,2024-12-31,3346.37,4,Atendimento impecável.
+283,1352,Detalhamento,2024-08-28,1913.95,4,Serviço realizado conforme esperado.
+284,1296,Detalhamento,2024-07-28,3518.01,4,Serviço dentro do prazo.
+285,915,Revisão,2023-11-04,6352.58,4,Serviço dentro do prazo.
+286,1499,Garantia,2024-01-10,471.04,5,Atendimento impecável.
+287,1086,Detalhamento,2024-02-26,1765.29,4,"Tudo certo, sem problemas."
+288,401,Manutenção,2023-09-12,5246.04,5,Serviço dentro do prazo.
+289,350,Revisão,2023-05-20,6878.69,4,Cliente elogiou a agilidade.
+290,81,Personalização,2024-12-31,87871.21,5,Serviço realizado conforme esperado.
+291,924,Revisão,2024-12-31,7403.44,4,Cliente elogiou a agilidade.
+292,193,Garantia,2024-12-31,1343.67,2,Atendimento impecável.
+293,443,Personalização,2024-03-07,34998.25,3,Cliente satisfeito com o atendimento.
+294,1380,Manutenção,2024-12-31,11739.8,5,Serviço de excelência.
+295,588,Manutenção,2024-12-31,10299.13,5,Serviço dentro do prazo.
+296,920,Reparo,2024-12-31,6124.63,5,"Tudo certo, sem problemas."
+297,1133,Detalhamento,2024-04-18,3034.93,5,Serviço de excelência.
+298,416,Garantia,2024-02-07,4937.23,4,Cliente elogiou a agilidade.
+299,2,Garantia,2024-12-02,1814.82,3,Atendimento impecável.
+300,855,Detalhamento,2024-12-31,2985.39,4,Serviço realizado conforme esperado.
+301,642,Garantia,2024-12-31,1563.14,1,Cliente elogiou a agilidade.
+302,666,Detalhamento,2024-03-19,4310.77,5,Serviço de excelência.
+303,776,Manutenção,2023-06-13,12239.61,5,Serviço de excelência.
+304,1254,Manutenção,2024-08-30,7136.64,1,Serviço realizado conforme esperado.
+305,1257,Manutenção,2024-08-17,8821.54,5,Cliente satisfeito com o atendimento.
+306,749,Revisão,2024-12-31,2177.69,4,Atendimento impecável.
+307,1124,Personalização,2024-12-31,77968.25,3,"Tudo certo, sem problemas."
+308,1440,Reparo,2023-11-16,40798.33,4,Serviço dentro do prazo.
+309,59,Personalização,2024-12-31,62153.18,5,Cliente satisfeito com o atendimento.
+310,101,Reparo,2024-12-31,49962.03,4,Cliente elogiou a agilidade.
+311,690,Revisão,2024-12-31,5049.26,3,Serviço realizado conforme esperado.
+312,1113,Detalhamento,2024-08-23,4681.9,5,Cliente satisfeito com o atendimento.
+313,643,Manutenção,2024-12-31,14777.19,5,"Tudo certo, sem problemas."
+314,835,Personalização,2024-06-03,82316.81,5,Cliente elogiou a agilidade.
+315,61,Manutenção,2023-07-11,9237.13,5,Serviço de excelência.
+316,1206,Manutenção,2024-12-10,4902.69,1,Cliente elogiou a agilidade.
+317,1326,Garantia,2024-11-23,3708.19,4,Serviço dentro do prazo.
+318,1368,Manutenção,2024-07-23,12472.36,5,Atendimento impecável.
+319,1383,Revisão,2024-12-31,7371.99,3,Serviço dentro do prazo.
+320,616,Manutenção,2024-12-31,3083.26,4,Cliente satisfeito com o atendimento.
+321,936,Revisão,2024-12-31,6064.74,4,Cliente satisfeito com o atendimento.
+322,1307,Reparo,2024-07-14,25706.62,4,Serviço realizado conforme esperado.
+323,563,Personalização,2024-08-12,43694.86,5,Serviço dentro do prazo.
+324,633,Detalhamento,2024-04-27,2519.66,1,Cliente satisfeito com o atendimento.
+325,218,Detalhamento,2024-12-31,2062.12,4,Cliente elogiou a agilidade.
+326,785,Manutenção,2024-12-31,8848.26,3,Serviço dentro do prazo.
+327,274,Personalização,2024-10-24,55000.93,5,Cliente satisfeito com o atendimento.
+328,679,Reparo,2024-12-31,6573.99,4,Atendimento impecável.
+329,703,Personalização,2024-12-31,43183.37,3,Cliente satisfeito com o atendimento.
+330,1253,Manutenção,2024-04-03,9157.19,4,Serviço de excelência.
+331,77,Personalização,2024-12-31,45542.23,5,Cliente elogiou a agilidade.
+332,1074,Personalização,2024-12-31,69188.01,4,Serviço realizado conforme esperado.
+333,1111,Reparo,2024-11-25,16162.56,5,Cliente elogiou a agilidade.
+334,743,Detalhamento,2024-12-31,3213.03,5,Cliente satisfeito com o atendimento.
+335,1262,Reparo,2024-12-31,15698.45,3,Cliente elogiou a agilidade.
+336,220,Manutenção,2024-12-31,8110.05,3,Serviço de excelência.
+337,1009,Garantia,2024-12-31,2216.87,3,Serviço de excelência.
+338,515,Personalização,2024-10-26,16066.39,3,Serviço de excelência.
+339,1163,Garantia,2024-12-31,4228.93,4,Cliente satisfeito com o atendimento.
+340,876,Personalização,2024-12-31,42236.91,5,Cliente elogiou a agilidade.
+341,929,Detalhamento,2024-12-31,2542.17,5,Cliente elogiou a agilidade.
+342,701,Detalhamento,2024-12-31,2179.26,4,Cliente satisfeito com o atendimento.
+343,724,Garantia,2024-12-31,1991.95,5,Serviço dentro do prazo.
+344,963,Garantia,2024-12-31,3105.85,4,Atendimento impecável.
+345,1089,Personalização,2024-12-31,37082.41,5,"Tudo certo, sem problemas."
+346,929,Revisão,2024-12-31,6407.34,4,Cliente satisfeito com o atendimento.
+347,1021,Garantia,2024-01-26,3788.62,3,Cliente elogiou a agilidade.
+348,1400,Garantia,2024-12-31,4628.31,5,Serviço realizado conforme esperado.
+349,773,Manutenção,2024-12-31,11601.38,5,Atendimento impecável.
+350,1391,Garantia,2024-01-13,1545.01,3,Cliente satisfeito com o atendimento.
+351,431,Revisão,2024-12-31,5262.29,2,Serviço realizado conforme esperado.
+352,828,Reparo,2024-12-31,35652.9,2,Atendimento impecável.
+353,330,Personalização,2024-12-31,94388.08,3,Cliente elogiou a agilidade.
+354,1106,Reparo,2023-08-26,23991.13,5,Atendimento impecável.
+355,370,Revisão,2024-08-31,7646.2,5,Atendimento impecável.
+356,433,Revisão,2024-12-31,6258.65,4,Serviço realizado conforme esperado.
+357,1098,Manutenção,2024-08-09,10420.64,4,Cliente elogiou a agilidade.
+358,307,Reparo,2024-12-23,12551.7,3,Atendimento impecável.
+359,591,Personalização,2024-12-31,67042.69,3,Cliente elogiou a agilidade.
+360,851,Garantia,2024-12-31,1840.4,4,"Tudo certo, sem problemas."
+361,1362,Reparo,2024-12-31,10258.44,3,Serviço dentro do prazo.
+362,1233,Reparo,2023-08-24,12443.35,5,"Tudo certo, sem problemas."
+363,152,Detalhamento,2024-12-31,4852.65,5,Serviço realizado conforme esperado.
+364,863,Manutenção,2024-12-31,5645.07,4,Serviço dentro do prazo.
+365,1337,Revisão,2024-12-31,5882.58,5,Serviço de excelência.
+366,950,Personalização,2024-12-31,26301.99,5,Serviço dentro do prazo.
+367,857,Garantia,2024-12-31,1197.29,5,Cliente elogiou a agilidade.
+368,176,Personalização,2024-12-31,41603.16,3,Cliente elogiou a agilidade.
+369,825,Revisão,2024-12-31,4131.59,5,Serviço dentro do prazo.
+370,650,Personalização,2024-12-31,31360.88,4,Serviço realizado conforme esperado.
+371,946,Personalização,2023-07-05,56766.19,5,Cliente satisfeito com o atendimento.
+372,831,Revisão,2024-12-31,7339.56,4,Serviço de excelência.
+373,776,Revisão,2024-04-14,5457.59,5,Serviço de excelência.
+374,548,Reparo,2024-12-31,18795.52,5,Cliente satisfeito com o atendimento.
+375,1209,Detalhamento,2024-12-31,1613.95,5,Serviço dentro do prazo.
+376,373,Revisão,2024-07-13,4376.68,4,Serviço dentro do prazo.
+377,1314,Personalização,2024-12-31,76116.16,4,Atendimento impecável.
+378,1038,Reparo,2024-12-31,13933.38,4,Serviço realizado conforme esperado.
+379,587,Personalização,2023-10-31,87305.76,5,"Tudo certo, sem problemas."
+380,1131,Revisão,2024-12-31,4697.13,1,Serviço de excelência.
+381,1472,Personalização,2024-11-23,13504.45,3,Cliente satisfeito com o atendimento.
+382,1013,Personalização,2023-05-23,22801.39,5,"Tudo certo, sem problemas."
+383,1316,Manutenção,2023-06-27,13478.43,4,Serviço dentro do prazo.
+384,671,Detalhamento,2024-12-31,2184.95,3,Serviço realizado conforme esperado.
+385,1466,Detalhamento,2024-08-29,4821.52,4,Cliente elogiou a agilidade.
+386,656,Garantia,2024-12-31,27.04,5,Cliente elogiou a agilidade.
+387,1398,Garantia,2024-07-25,4544.34,4,Cliente satisfeito com o atendimento.
+388,598,Revisão,2024-12-31,2181.38,3,Atendimento impecável.
+389,909,Reparo,2024-12-31,34836.15,5,"Tudo certo, sem problemas."
+390,335,Personalização,2024-10-17,97144.5,4,Cliente elogiou a agilidade.
+391,814,Reparo,2023-11-10,48623.28,4,Serviço realizado conforme esperado.
+392,448,Detalhamento,2024-10-01,4691.23,5,Serviço de excelência.
+393,968,Manutenção,2024-12-31,12377.93,4,Serviço realizado conforme esperado.
+394,627,Detalhamento,2023-12-24,4708.22,5,Serviço de excelência.
+395,974,Revisão,2024-12-31,6872.01,5,Cliente elogiou a agilidade.
+396,548,Personalização,2023-12-13,37032.08,5,Atendimento impecável.
+397,738,Reparo,2024-10-25,10414.06,3,Atendimento impecável.
+398,1461,Detalhamento,2024-12-31,3032.66,3,Cliente elogiou a agilidade.
+399,667,Reparo,2024-12-31,28150.7,3,"Tudo certo, sem problemas."
+400,680,Manutenção,2024-12-31,7394.73,5,Serviço realizado conforme esperado.
+401,1001,Revisão,2024-12-31,2742.22,5,"Tudo certo, sem problemas."
+402,1398,Revisão,2024-12-31,2852.77,4,Cliente elogiou a agilidade.
+403,1498,Detalhamento,2024-11-08,4010.61,5,Serviço realizado conforme esperado.
+404,765,Personalização,2024-06-11,28578.81,4,Atendimento impecável.
+405,1493,Personalização,2024-12-31,59525.74,5,Cliente satisfeito com o atendimento.
+406,1409,Detalhamento,2024-12-31,2488.96,3,Serviço de excelência.
+407,348,Detalhamento,2024-12-30,3287.81,4,Serviço de excelência.
+408,484,Revisão,2023-05-23,2729.6,4,Cliente elogiou a agilidade.
+409,414,Revisão,2024-12-31,5462.1,5,"Tudo certo, sem problemas."
+410,842,Revisão,2024-12-31,7474.99,4,Serviço realizado conforme esperado.
+411,1235,Garantia,2024-12-31,1472.85,5,Atendimento impecável.
+412,39,Manutenção,2024-12-31,3966.5,3,Serviço dentro do prazo.
+413,1111,Revisão,2024-12-31,7098.88,5,Cliente elogiou a agilidade.
+414,358,Personalização,2024-08-05,57633.96,5,Serviço dentro do prazo.
+415,837,Manutenção,2024-10-23,6575.58,4,Serviço dentro do prazo.
+416,834,Garantia,2024-12-31,3823.77,4,"Tudo certo, sem problemas."
+417,427,Detalhamento,2024-12-31,1534.6,5,Atendimento impecável.
+418,514,Garantia,2024-12-31,3675.54,4,Cliente satisfeito com o atendimento.
+419,1421,Reparo,2024-12-31,14267.24,3,Atendimento impecável.
+420,982,Revisão,2024-06-13,3352.62,5,Serviço de excelência.
+421,915,Detalhamento,2024-06-27,4388.37,4,Cliente elogiou a agilidade.
+422,286,Manutenção,2023-11-14,9586.57,5,"Tudo certo, sem problemas."
+423,616,Manutenção,2024-12-31,14810.5,4,Cliente satisfeito com o atendimento.
+424,684,Personalização,2024-12-31,44270.89,4,Serviço dentro do prazo.
+425,1311,Garantia,2024-05-28,1005.37,5,Serviço realizado conforme esperado.
+426,1160,Personalização,2024-08-30,27419.97,2,Atendimento impecável.
+427,329,Garantia,2024-12-31,3831.09,4,Serviço realizado conforme esperado.
+428,1391,Manutenção,2024-12-31,14495.75,2,Atendimento impecável.
+429,754,Garantia,2024-12-31,4375.02,5,Serviço realizado conforme esperado.
+430,62,Detalhamento,2024-12-31,2102.37,5,Atendimento impecável.
+431,167,Manutenção,2023-12-16,11170.36,3,Cliente satisfeito com o atendimento.
+432,384,Personalização,2024-01-09,59966.3,4,Serviço realizado conforme esperado.
+433,780,Garantia,2024-12-31,4419.02,4,"Tudo certo, sem problemas."
+434,1256,Revisão,2024-12-31,7101.37,4,Serviço dentro do prazo.
+435,1381,Manutenção,2024-12-31,6964.33,3,Serviço realizado conforme esperado.
+436,35,Garantia,2023-11-02,52.51,5,Serviço realizado conforme esperado.
+437,368,Personalização,2024-11-19,14197.56,5,Atendimento impecável.
+438,170,Manutenção,2024-08-24,7167.3,1,Cliente satisfeito com o atendimento.
+439,414,Personalização,2024-12-31,94492.87,5,Serviço de excelência.
+440,1478,Reparo,2024-11-07,26935.32,4,"Tudo certo, sem problemas."
+441,1435,Personalização,2024-08-14,23771.39,5,Serviço dentro do prazo.
+442,966,Garantia,2024-03-21,1547.26,5,Atendimento impecável.
+443,242,Detalhamento,2024-04-10,3351.04,5,Serviço realizado conforme esperado.
+444,1064,Revisão,2024-12-31,4326.12,4,Atendimento impecável.
+445,747,Garantia,2024-12-18,3957.37,5,Atendimento impecável.
+446,557,Garantia,2024-03-17,3877.32,4,Serviço dentro do prazo.
+447,226,Personalização,2024-12-31,62157.39,5,Cliente satisfeito com o atendimento.
+448,1344,Manutenção,2024-12-31,12098.18,4,Atendimento impecável.
+449,208,Personalização,2024-12-25,20414.33,5,"Tudo certo, sem problemas."
+450,1357,Revisão,2024-12-31,7362.35,3,Serviço de excelência.
+451,1463,Detalhamento,2024-08-14,4120.03,4,Serviço realizado conforme esperado.
+452,176,Reparo,2024-03-02,12973.25,4,Cliente elogiou a agilidade.
+453,799,Revisão,2024-10-15,2971.06,4,Serviço de excelência.
+454,226,Personalização,2024-12-31,40871.67,2,Serviço dentro do prazo.
+455,1283,Personalização,2024-08-14,53944.74,4,Serviço de excelência.
+456,1313,Manutenção,2024-12-31,8966.33,4,Serviço realizado conforme esperado.
+457,335,Revisão,2024-12-31,6949.9,3,Cliente elogiou a agilidade.
+458,1326,Revisão,2024-12-31,3522.05,5,Serviço de excelência.
+459,1476,Revisão,2024-12-31,2690.48,5,Cliente elogiou a agilidade.
+460,202,Revisão,2024-11-17,5461.61,5,Cliente elogiou a agilidade.
+461,1132,Garantia,2023-11-05,147.5,3,Cliente satisfeito com o atendimento.
+462,1084,Detalhamento,2024-12-31,2122.54,4,Serviço realizado conforme esperado.
+463,1432,Reparo,2024-12-31,10892.56,3,Cliente elogiou a agilidade.
+464,1048,Reparo,2024-07-20,44287.48,3,Cliente satisfeito com o atendimento.
+465,306,Reparo,2024-12-31,31745.6,5,Atendimento impecável.
+466,1118,Reparo,2024-12-31,22388.8,4,Serviço realizado conforme esperado.
+467,1176,Detalhamento,2024-12-31,2499.83,5,Serviço de excelência.
+468,16,Revisão,2023-04-29,3660.5,5,Cliente elogiou a agilidade.
+469,691,Revisão,2024-12-31,2784.32,3,Serviço de excelência.
+470,1007,Personalização,2024-12-31,36582.52,5,Atendimento impecável.
+471,1413,Reparo,2024-12-31,25219.05,5,Atendimento impecável.
+472,1156,Manutenção,2024-12-31,3643.36,2,"Tudo certo, sem problemas."
+473,448,Garantia,2024-12-31,3754.21,4,"Tudo certo, sem problemas."
+474,216,Manutenção,2024-12-31,7952.24,4,Serviço realizado conforme esperado.
+475,440,Revisão,2024-12-31,5711.45,5,Serviço realizado conforme esperado.
+476,520,Garantia,2024-12-31,3700.59,4,Atendimento impecável.
+477,450,Garantia,2024-12-31,2177.44,4,Serviço dentro do prazo.
+478,866,Reparo,2024-02-02,17883.28,4,Serviço de excelência.
+479,1326,Manutenção,2024-08-03,9230.09,5,Atendimento impecável.
+480,192,Manutenção,2024-12-31,7185.2,3,Cliente elogiou a agilidade.
+481,630,Revisão,2024-11-26,5697.23,4,Serviço de excelência.
+482,1133,Revisão,2024-12-31,4434.67,4,Serviço dentro do prazo.
+483,600,Revisão,2024-12-31,3642.78,5,Serviço dentro do prazo.
+484,491,Reparo,2024-05-16,25822.77,4,Serviço realizado conforme esperado.
+485,225,Revisão,2024-12-31,3437.1,4,Serviço dentro do prazo.
+486,912,Manutenção,2024-12-31,14072.74,5,Serviço de excelência.
+487,586,Manutenção,2024-08-07,6679.62,3,Serviço dentro do prazo.
+488,979,Reparo,2023-12-10,12300.26,4,Serviço realizado conforme esperado.
+489,1061,Reparo,2024-09-22,43503.04,5,Atendimento impecável.
+490,663,Revisão,2024-12-06,5716.51,4,Atendimento impecável.
+491,1410,Revisão,2024-12-31,5048.45,4,Serviço dentro do prazo.
+492,576,Reparo,2023-08-30,22366.45,4,"Tudo certo, sem problemas."
+493,1450,Personalização,2024-08-05,50994.23,5,"Tudo certo, sem problemas."
+494,753,Manutenção,2024-12-22,7015.52,4,Serviço realizado conforme esperado.
+495,609,Manutenção,2024-12-31,5993.58,5,"Tudo certo, sem problemas."
+496,1422,Garantia,2024-12-31,4430.86,4,Atendimento impecável.
+497,326,Reparo,2024-07-15,49532.91,5,"Tudo certo, sem problemas."
+498,212,Revisão,2024-04-08,5361.09,5,"Tudo certo, sem problemas."
+499,453,Garantia,2024-11-12,4493.39,2,Atendimento impecável.
+500,283,Revisão,2024-12-31,7721.2,5,Atendimento impecável.
+501,1390,Detalhamento,2024-06-20,3962.01,5,Atendimento impecável.
+502,802,Garantia,2024-12-31,996.31,4,Atendimento impecável.
+503,521,Detalhamento,2024-12-31,4658.65,4,Cliente satisfeito com o atendimento.
+504,618,Reparo,2024-12-31,31298.1,4,Serviço realizado conforme esperado.
+505,4,Manutenção,2024-12-31,6797.08,3,"Tudo certo, sem problemas."
+506,27,Personalização,2024-12-31,12478.53,4,Atendimento impecável.
+507,822,Personalização,2024-12-31,14163.62,4,Serviço realizado conforme esperado.
+508,1274,Detalhamento,2024-12-31,3158.45,4,Serviço dentro do prazo.
+509,1180,Manutenção,2024-10-04,6941.04,5,Atendimento impecável.
+510,827,Personalização,2024-12-31,59825.97,5,Serviço realizado conforme esperado.
+511,443,Reparo,2024-12-31,45955.12,4,Serviço realizado conforme esperado.
+512,193,Revisão,2024-12-31,3788.79,5,Cliente satisfeito com o atendimento.
+513,1449,Garantia,2023-11-02,3463.38,4,Serviço de excelência.
+514,1176,Manutenção,2024-12-31,6276.96,3,Serviço dentro do prazo.
+515,1294,Detalhamento,2024-12-18,4009.72,5,Atendimento impecável.
+516,468,Manutenção,2024-12-31,10568.68,5,Cliente satisfeito com o atendimento.
+517,1276,Garantia,2024-01-05,583.83,5,Serviço de excelência.
+518,1432,Reparo,2024-12-31,46195.99,2,Serviço dentro do prazo.
+519,517,Manutenção,2024-12-31,4656.85,4,Serviço dentro do prazo.
+520,827,Personalização,2024-12-31,87066.78,5,Serviço de excelência.
+521,544,Garantia,2024-12-31,1243.98,5,Atendimento impecável.
+522,430,Reparo,2023-09-25,22072.35,3,Serviço de excelência.
+523,545,Garantia,2024-05-14,1532.7,5,Cliente satisfeito com o atendimento.
+524,608,Detalhamento,2024-02-21,4280.45,4,"Tudo certo, sem problemas."
+525,22,Manutenção,2024-12-31,11433.09,2,Cliente satisfeito com o atendimento.
+526,875,Revisão,2023-10-30,6029.43,5,"Tudo certo, sem problemas."
+527,1183,Revisão,2024-01-23,5486.83,4,Cliente satisfeito com o atendimento.
+528,203,Manutenção,2024-12-31,13431.1,4,"Tudo certo, sem problemas."
+529,1254,Manutenção,2023-12-14,10707.57,5,Serviço de excelência.
+530,332,Garantia,2024-12-31,589.9,5,Cliente satisfeito com o atendimento.
+531,1194,Revisão,2024-12-31,7923.05,5,Serviço de excelência.
+532,832,Reparo,2024-12-31,49430.96,5,"Tudo certo, sem problemas."
+533,240,Detalhamento,2024-02-27,2513.07,4,Serviço de excelência.
+534,165,Personalização,2024-11-22,18073.43,4,Cliente elogiou a agilidade.
+535,273,Garantia,2024-12-31,3252.45,2,Cliente elogiou a agilidade.
+536,1054,Revisão,2024-12-25,6502.93,2,Atendimento impecável.
+537,1284,Reparo,2024-12-31,37399.16,5,Cliente satisfeito com o atendimento.
+538,1232,Manutenção,2024-06-29,4471.63,5,Serviço de excelência.
+539,93,Detalhamento,2024-11-25,3826.86,5,Cliente satisfeito com o atendimento.
+540,639,Personalização,2024-12-31,16873.63,4,Cliente satisfeito com o atendimento.
+541,938,Revisão,2024-12-03,4518.11,4,Atendimento impecável.
+542,2,Detalhamento,2024-12-31,3519.24,5,Serviço de excelência.
+543,487,Reparo,2024-12-31,39896.95,5,Serviço realizado conforme esperado.
+544,1373,Revisão,2024-12-31,5976.66,4,"Tudo certo, sem problemas."
+545,677,Manutenção,2023-11-08,4550.5,4,Serviço realizado conforme esperado.
+546,653,Garantia,2024-12-01,4750.16,4,Cliente elogiou a agilidade.
+547,429,Reparo,2024-12-23,33982.25,3,"Tudo certo, sem problemas."
+548,1049,Detalhamento,2024-05-09,4712.2,5,Atendimento impecável.
+549,354,Detalhamento,2024-12-31,4545.63,4,Serviço realizado conforme esperado.
+550,1491,Personalização,2024-11-02,76308.55,4,Atendimento impecável.
+551,1373,Personalização,2024-12-31,52578.66,4,Serviço dentro do prazo.
+552,128,Garantia,2024-12-31,4398.3,3,Serviço de excelência.
+553,247,Manutenção,2024-12-31,13323.15,4,Serviço realizado conforme esperado.
+554,323,Manutenção,2024-12-31,9940.37,1,Serviço realizado conforme esperado.
+555,927,Detalhamento,2024-12-11,4584.79,4,Serviço dentro do prazo.
+556,1393,Detalhamento,2024-12-31,4571.88,5,Atendimento impecável.
+557,1388,Reparo,2024-09-21,39184.06,5,Atendimento impecável.
+558,861,Reparo,2024-12-31,9529.63,5,"Tudo certo, sem problemas."
+559,399,Garantia,2024-12-31,4018.29,4,Cliente elogiou a agilidade.
+560,1084,Revisão,2024-12-31,5369.05,4,Cliente satisfeito com o atendimento.
+561,610,Detalhamento,2024-12-31,3631.9,5,Atendimento impecável.
+562,965,Detalhamento,2024-12-31,3069.7,5,Cliente elogiou a agilidade.
+563,956,Garantia,2024-12-31,4435.37,5,"Tudo certo, sem problemas."
+564,991,Detalhamento,2024-12-31,1571.72,4,Serviço realizado conforme esperado.
+565,409,Detalhamento,2024-12-31,1955.52,5,"Tudo certo, sem problemas."
+566,986,Revisão,2024-12-31,2906.67,5,Cliente elogiou a agilidade.
+567,1003,Manutenção,2024-12-31,6709.39,5,Serviço dentro do prazo.
+568,917,Reparo,2024-07-20,14946.14,4,Cliente satisfeito com o atendimento.
+569,98,Garantia,2024-05-03,2467.19,4,Serviço de excelência.
+570,664,Manutenção,2023-08-21,13730.03,3,Atendimento impecável.
+571,1289,Garantia,2024-12-31,642.85,5,Cliente elogiou a agilidade.
+572,797,Revisão,2024-12-31,2830.19,5,Serviço realizado conforme esperado.
+573,17,Garantia,2024-05-19,4949.01,4,"Tudo certo, sem problemas."
+574,839,Reparo,2024-05-10,23440.86,1,Atendimento impecável.
+575,762,Manutenção,2024-08-14,4298.84,5,Serviço de excelência.
+576,1333,Manutenção,2024-08-05,14109.35,5,Serviço dentro do prazo.
+577,199,Garantia,2024-12-31,3658.99,5,"Tudo certo, sem problemas."
+578,768,Reparo,2024-12-31,21604.56,3,Atendimento impecável.
+579,872,Reparo,2024-12-20,44542.32,4,Serviço de excelência.
+580,864,Detalhamento,2024-12-31,2345.47,4,Serviço dentro do prazo.
+581,503,Garantia,2024-12-31,3218.51,4,Cliente satisfeito com o atendimento.
+582,871,Personalização,2024-12-31,18439.25,4,Cliente elogiou a agilidade.
+583,966,Personalização,2024-12-31,38000.76,2,Atendimento impecável.
+584,167,Reparo,2024-09-12,47103.7,2,Cliente elogiou a agilidade.
+585,1071,Personalização,2024-09-25,36090.7,5,Atendimento impecável.
+586,327,Detalhamento,2024-12-31,4504.63,5,Cliente elogiou a agilidade.
+587,845,Reparo,2024-12-31,36696.99,4,Serviço de excelência.
+588,472,Garantia,2024-12-31,3821.68,4,Serviço dentro do prazo.
+589,442,Personalização,2024-12-31,64029.11,2,Atendimento impecável.
+590,387,Garantia,2024-12-31,3478.23,4,Serviço de excelência.
+591,30,Reparo,2024-12-31,28625.07,5,Serviço dentro do prazo.
+592,1138,Manutenção,2024-12-31,10176.55,5,Cliente elogiou a agilidade.
+593,1317,Revisão,2023-11-22,7535.34,5,Serviço dentro do prazo.
+594,587,Manutenção,2024-07-14,8642.07,4,Serviço dentro do prazo.
+595,391,Revisão,2024-12-31,5047.76,5,Serviço realizado conforme esperado.
+596,874,Manutenção,2024-12-31,5742.31,4,Serviço de excelência.
+597,1453,Manutenção,2024-07-21,12005.33,1,Serviço de excelência.
+598,438,Reparo,2024-12-31,17286.02,5,Atendimento impecável.
+599,388,Detalhamento,2024-12-31,1678.59,4,"Tudo certo, sem problemas."
+600,1358,Personalização,2024-12-31,32234.24,5,Cliente elogiou a agilidade.
+601,312,Reparo,2024-12-31,35088.43,4,Serviço dentro do prazo.
+602,1275,Personalização,2024-12-31,28147.51,4,Cliente satisfeito com o atendimento.
+603,51,Personalização,2024-08-02,55318.78,4,Serviço realizado conforme esperado.
+604,699,Revisão,2024-09-19,7467.03,4,Serviço de excelência.
+605,973,Garantia,2024-12-31,4882.43,5,Serviço de excelência.
+606,810,Manutenção,2024-12-31,10089.09,4,Serviço realizado conforme esperado.
+607,1018,Revisão,2024-12-31,5598.42,4,"Tudo certo, sem problemas."
+608,1031,Reparo,2024-09-13,9329.98,3,Cliente satisfeito com o atendimento.
+609,809,Reparo,2024-09-21,26459.84,4,Serviço dentro do prazo.
+610,266,Garantia,2024-12-31,2858.8,5,"Tudo certo, sem problemas."
+611,756,Manutenção,2024-01-27,13474.1,5,Serviço dentro do prazo.
+612,1116,Manutenção,2024-02-18,14488.83,4,Cliente elogiou a agilidade.
+613,1376,Revisão,2024-12-31,5844.6,4,Cliente satisfeito com o atendimento.
+614,1485,Personalização,2024-05-10,83753.49,5,Atendimento impecável.
+615,1218,Personalização,2024-10-09,58110.95,1,Cliente satisfeito com o atendimento.
+616,613,Manutenção,2024-12-31,12419.0,2,Cliente elogiou a agilidade.
+617,1235,Reparo,2024-12-31,13579.51,3,Cliente satisfeito com o atendimento.
+618,848,Detalhamento,2024-12-31,1662.25,4,Cliente satisfeito com o atendimento.
+619,1322,Detalhamento,2024-12-11,2361.86,4,Serviço realizado conforme esperado.
+620,88,Garantia,2024-12-31,1835.99,5,Cliente satisfeito com o atendimento.
+621,274,Garantia,2023-04-21,1260.41,5,"Tudo certo, sem problemas."
+622,1171,Manutenção,2024-12-31,4898.77,4,Cliente elogiou a agilidade.
+623,510,Garantia,2024-08-17,1659.69,5,Atendimento impecável.
+624,1005,Garantia,2023-08-22,2768.18,4,Serviço de excelência.
+625,1499,Personalização,2024-12-06,67172.08,3,"Tudo certo, sem problemas."
+626,368,Manutenção,2024-12-31,6687.77,5,Serviço realizado conforme esperado.
+627,1288,Reparo,2024-04-04,8327.02,4,"Tudo certo, sem problemas."
+628,892,Revisão,2024-12-31,5905.3,4,Serviço realizado conforme esperado.
+629,1294,Manutenção,2024-12-31,5983.32,4,Serviço dentro do prazo.
+630,523,Detalhamento,2024-10-01,3124.63,4,Cliente elogiou a agilidade.
+631,1432,Garantia,2024-08-29,3668.72,4,Atendimento impecável.
+632,1455,Manutenção,2024-12-17,12814.34,5,Atendimento impecável.
+633,192,Reparo,2024-03-26,7839.52,5,Atendimento impecável.
+634,1251,Revisão,2024-09-15,3857.32,3,Serviço de excelência.
+635,650,Manutenção,2024-12-24,12186.17,5,"Tudo certo, sem problemas."
+636,439,Manutenção,2024-02-23,10000.01,5,Serviço dentro do prazo.
+637,274,Manutenção,2023-05-05,7698.32,5,"Tudo certo, sem problemas."
+638,198,Garantia,2024-12-31,3003.71,5,Cliente satisfeito com o atendimento.
+639,794,Garantia,2024-01-26,928.81,4,Serviço dentro do prazo.
+640,1497,Personalização,2024-12-31,66847.39,3,"Tudo certo, sem problemas."
+641,828,Revisão,2024-09-24,7918.8,4,Cliente elogiou a agilidade.
+642,460,Detalhamento,2024-12-07,2066.76,4,"Tudo certo, sem problemas."
+643,830,Personalização,2024-12-31,41844.22,4,Cliente elogiou a agilidade.
+644,704,Revisão,2024-12-31,2420.76,5,Serviço realizado conforme esperado.
+645,1295,Personalização,2024-12-31,73207.32,5,Atendimento impecável.
+646,502,Detalhamento,2024-12-31,3259.17,3,Serviço realizado conforme esperado.
+647,906,Garantia,2024-12-31,1815.8,5,Cliente satisfeito com o atendimento.
+648,371,Reparo,2024-12-31,37886.18,5,Cliente elogiou a agilidade.
+649,1268,Detalhamento,2024-06-29,3780.37,4,"Tudo certo, sem problemas."
+650,704,Garantia,2024-12-31,2540.38,4,Cliente satisfeito com o atendimento.
+651,1233,Manutenção,2024-12-31,7650.49,3,Serviço de excelência.
+652,436,Detalhamento,2023-05-19,1674.48,5,Atendimento impecável.
+653,1455,Personalização,2024-09-15,67336.92,5,Serviço dentro do prazo.
+654,730,Manutenção,2024-12-31,8724.96,4,Serviço dentro do prazo.
+655,354,Reparo,2024-12-31,20496.92,5,Cliente satisfeito com o atendimento.
+656,97,Personalização,2024-10-22,45112.48,3,Serviço realizado conforme esperado.
+657,555,Personalização,2024-12-31,14255.6,3,Cliente elogiou a agilidade.
+658,202,Detalhamento,2024-12-31,1699.05,5,Atendimento impecável.
+659,882,Reparo,2023-04-29,8902.51,3,Serviço dentro do prazo.
+660,728,Revisão,2024-12-31,2116.67,4,Cliente elogiou a agilidade.
+661,758,Reparo,2024-11-05,26798.52,5,Serviço de excelência.
+662,1053,Reparo,2024-07-07,40888.74,5,Serviço de excelência.
+663,1190,Garantia,2024-12-31,3797.77,5,Serviço realizado conforme esperado.
+664,248,Manutenção,2024-10-19,8619.18,4,Serviço de excelência.
+665,328,Manutenção,2024-11-02,11799.23,5,Serviço realizado conforme esperado.
+666,702,Garantia,2024-12-31,4139.4,4,Cliente elogiou a agilidade.
+667,826,Manutenção,2023-06-23,12981.38,5,Cliente satisfeito com o atendimento.
+668,637,Detalhamento,2024-12-31,4226.81,5,Serviço realizado conforme esperado.
+669,1472,Detalhamento,2023-08-16,3113.36,5,Serviço dentro do prazo.
+670,1173,Reparo,2024-12-31,15550.62,5,Serviço dentro do prazo.
+671,45,Detalhamento,2024-12-31,1997.89,5,Serviço realizado conforme esperado.
+672,795,Reparo,2024-12-31,42493.9,5,Serviço de excelência.
+673,1304,Reparo,2024-12-31,10373.89,5,Serviço realizado conforme esperado.
+674,286,Personalização,2024-12-31,55734.01,4,"Tudo certo, sem problemas."
+675,16,Manutenção,2024-02-02,12348.39,5,Serviço realizado conforme esperado.
+676,372,Garantia,2024-12-31,801.74,5,Serviço realizado conforme esperado.
+677,186,Detalhamento,2024-12-31,4286.78,4,Cliente elogiou a agilidade.
+678,397,Reparo,2024-01-18,13349.48,5,"Tudo certo, sem problemas."
+679,542,Garantia,2024-08-04,1738.49,2,Cliente elogiou a agilidade.
+680,177,Reparo,2024-12-31,48907.64,4,Cliente elogiou a agilidade.
+681,797,Personalização,2024-12-31,65633.05,3,Serviço dentro do prazo.
+682,890,Manutenção,2024-12-31,14531.93,4,Cliente elogiou a agilidade.
+683,228,Personalização,2024-12-31,48416.71,4,Cliente elogiou a agilidade.
+684,1244,Manutenção,2023-04-26,11502.39,5,Atendimento impecável.
+685,1422,Personalização,2024-12-31,48582.45,3,Cliente satisfeito com o atendimento.
+686,308,Personalização,2024-12-31,44031.58,5,Cliente satisfeito com o atendimento.
+687,888,Detalhamento,2024-01-28,4236.5,5,Cliente elogiou a agilidade.
+688,898,Detalhamento,2023-06-04,2206.63,5,Atendimento impecável.
+689,711,Garantia,2024-12-31,1252.15,5,Cliente elogiou a agilidade.
+690,1081,Manutenção,2023-07-25,14751.8,5,Atendimento impecável.
+691,320,Garantia,2024-12-31,3163.87,5,Serviço dentro do prazo.
+692,130,Garantia,2023-08-13,2514.59,5,Serviço dentro do prazo.
+693,349,Detalhamento,2024-06-13,4929.03,5,Serviço realizado conforme esperado.
+694,631,Personalização,2024-12-31,18275.68,5,Serviço dentro do prazo.
+695,36,Revisão,2024-12-31,4018.95,5,Serviço realizado conforme esperado.
+696,1382,Garantia,2024-12-31,1589.66,3,Serviço de excelência.
+697,248,Garantia,2024-01-13,4686.55,5,Serviço de excelência.
+698,1058,Garantia,2024-12-31,4174.86,5,Cliente satisfeito com o atendimento.
+699,989,Detalhamento,2024-09-13,2714.31,4,Serviço dentro do prazo.
+700,149,Detalhamento,2024-09-03,1743.92,4,Serviço de excelência.
+701,732,Manutenção,2024-12-31,7174.15,5,Serviço realizado conforme esperado.
+702,10,Personalização,2024-12-31,94995.91,4,Cliente elogiou a agilidade.
+703,702,Personalização,2024-12-31,13543.99,5,Serviço dentro do prazo.
+704,520,Manutenção,2024-12-31,6488.63,4,Atendimento impecável.
+705,320,Revisão,2024-12-31,7373.07,5,Serviço de excelência.
+706,1272,Detalhamento,2024-04-22,4769.14,3,Cliente satisfeito com o atendimento.
+707,1198,Revisão,2024-10-28,5865.99,4,"Tudo certo, sem problemas."
+708,1389,Revisão,2024-12-31,5240.28,5,Serviço dentro do prazo.
+709,1324,Personalização,2024-12-31,54663.09,5,Serviço realizado conforme esperado.
+710,200,Manutenção,2024-12-31,14677.75,5,Cliente elogiou a agilidade.
+711,1240,Garantia,2024-12-31,3432.33,5,Atendimento impecável.
+712,368,Garantia,2024-09-05,228.48,4,Serviço dentro do prazo.
+713,1159,Reparo,2024-03-18,21387.68,2,"Tudo certo, sem problemas."
+714,320,Garantia,2024-12-31,3686.2,4,Serviço realizado conforme esperado.
+715,33,Revisão,2024-10-24,2160.55,4,Serviço de excelência.
+716,733,Detalhamento,2023-08-07,4597.81,5,Serviço realizado conforme esperado.
+717,241,Manutenção,2024-12-31,10001.74,5,Serviço dentro do prazo.
+718,874,Revisão,2024-11-25,2920.81,3,Cliente elogiou a agilidade.
+719,788,Revisão,2024-06-06,5331.54,4,Serviço dentro do prazo.
+720,804,Garantia,2024-12-31,4395.0,5,Atendimento impecável.
+721,422,Garantia,2024-02-22,1034.99,5,Serviço dentro do prazo.
+722,436,Garantia,2024-07-22,3531.66,4,Serviço realizado conforme esperado.
+723,248,Manutenção,2024-01-08,4665.8,5,"Tudo certo, sem problemas."
+724,641,Reparo,2024-12-31,29585.04,4,Cliente elogiou a agilidade.
+725,1400,Reparo,2024-12-31,17851.17,4,Serviço de excelência.
+726,512,Reparo,2024-12-31,16468.7,2,Serviço dentro do prazo.
+727,394,Personalização,2024-12-31,82312.69,5,Serviço de excelência.
+728,739,Revisão,2024-12-31,2616.37,2,Cliente satisfeito com o atendimento.
+729,439,Garantia,2023-10-07,2189.69,4,Cliente satisfeito com o atendimento.
+730,133,Garantia,2024-12-31,2471.46,5,Serviço dentro do prazo.
+731,963,Reparo,2024-11-23,25333.86,5,Serviço de excelência.
+732,1162,Personalização,2024-08-18,55262.5,5,Cliente satisfeito com o atendimento.
+733,1097,Detalhamento,2024-12-31,3550.79,5,Atendimento impecável.
+734,10,Manutenção,2024-12-31,14254.63,3,Serviço de excelência.
+735,761,Detalhamento,2024-12-31,3355.42,4,Serviço realizado conforme esperado.
+736,182,Garantia,2024-12-14,4462.73,5,"Tudo certo, sem problemas."
+737,1026,Reparo,2024-12-17,23840.38,5,Atendimento impecável.
+738,1319,Detalhamento,2024-12-31,2005.33,3,Serviço dentro do prazo.
+739,379,Manutenção,2023-10-04,13465.74,3,Serviço realizado conforme esperado.
+740,971,Detalhamento,2024-12-31,1879.46,4,Cliente elogiou a agilidade.
+741,1478,Detalhamento,2024-06-27,4417.02,5,Cliente elogiou a agilidade.
+742,1495,Garantia,2024-04-30,4782.71,4,Serviço de excelência.
+743,568,Personalização,2024-05-08,47906.9,5,"Tudo certo, sem problemas."
+744,1085,Personalização,2024-11-15,82941.24,5,Atendimento impecável.
+745,1105,Personalização,2024-09-03,47361.98,3,Serviço realizado conforme esperado.
+746,328,Detalhamento,2024-12-31,1595.91,5,"Tudo certo, sem problemas."
+747,286,Reparo,2024-10-25,46427.82,5,Atendimento impecável.
+748,684,Reparo,2024-09-24,10954.67,5,Cliente elogiou a agilidade.
+749,507,Personalização,2024-10-04,61190.37,2,Serviço realizado conforme esperado.
+750,893,Revisão,2024-12-31,5626.39,5,Cliente satisfeito com o atendimento.
+751,112,Garantia,2023-06-22,3590.46,5,Serviço de excelência.
+752,1481,Garantia,2024-12-31,953.37,3,Serviço dentro do prazo.
+753,1213,Revisão,2024-02-02,4441.32,4,Serviço dentro do prazo.
+754,1063,Reparo,2024-11-24,40461.33,5,Serviço de excelência.
+755,436,Detalhamento,2023-06-16,4801.63,5,Serviço dentro do prazo.
+756,650,Manutenção,2024-12-31,6567.09,5,Serviço dentro do prazo.
+757,1473,Reparo,2024-12-31,45895.35,2,Cliente satisfeito com o atendimento.
+758,749,Detalhamento,2024-12-31,1760.67,5,Cliente elogiou a agilidade.
+759,58,Reparo,2024-12-31,49456.71,5,Cliente satisfeito com o atendimento.
+760,914,Revisão,2024-06-02,5728.65,5,Serviço de excelência.
+761,653,Reparo,2024-12-31,20323.04,5,Atendimento impecável.
+762,1273,Garantia,2023-07-04,1238.34,5,Cliente elogiou a agilidade.
+763,346,Detalhamento,2024-12-31,3901.72,5,Serviço realizado conforme esperado.
+764,1132,Manutenção,2024-12-31,8220.58,4,Serviço de excelência.
+765,1499,Revisão,2024-08-09,4705.54,5,Serviço de excelência.
+766,204,Personalização,2024-11-08,82347.38,4,Serviço realizado conforme esperado.
+767,958,Manutenção,2023-11-04,12935.77,5,Atendimento impecável.
+768,1197,Manutenção,2024-09-27,6171.03,4,Serviço dentro do prazo.
+769,598,Manutenção,2024-09-26,9161.64,5,Serviço dentro do prazo.
+770,722,Manutenção,2023-11-02,12434.82,5,Cliente satisfeito com o atendimento.
+771,171,Garantia,2024-11-12,2708.3,5,Serviço realizado conforme esperado.
+772,703,Manutenção,2024-06-16,11758.76,5,Serviço de excelência.
+773,653,Manutenção,2024-12-31,3455.67,5,Serviço de excelência.
+774,632,Garantia,2024-02-10,4189.53,5,Serviço realizado conforme esperado.
+775,1176,Personalização,2024-12-31,49539.21,5,"Tudo certo, sem problemas."
+776,1334,Detalhamento,2023-12-07,2025.49,4,Serviço dentro do prazo.
+777,901,Revisão,2024-08-08,5512.66,4,Serviço realizado conforme esperado.
+778,55,Manutenção,2024-12-31,6296.4,4,Serviço dentro do prazo.
+779,437,Revisão,2024-12-31,4047.73,4,Serviço dentro do prazo.
+780,981,Reparo,2024-12-31,23906.39,4,"Tudo certo, sem problemas."
+781,426,Personalização,2024-12-17,46011.53,5,Serviço realizado conforme esperado.
+782,303,Personalização,2024-12-31,63150.1,4,Serviço dentro do prazo.
+783,862,Personalização,2024-07-14,40231.36,4,Cliente elogiou a agilidade.
+784,1078,Reparo,2024-12-31,16829.37,5,Atendimento impecável.
+785,1480,Garantia,2024-12-17,216.62,5,"Tudo certo, sem problemas."
+786,712,Manutenção,2024-10-19,14999.31,5,Serviço de excelência.
+787,668,Personalização,2024-12-31,50952.79,5,"Tudo certo, sem problemas."
+788,1151,Reparo,2023-12-07,21744.66,5,Serviço realizado conforme esperado.
+789,827,Garantia,2024-12-31,1225.01,4,Cliente satisfeito com o atendimento.
+790,686,Reparo,2024-12-31,18709.67,2,Atendimento impecável.
+791,1230,Reparo,2024-12-31,6394.41,5,Atendimento impecável.
+792,57,Garantia,2024-09-03,3776.69,4,Cliente satisfeito com o atendimento.
+793,189,Garantia,2024-06-12,3760.93,5,Cliente satisfeito com o atendimento.
+794,1130,Revisão,2024-12-31,4707.92,4,Serviço dentro do prazo.
+795,647,Manutenção,2024-08-16,13738.71,2,"Tudo certo, sem problemas."
+796,362,Personalização,2024-09-29,35068.77,5,Atendimento impecável.
+797,934,Reparo,2024-12-31,39772.27,5,"Tudo certo, sem problemas."
+798,462,Manutenção,2024-11-17,12465.35,3,Serviço realizado conforme esperado.
+799,60,Reparo,2024-11-02,12810.39,5,Cliente elogiou a agilidade.
+800,1223,Garantia,2024-12-31,3806.02,4,Cliente elogiou a agilidade.

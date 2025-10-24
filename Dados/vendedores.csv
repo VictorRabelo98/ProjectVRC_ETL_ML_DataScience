@@ -1,0 +1,16 @@
+vendedor_id,nome,email,data_contratacao,comissao_percentual,regiao_atuacao,ativo
+1,Allana Ferreira,leandrogoncalves@example.org,2022-06-16,3.95,Sul,True
+2,Maya Mendonça,isis27@example.org,2020-08-25,3.07,Nordeste,True
+3,Lucas Gabriel Souza,isabelasampaio@example.com,2022-11-16,4.89,Sudeste,True
+4,Ana Luiza Caldeira,sofiaferreira@example.com,2020-01-19,4.81,Sul,True
+5,Daniela Montenegro,bryan21@example.com,2021-07-11,4.54,Centro-Oeste,True
+6,Sr. Joaquim Almeida,vmarques@example.com,2020-08-25,4.76,Nordeste,True
+7,Cecilia Borges,helenacirino@example.com,2023-08-30,3.35,Centro-Oeste,True
+8,Henrique Pereira,isabella78@example.com,2020-12-16,3.61,Sul,True
+9,Miguel Abreu,nnovais@example.org,2021-04-23,4.23,Nordeste,True
+10,Manuela Barros,pereiramirella@example.org,2020-05-29,4.09,Norte,True
+11,Rafaela Freitas,davi-miguel29@example.net,2023-12-09,4.67,Nordeste,True
+12,Sra. Letícia Brito,lucas53@example.net,2021-03-03,4.15,Norte,True
+13,Paulo da Mota,raquelteixeira@example.net,2020-09-15,4.99,Nordeste,True
+14,Valentim Vasconcelos,maria-laura47@example.com,2024-02-20,3.05,Nordeste,True
+15,Marcela Garcia,brayan70@example.com,2023-06-01,4.5,Centro-Oeste,True
